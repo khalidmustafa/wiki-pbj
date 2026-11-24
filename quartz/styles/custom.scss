@@ -39,7 +39,8 @@
   }
 }
 
-// Halaman Regulasi sudah memuat daftar per hierarki peraturan; daftar otomatis folder tidak ditampilkan.
-body[data-slug="regulasi/index"] .page-listing {
+// Halaman Regulasi (per hierarki) dan Tanya jawab (per kategori) sudah memuat daftar sendiri; daftar otomatis folder tidak ditampilkan.
+body[data-slug="regulasi/index"] .page-listing,
+body[data-slug="tanya-jawab/index"] .page-listing {
   display: none;
 }
