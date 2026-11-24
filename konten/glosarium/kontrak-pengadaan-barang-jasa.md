@@ -16,3 +16,9 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 44](../kutipan/KUT-0768.md). Berlaku: ru
 > Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan Penyedia atau pelaksana swakelola.
 
 Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 23](../kutipan/KUT-0798.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+
+### PMK 62/2023 jo. PMK 107/2024, Pasal 1 angka 117
+
+> Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan Penyedia Barang/Jasa atau pelaksana Swakelola.
+
+Sumber: [PMK 107/2024, Pasal 1 angka 117](../kutipan/KUT-1229.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

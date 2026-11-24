@@ -29,3 +29,4 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [Lampiran angka 4.1.2 huruf q angka 1 5](../kutipan/KUT-0559.md)
 - [Lampiran angka 4.6](../kutipan/KUT-0553.md)
 - [Lampiran angka 5.2.10](../kutipan/KUT-0554.md)
+- [Pasal 1 angka 7](../kutipan/KUT-1263.md)

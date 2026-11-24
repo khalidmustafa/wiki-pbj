@@ -32,3 +32,4 @@ tanggal_cek: '2026-10-24'
 - [Lampiran BAB V huruf P angka 1 huruf e g](../kutipan/KUT-0607.md)
 - [Lampiran BAB VI huruf D angka 1 huruf d g j](../kutipan/KUT-0543.md)
 - [Lampiran BAB VI huruf E huruf c e](../kutipan/KUT-0471.md)
+- [Pasal 1 angka 1](../kutipan/KUT-1115.md)
