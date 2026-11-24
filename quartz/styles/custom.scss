@@ -1,3 +1,40 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Kotak info artikel ensiklopedia (callout [!infobox] yang disusun skrip ekspor KMP).
+.callout[data-callout="infobox"] {
+  --color: var(--secondary);
+  --border: var(--lightgray);
+  --bg: var(--highlight);
+  font-size: 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+
+  .callout-title {
+    justify-content: center;
+    font-weight: 700;
+    .callout-icon {
+      display: none;
+    }
+  }
+
+  .callout-content p,
+  .callout-content ul {
+    margin: 0.3rem 0;
+  }
+
+  @media all and (min-width: 1200px) {
+    float: right;
+    width: 18rem;
+    margin: 0 0 1rem 1.5rem;
+  }
+}
+
+// Rujukan bernomor: judul "Footnotes" bawaan disembunyikan karena artikel sudah memakai judul "Rujukan".
+.footnotes {
+  font-size: 0.9rem;
+  #footnote-label {
+    display: none;
+  }
+}

@@ -2,24 +2,25 @@
 title: Wiki PBJ
 ---
 
-Wiki PBJ adalah rujukan terbuka tentang pengadaan barang/jasa pemerintah yang dikelola KMP. Isinya disusun dari arsip regulasi KMP dan diterbitkan hanya setelah lolos reviu.
+**Wiki PBJ** adalah ensiklopedia terbuka tentang pengadaan barang/jasa pemerintah di Indonesia, dikelola KMP. Setiap artikel menjelaskan satu konsep, bersumber dari naskah resmi peraturan, dan ditayangkan setelah lolos reviu redaksi.
 
-## Isi
+## Mulai menjelajah
 
-- [Regulasi](./regulasi/): data peraturan, yaitu judul, nomor, tahun, status hukum, tanggal cek, dan tautan ke naskah resmi.
-- [Kutipan pasal](./kutipan/): bunyi pasal atau butir lampiran peraturan, disertai status hukum peraturannya.
-- [Tanya jawab](./tanya-jawab/): jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawabannya.
+- **[Artikel](./artikel/)**: indeks A–Z artikel, satu konsep per artikel, lengkap dengan kotak info, dasar hukum, riwayat pengaturan, dan rujukan bernomor.
+- **[Kategori](./kategori/)**: artikel dikelompokkan menurut tahapan dan pokok bahasan, misalnya Pelaku PBJ, Pemilihan Penyedia, dan Kontrak.
+- **[Glosarium](./glosarium/)**: istilah dan singkatan PBJ dari A sampai Z, dengan definisi menurut masing-masing peraturan.
+- **[Sejarah](./kategori/sejarah)**: sejarah pengadaan dan linimasa regulasi PBJ dari masa ke masa.
 
-Gunakan kolom pencarian di bagian atas untuk mencari nomor peraturan, pasal, atau istilah.
+Gunakan kolom pencarian untuk mencari istilah, nomor peraturan, atau pasal.
 
-## Cara membaca
+## Sumber primer
 
-- Setiap halaman regulasi dan kutipan menampilkan status hukum dan tanggal terakhir dicek.
-- Setiap jawaban menyebut tanggal acuan regulasi yang dipakai. Peraturan yang terbit sesudah tanggal itu belum diperhitungkan.
-- Wiki ini bukan sumber hukum. Baca [Penafian](./penafian).
+Artikel bersandar pada tiga jenis halaman sumber:
 
-## Lisensi
+- [Regulasi](./regulasi/): data peraturan, status hukum, tanggal terakhir dicek, dan tautan ke naskah resmi.
+- [Kutipan pasal](./kutipan/): bunyi pasal yang dikutip verbatim dan menjadi rujukan bernomor dalam artikel.
+- [Tanya jawab](./tanya-jawab/): jawaban atas pertanyaan pelaksanaan pengadaan, yang ditautkan dari bagian Pertanyaan terkait di setiap artikel.
 
-Tulisan karya KMP dilisensikan [CC BY 4.0](./lisensi). Naskah peraturan perundang-undangan tidak dilindungi hak cipta.
+## Tentang wiki ini
 
-Menemukan kekeliruan? [Usulkan perbaikan](./usulkan-perbaikan).
+Wiki ini bukan sumber hukum. Baca [Penafian](./penafian). Tulisan karya KMP dilisensikan [CC BY 4.0](./lisensi). Menemukan kekeliruan? [Usulkan perbaikan](./usulkan-perbaikan).
