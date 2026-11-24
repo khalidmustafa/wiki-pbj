@@ -9,19 +9,19 @@ id: GLO-0003
 
 > Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran Kementerian Negara/Lembaga/Perangkat Daerah.
 
-Sumber: [KUT-0730](../kutipan/KUT-0730.md). Berlaku: rumusan menurut Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md). Berlaku: rumusan menurut Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### PP 12/2019, Pasal 1 angka 68
 
 > Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran untuk melaksanakan tugas dan fungsi SKPD yang dipimpinnya.
 
-Sumber: [KUT-0574](../kutipan/KUT-0574.md). Berlaku dalam pengelolaan keuangan daerah.
+Sumber: [PP 12/2019, Pasal 1 angka 68 Pasal 4 ayat 3 dan 6](../kutipan/KUT-0574.md). Berlaku dalam pengelolaan keuangan daerah.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 13
 
 > Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran Kementerian Negara/Lembaga/Perangkat Daerah.
 
-Sumber: [KUT-0789](../kutipan/KUT-0789.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 13](../kutipan/KUT-0789.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
 
 Artikel: [Pengguna Anggaran dan Kuasa Pengguna Anggaran](../artikel/pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 

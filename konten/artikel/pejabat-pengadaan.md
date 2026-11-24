@@ -32,13 +32,13 @@ Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan 
 
 ## Dasar hukum
 
-- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0001](../regulasi/REG-0001.md), [REG-0003](../regulasi/REG-0003.md)): Pasal 1 angka 13, Pasal 7 ayat (2), Pasal 9 ayat (1) huruf h, Pasal 12, Pasal 38, Pasal 41, Pasal 74A, Pasal 74B, dan Pasal 82.
-- Peraturan LKPP Nomor 3 Tahun 2026 ([REG-0011](../regulasi/REG-0011.md)): Lampiran I Bab I dan angka 5.3.3; Lampiran II angka 5.2 dan angka 5.3.3.
-- Peraturan LKPP Nomor 7 Tahun 2021 tentang Sumber Daya Manusia Pengadaan Barang/Jasa ([REG-0077](../regulasi/REG-0077.md)): Lampiran I Bab IV.
+- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([Perpres 16/2018](../regulasi/perpres-16-2018.md), [Perpres 46/2025](../regulasi/perpres-46-2025.md)): Pasal 1 angka 13, Pasal 7 ayat (2), Pasal 9 ayat (1) huruf h, Pasal 12, Pasal 38, Pasal 41, Pasal 74A, Pasal 74B, dan Pasal 82.
+- Peraturan LKPP Nomor 3 Tahun 2026 ([lihat peraturan](../regulasi/peraturan-lkpp-3-2026.md)): Lampiran I Bab I dan angka 5.3.3; Lampiran II angka 5.2 dan angka 5.3.3.
+- Peraturan LKPP Nomor 7 Tahun 2021 tentang Sumber Daya Manusia Pengadaan Barang/Jasa ([lihat peraturan](../regulasi/peraturan-lkpp-7-2021.md)): Lampiran I Bab IV.
 
 ## Riwayat pengaturan
 
-Peraturan Presiden Nomor 54 Tahun 2010 ([REG-0144](../regulasi/REG-0144.md)) mendefinisikan Pejabat Pengadaan sebagai "personil yang memiliki Sertifikat Keahlian Pengadaan Barang/Jasa yang melaksanakan Pengadaan Barang/Jasa".[^4] Peraturan Presiden Nomor 16 Tahun 2018 ([REG-0001](../regulasi/REG-0001.md)) merumuskan Pejabat Pengadaan berdasarkan metode yang dilaksanakannya, yaitu Pengadaan Langsung, Penunjukan Langsung, dan/atau E-purchasing. Rumusan itu tidak berubah setelah perubahan dengan Peraturan Presiden Nomor 12 Tahun 2021 ([REG-0002](../regulasi/REG-0002.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0003](../regulasi/REG-0003.md)).[^1]
+Peraturan Presiden Nomor 54 Tahun 2010 ([lihat peraturan](../regulasi/perpres-54-2010.md)) mendefinisikan Pejabat Pengadaan sebagai "personil yang memiliki Sertifikat Keahlian Pengadaan Barang/Jasa yang melaksanakan Pengadaan Barang/Jasa".[^4] Peraturan Presiden Nomor 16 Tahun 2018 ([lihat peraturan](../regulasi/perpres-16-2018.md)) merumuskan Pejabat Pengadaan berdasarkan metode yang dilaksanakannya, yaitu Pengadaan Langsung, Penunjukan Langsung, dan/atau E-purchasing. Rumusan itu tidak berubah setelah perubahan dengan Peraturan Presiden Nomor 12 Tahun 2021 ([lihat peraturan](../regulasi/perpres-12-2021.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([lihat peraturan](../regulasi/perpres-46-2025.md)).[^1]
 
 ## Ketentuan pokok
 
@@ -98,21 +98,21 @@ Pejabat Pengadaan yang memproses Pengadaan Langsung saat dinas luar kota dibahas
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 13 ([KUT-0733](../kutipan/KUT-0733.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf h ([KUT-0615](../kutipan/KUT-0615.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 12 ([KUT-0431](../kutipan/KUT-0431.md)).
-[^4]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 1 angka 9 ([REG-0144](../regulasi/REG-0144.md); naskah JDIH Kemenkeu).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([KUT-0535](../kutipan/KUT-0535.md)).
-[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (10) ([KUT-0313](../kutipan/KUT-0313.md)).
-[^7]: Peraturan LKPP Nomor 7 Tahun 2021, Lampiran I Bab IV huruf B huruf b dan huruf C angka 2 ([KUT-0603](../kutipan/KUT-0603.md)).
-[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ayat (2) huruf b dan ayat (3) ([KUT-0616](../kutipan/KUT-0616.md)).
-[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (3) ([KUT-0388](../kutipan/KUT-0388.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (3) ([KUT-0582](../kutipan/KUT-0582.md)).
-[^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.2 ([KUT-0381](../kutipan/KUT-0381.md)).
-[^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.3.3 huruf a ([KUT-0432](../kutipan/KUT-0432.md)).
-[^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.3.3 huruf a dan huruf g ([KUT-0546](../kutipan/KUT-0546.md)).
-[^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I Bab I Pendahuluan ([KUT-0347](../kutipan/KUT-0347.md)).
-[^15]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf d dan huruf e ([KUT-0312](../kutipan/KUT-0312.md)).
-[^16]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 82 ayat (1) dan ayat (2) ([KUT-0073](../kutipan/KUT-0073.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 13 ([Perpres 46/2025, Pasal 1 angka 13](../kutipan/KUT-0733.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf h ([Perpres 46/2025, Pasal 9 ayat 1 huruf h](../kutipan/KUT-0615.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 12 ([Perpres 46/2025, Pasal 12](../kutipan/KUT-0431.md)).
+[^4]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 1 angka 9 ([Perpres 54/2010](../regulasi/perpres-54-2010.md); naskah JDIH Kemenkeu).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (10) ([Perpres 46/2025, Pasal 74A ayat 8 dan 10](../kutipan/KUT-0313.md)).
+[^7]: Peraturan LKPP Nomor 7 Tahun 2021, Lampiran I Bab IV huruf B huruf b dan huruf C angka 2 ([Peraturan LKPP 7/2021, Lampiran I BAB IV huruf B huruf b huruf C angka 2 huruf D](../kutipan/KUT-0603.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ayat (2) huruf b dan ayat (3) ([Perpres 46/2025, Pasal 74B ayat 2 huruf b dan ayat 3](../kutipan/KUT-0616.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (3) ([Perpres 46/2025, Pasal 38 ayat 3 dan 8](../kutipan/KUT-0388.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (3) ([Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)).
+[^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.2 ([Peraturan LKPP 3/2026, Lampiran II angka 5.2 paragraf pelaksana](../kutipan/KUT-0381.md)).
+[^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.3.3 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 5.3.3 huruf a](../kutipan/KUT-0432.md)).
+[^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.3.3 huruf a dan huruf g ([Peraturan LKPP 3/2026, Lampiran II angka 5.3.3 huruf a g](../kutipan/KUT-0546.md)).
+[^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I Bab I Pendahuluan ([Peraturan LKPP 3/2026, Lampiran I Bab I Pendahuluan tim teknis tim ahli tim pendukung](../kutipan/KUT-0347.md)).
+[^15]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf d dan huruf e ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^16]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 82 ayat (1) dan ayat (2) ([Perpres 16/2018, Pasal 82 ayat 1 2](../kutipan/KUT-0073.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-24. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -35,12 +35,12 @@ Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan 
 
 ## Dasar hukum
 
-- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0001](../regulasi/REG-0001.md), [REG-0003](../regulasi/REG-0003.md)): Pasal 1 angka 12, Pasal 9 ayat (1) huruf n, Pasal 13, Pasal 74A, dan Pasal 82.
-- Peraturan LKPP Nomor 3 Tahun 2026 tentang Pedoman Persiapan dan Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia ([REG-0011](../regulasi/REG-0011.md)): Pasal 1 angka 19 dan Lampiran I angka III dan angka 4.2.11.
+- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([Perpres 16/2018](../regulasi/perpres-16-2018.md), [Perpres 46/2025](../regulasi/perpres-46-2025.md)): Pasal 1 angka 12, Pasal 9 ayat (1) huruf n, Pasal 13, Pasal 74A, dan Pasal 82.
+- Peraturan LKPP Nomor 3 Tahun 2026 tentang Pedoman Persiapan dan Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia ([lihat peraturan](../regulasi/peraturan-lkpp-3-2026.md)): Pasal 1 angka 19 dan Lampiran I angka III dan angka 4.2.11.
 
 ## Riwayat pengaturan
 
-Pokja Pemilihan diatur dalam Peraturan Presiden Nomor 16 Tahun 2018, yang berlaku sejak 22 Maret 2018 ([REG-0001](../regulasi/REG-0001.md)) dan telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021 ([REG-0002](../regulasi/REG-0002.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0003](../regulasi/REG-0003.md)). Pedoman pelaksanaannya semula diatur dalam Peraturan LKPP Nomor 12 Tahun 2021 ([REG-0009](../regulasi/REG-0009.md)), yang tidak berlaku lagi sejak 22 September 2026 dan digantikan Peraturan LKPP Nomor 3 Tahun 2026 ([REG-0011](../regulasi/REG-0011.md)).
+Pokja Pemilihan diatur dalam Peraturan Presiden Nomor 16 Tahun 2018, yang berlaku sejak 22 Maret 2018 ([lihat peraturan](../regulasi/perpres-16-2018.md)) dan telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021 ([lihat peraturan](../regulasi/perpres-12-2021.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([lihat peraturan](../regulasi/perpres-46-2025.md)). Pedoman pelaksanaannya semula diatur dalam Peraturan LKPP Nomor 12 Tahun 2021 ([lihat peraturan](../regulasi/peraturan-lkpp-12-2021.md)), yang tidak berlaku lagi sejak 22 September 2026 dan digantikan Peraturan LKPP Nomor 3 Tahun 2026 ([lihat peraturan](../regulasi/peraturan-lkpp-3-2026.md)).
 
 ## Ketentuan pokok
 
@@ -94,15 +94,15 @@ Pengelola Pengadaan Barang/Jasa dapat ditugaskan sebagai Pejabat Pengadaan dan/a
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 12 ([KUT-0067](../kutipan/KUT-0067.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf a, ayat (2), dan ayat (3) ([KUT-0068](../kutipan/KUT-0068.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf c ([KUT-0212](../kutipan/KUT-0212.md)).
-[^4]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 19 ([KUT-0069](../kutipan/KUT-0069.md)).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (2) dan ayat (3) ([KUT-0535](../kutipan/KUT-0535.md)).
-[^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III ([KUT-0047](../kutipan/KUT-0047.md)).
-[^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III, paragraf penetapan Pokja ([KUT-0070](../kutipan/KUT-0070.md)).
-[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf n ([KUT-0211](../kutipan/KUT-0211.md)).
-[^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.11 huruf e dan huruf g ([KUT-0213](../kutipan/KUT-0213.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 82 ayat (1) dan ayat (2) ([KUT-0073](../kutipan/KUT-0073.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 12 ([Perpres 16/2018, Pasal 1 angka 12](../kutipan/KUT-0067.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf a, ayat (2), dan ayat (3) ([Perpres 16/2018, Pasal 13 ayat 1 huruf a ayat 2 3](../kutipan/KUT-0068.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf c ([Perpres 16/2018, Pasal 13 ayat 1 huruf c](../kutipan/KUT-0212.md)).
+[^4]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 19 ([Peraturan LKPP 3/2026, Pasal 1 angka 19](../kutipan/KUT-0069.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (2) dan ayat (3) ([Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
+[^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III ([Peraturan LKPP 3/2026, Lampiran I angka III paragraf 1 huruf a](../kutipan/KUT-0047.md)).
+[^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III, paragraf penetapan Pokja ([Peraturan LKPP 3/2026, Lampiran I angka III paragraf penetapan Pokja](../kutipan/KUT-0070.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf n ([Perpres 16/2018, Pasal 9 ayat 1 huruf n](../kutipan/KUT-0211.md)).
+[^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.11 huruf e dan huruf g ([Peraturan LKPP 3/2026, Lampiran I 4.2.11 huruf a d e g](../kutipan/KUT-0213.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 82 ayat (1) dan ayat (2) ([Perpres 16/2018, Pasal 82 ayat 1 2](../kutipan/KUT-0073.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-24. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

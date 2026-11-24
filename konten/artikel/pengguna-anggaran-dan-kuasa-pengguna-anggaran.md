@@ -37,14 +37,14 @@ Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan 
 
 ## Dasar hukum
 
-- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0001](../regulasi/REG-0001.md), [REG-0003](../regulasi/REG-0003.md)): Pasal 1 angka 7 sampai dengan angka 9, Pasal 8, Pasal 9, Pasal 10, Pasal 58, dan Pasal 74A ayat (3).
-- Peraturan LKPP Nomor 3 Tahun 2026 ([REG-0011](../regulasi/REG-0011.md)): Lampiran I angka I.
-- Untuk pemerintah daerah: Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah ([REG-0040](../regulasi/REG-0040.md)): Pasal 1 angka 68, Pasal 4, dan Pasal 11.
-- Untuk satuan kerja pengelola APBN: Peraturan Menteri Keuangan Nomor 62 Tahun 2023 sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41 Tahun 2026 ([REG-0124](../regulasi/REG-0124.md), [REG-0059](../regulasi/REG-0059.md)): Pasal 183.
+- Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah, sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025 ([Perpres 16/2018](../regulasi/perpres-16-2018.md), [Perpres 46/2025](../regulasi/perpres-46-2025.md)): Pasal 1 angka 7 sampai dengan angka 9, Pasal 8, Pasal 9, Pasal 10, Pasal 58, dan Pasal 74A ayat (3).
+- Peraturan LKPP Nomor 3 Tahun 2026 ([lihat peraturan](../regulasi/peraturan-lkpp-3-2026.md)): Lampiran I angka I.
+- Untuk pemerintah daerah: Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah ([lihat peraturan](../regulasi/pp-12-2019.md)): Pasal 1 angka 68, Pasal 4, dan Pasal 11.
+- Untuk satuan kerja pengelola APBN: Peraturan Menteri Keuangan Nomor 62 Tahun 2023 sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41 Tahun 2026 ([PMK 62/2023](../regulasi/pmk-62-2023.md), [PMK 41/2026](../regulasi/pmk-41-2026.md)): Pasal 183.
 
 ## Riwayat pengaturan
 
-Peraturan Presiden Nomor 16 Tahun 2018 ([REG-0001](../regulasi/REG-0001.md)) mengatur PA dan KPA sebagai pelaku pengadaan. Peraturan itu telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021 ([REG-0002](../regulasi/REG-0002.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([REG-0003](../regulasi/REG-0003.md)). Rumusan Pasal 9 dan Pasal 10 yang dikutip dalam artikel ini adalah bunyi setelah perubahan dengan Peraturan Presiden Nomor 46 Tahun 2025.[^2][^3]
+Peraturan Presiden Nomor 16 Tahun 2018 ([lihat peraturan](../regulasi/perpres-16-2018.md)) mengatur PA dan KPA sebagai pelaku pengadaan. Peraturan itu telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021 ([lihat peraturan](../regulasi/perpres-12-2021.md)) dan Peraturan Presiden Nomor 46 Tahun 2025 ([lihat peraturan](../regulasi/perpres-46-2025.md)). Rumusan Pasal 9 dan Pasal 10 yang dikutip dalam artikel ini adalah bunyi setelah perubahan dengan Peraturan Presiden Nomor 46 Tahun 2025.[^2][^3]
 
 ## Ketentuan pokok
 
@@ -121,13 +121,13 @@ Dasar PA/KPA melaksanakan tugas PPK dan syarat pengetahuan bagi KPA dibahas dala
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 7, angka 8, dan angka 9 ([KUT-0730](../kutipan/KUT-0730.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([KUT-0731](../kutipan/KUT-0731.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ([KUT-0732](../kutipan/KUT-0732.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 8 dan Pasal 58 ([KUT-0587](../kutipan/KUT-0587.md)).
-[^5]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 1 angka 68, Pasal 4 ayat (4) huruf c, dan Pasal 11 ayat (1) sampai dengan ayat (3) ([KUT-0574](../kutipan/KUT-0574.md), [KUT-0419](../kutipan/KUT-0419.md)).
-[^6]: Peraturan Menteri Keuangan Nomor 62 Tahun 2023 sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41 Tahun 2026, Pasal 183 ayat (1) dan ayat (1a) ([KUT-0605](../kutipan/KUT-0605.md)).
-[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([KUT-0535](../kutipan/KUT-0535.md)).
-[^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka I, paragraf tidak ada penetapan PPK ([KUT-0014](../kutipan/KUT-0014.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 7, angka 8, dan angka 9 ([Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ([Perpres 46/2025, Pasal 10](../kutipan/KUT-0732.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 8 dan Pasal 58 ([Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
+[^5]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 1 angka 68, Pasal 4 ayat (4) huruf c, dan Pasal 11 ayat (1) sampai dengan ayat (3) ([PP 12/2019, Pasal 1 angka 68 Pasal 4 ayat 3 dan 6](../kutipan/KUT-0574.md), [PP 12/2019, Pasal 1 angka 67 Pasal 4 ayat 4 huruf c Pasal 11 ayat 1 3](../kutipan/KUT-0419.md)).
+[^6]: Peraturan Menteri Keuangan Nomor 62 Tahun 2023 sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41 Tahun 2026, Pasal 183 ayat (1) dan ayat (1a) ([PMK 41/2026, Pasal I angka 1 Pasal 1 angka 108 115 dan angka 29 Pasal 183](../kutipan/KUT-0605.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
+[^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka I, paragraf tidak ada penetapan PPK ([Peraturan LKPP 3/2026, Lampiran I angka I paragraf tidak ada penetapan PPK](../kutipan/KUT-0014.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-24. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

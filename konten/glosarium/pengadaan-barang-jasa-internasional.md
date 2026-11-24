@@ -9,4 +9,4 @@ id: GLO-0043
 
 > Pengadaan Barang/Jasa Internasional adalah Pengadaan Barang/Jasa yang dibiayai oleh APBN/APBD termasuk yang sumber pendanaannya baik sebagian atau seluruhnya melalui pinjaman luar negeri/hibah luar negeri yang terbuka bagi Pelaku Usaha nasional dan Pelaku Usaha asing.
 
-Sumber: [KUT-0761](../kutipan/KUT-0761.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 46/2025, Pasal 1 angka 38](../kutipan/KUT-0761.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
