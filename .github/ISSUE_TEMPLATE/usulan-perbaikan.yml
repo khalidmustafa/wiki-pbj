@@ -1,0 +1,42 @@
+name: Usulan perbaikan
+description: Usulkan perbaikan isi Wiki PBJ
+title: "[Usulan] "
+labels: ["usulan-perbaikan"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Usulan dapat dibaca publik. Jangan mencantumkan data pribadi atau informasi paket pengadaan tertentu.
+  - type: input
+    id: halaman
+    attributes:
+      label: Alamat halaman
+      description: Contoh https://wiki.pengadaan.id/tanya-jawab/tj-0008
+    validations:
+      required: true
+  - type: textarea
+    id: keliru
+    attributes:
+      label: Bagian yang keliru
+    validations:
+      required: true
+  - type: textarea
+    id: usulan
+    attributes:
+      label: Perbaikan yang diusulkan
+    validations:
+      required: true
+  - type: textarea
+    id: dasar
+    attributes:
+      label: Dasar usulan
+      description: Sebaiknya tautan ke naskah resmi peraturan (misalnya JDIH) beserta pasal atau butirnya.
+    validations:
+      required: true
+  - type: checkboxes
+    id: lisensi
+    attributes:
+      label: Lisensi
+      options:
+        - label: Saya setuju tulisan dalam usulan ini dapat dipakai dalam Wiki PBJ dengan lisensi CC BY 4.0.
+          required: true
