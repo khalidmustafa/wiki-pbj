@@ -19,3 +19,27 @@ tanggal_cek: '2026-11-19'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Pasal 1 angka 1](../kutipan/KUT-0985.md)
+- [Pasal 1 angka 2](../kutipan/KUT-0923.md)
+- [Pasal 1 angka 3](../kutipan/KUT-0986.md)
+- [Pasal 1 angka 4](../kutipan/KUT-0920.md)
+- [Pasal 1 angka 5](../kutipan/KUT-0987.md)
+- [Pasal 1 angka 6](../kutipan/KUT-0988.md)
+- [Pasal 1 angka 7](../kutipan/KUT-0989.md)
+- [Pasal 1 angka 8](../kutipan/KUT-0990.md)
+- [Pasal 1 angka 9](../kutipan/KUT-0991.md)
+- [Pasal 1 angka 10](../kutipan/KUT-0992.md)
+- [Pasal 1 angka 11](../kutipan/KUT-0993.md)
+- [Pasal 1 angka 12](../kutipan/KUT-0994.md)
+- [Pasal 1 angka 13](../kutipan/KUT-0995.md)
+- [Pasal 1 angka 14](../kutipan/KUT-0996.md)
+- [Pasal 1 angka 15](../kutipan/KUT-0940.md)
+- [Pasal 1 angka 16](../kutipan/KUT-0997.md)
+- [Pasal 1 angka 17](../kutipan/KUT-0998.md)
+- [Pasal 1 angka 18](../kutipan/KUT-0999.md)
+- [Pasal 1 angka 19](../kutipan/KUT-1000.md)
+- [Pasal 1 angka 20](../kutipan/KUT-0955.md)
+- [Pasal 1 angka 21](../kutipan/KUT-1001.md)

@@ -16,3 +16,9 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 3](../kutipan/KUT-0735.md). Berlaku: rum
 > Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanakan tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
 
 Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 3](../kutipan/KUT-0779.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+
+### Peraturan LKPP 2/2026, Pasal 1 angka 4
+
+> Lembaga adalah organisasi non-Kementerian Negara dan instansi lain pengguna anggaran yang dibentuk untuk melaksanakan tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.
+
+Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 4](../kutipan/KUT-0915.md). Berlaku: sejak 2026-09-01 s.d. sekarang.

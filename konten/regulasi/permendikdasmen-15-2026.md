@@ -22,6 +22,11 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 ## Kutipan pasal
 
 - [Pasal 1 angka 1](../kutipan/KUT-0444.md)
+- [Pasal 1 angka 1](../kutipan/KUT-1034.md)
+- [Pasal 1 angka 2](../kutipan/KUT-1035.md)
+- [Pasal 1 angka 3](../kutipan/KUT-1036.md)
+- [Pasal 1 angka 4](../kutipan/KUT-1037.md)
+- [Pasal 1 angka 5](../kutipan/KUT-1038.md)
 - [Pasal 4](../kutipan/KUT-0445.md)
 - [Pasal 11](../kutipan/KUT-0446.md)
 - [Pasal 12](../kutipan/KUT-0447.md)

@@ -16,3 +16,9 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 2](../kutipan/KUT-0734.md). Berlaku: rum
 > Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.
 
 Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 2](../kutipan/KUT-0778.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+
+### Peraturan LKPP 2/2026, Pasal 1 angka 3
+
+> Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.
+
+Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 3](../kutipan/KUT-0914.md). Berlaku: sejak 2026-09-01 s.d. sekarang.

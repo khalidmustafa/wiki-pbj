@@ -2,4 +2,49 @@
 title: 'Kategori: Pembayaran dan Jaminan'
 ---
 
+## Artikel
+
 Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+
+## Tanya jawab
+
+- [Apa yang dibahas dalam rapat persiapan (PCM) dan apa inti RMPK](../tanya-jawab/TJ-0021.md)
+- [Apakah jaminan pelaksanaan wajib diterbitkan bank atau boleh dari perusahaan asuransi](../tanya-jawab/TJ-0025.md)
+- [Apakah jaminan penawaran wajib diterbitkan oleh bank](../tanya-jawab/TJ-0256.md)
+- [Apakah PPK dapat disalahkan bila laporan konsultan pengawas tidak tepat](../tanya-jawab/TJ-0261.md)
+- [Apakah surat pernyataan wanprestasi dikenal dalam Kontrak PBJ Pemerintah, dan apa kedudukannya terhadap pemutusan Kontrak, pengembalian uang muka, dan klaim jaminan](../tanya-jawab/TJ-0472.md)
+- [Bangunan pasar selesai dan PHO sudah diajukan, lalu habis terbakar sebelum diperiksa PPK: bisakah dibayar 100%](../tanya-jawab/TJ-0337.md)
+- [Besaran dan syarat uang muka, termasuk pengadaan barang melalui e-purchasing](../tanya-jawab/TJ-0312.md)
+- [Biaya non personel konsultan dapat diminta dikembalikan meski sesuai KAK/BoQ](../tanya-jawab/TJ-0216.md)
+- [Bolehkah jaminan pelaksanaan diterbitkan perusahaan asuransi di luar daerah domisili Penyedia](../tanya-jawab/TJ-0295.md)
+- [Bolehkah uang muka dicairkan bersamaan dengan pembayaran termin 1](../tanya-jawab/TJ-0029.md)
+- [Dasar aturan uang muka pekerjaan konstruksi pada Pemda DKI dan dokumen pertanggungjawaban pembayarannya](../tanya-jawab/TJ-0333.md)
+- [E-purchasing sudah BAST di sistem, tetapi saat menyusun SPJ ternyata spesifikasi dan harga satuan barang tidak sesuai DPA: dapatkah dibatalkan atau diubah](../tanya-jawab/TJ-0450.md)
+- [HPS tidak menjadi dasar perhitungan kerugian negara, tetapi mengapa jaminan penawaran dan jaminan sanggah banding dihitung dari HPS; berlaku untuk APBN atau APBD](../tanya-jawab/TJ-0477.md)
+- [Jalan rigid beton 2025: pekerjaan tidak dikerjakan di ruas yang tayang (276 m), penyedia mengklaim ruas lain usulan kades (451 m) sebagai pekerjaan Kontrak tanpa adendum](../tanya-jawab/TJ-0536.md)
+- [Jaminan pelaksanaan terbit terlambat sehingga jadwal melewati waktu pelaksanaan dan tahun anggaran: apakah tanggal Kontrak mengikuti tanggal terbit jaminan atau tanggal mulai penjaminan sesuai SPPBJ](../tanya-jawab/TJ-0491.md)
+- [Jaminan uang muka berupa asuransi yang disediakan PPK/PA, penyedia hanya menandatangani sertifikat](../tanya-jawab/TJ-0250.md)
+- [Konsultan perencana sudah selesai dan dibayar sesuai Kontrak, lalu pekerjaan fisik batal karena efisiensi anggaran dan PPK meminta pembayaran dikembalikan: apakah sesuai](../tanya-jawab/TJ-0431.md)
+- [Lahan pengganti cetak sawah dengan vegetasi lebih berat pada Kontrak lumsum, sudah dikerjakan tanpa MC-0 dan CCO](../tanya-jawab/TJ-0352.md)
+- [Mekanisme pembayaran kepada Penyedia pada APBD](../tanya-jawab/TJ-0096.md)
+- [Mengapa Kontrak lumsum diperiksa berdasarkan volume (harga satuan)](../tanya-jawab/TJ-0436.md)
+- [Pajak atas belanja cabang olahraga dari dana hibah KONI untuk keperluan atlet](../tanya-jawab/TJ-0362.md)
+- [Pekerjaan (candi) sudah diserahterimakan sebagian lalu diperiksa APH dan ditemukan kerugian: dapatkah kerugian itu dipotongkan pada pembayaran akhir](../tanya-jawab/TJ-0515.md)
+- [Pekerjaan tambah atas perintah lisan PPK](../tanya-jawab/TJ-0093.md)
+- [Pembayaran jasa konsultansi perencanaan ditolak karena BAST bertanggal satu hari setelah Kontrak berakhir](../tanya-jawab/TJ-0484.md)
+- [Pembayaran konsultan perencana saat konstruksi dihentikan](../tanya-jawab/TJ-0107.md)
+- [Pembelian barang melalui INAPROC (e-purchasing): barang kurang saat serah terima, tetap dibayar sesuai yang diterima atau ada mekanisme lain](../tanya-jawab/TJ-0537.md)
+- [Pemutusan Kontrak konstruksi karena pekerjaan dialihkan ke pihak lain, permintaan uang muka di luar Kontrak, dan penunjukan pemenang cadangan](../tanya-jawab/TJ-0301.md)
+- [Penawaran jauh di bawah HPS pada tender barang harga terendah: bolehkah Pokja menggugurkan karena mutu produk lain lebih baik](../tanya-jawab/TJ-0271.md)
+- [PPK baru menilai harga Kontrak terlalu tinggi menjelang PHO](../tanya-jawab/TJ-0090.md)
+- [PPK menandatangani dokumen dengan cap "verifikasi" bernama PPK, hanya sebagai verifikasi: bolehkah](../tanya-jawab/TJ-0338.md)
+- [PPK tidak memahami tupoksi, retensi 5% dicairkan kontraktor tanpa pemeliharaan, dan bangunan TA 2025 belum FHO](../tanya-jawab/TJ-0244.md)
+- [Retensi 5% dicairkan tanpa jaminan pemeliharaan, pemeliharaan tidak dilaksanakan, dan FHO belum dilakukan](../tanya-jawab/TJ-0227.md)
+- [Serah terima sebagian dan jaminan pemeliharaannya](../tanya-jawab/TJ-0085.md)
+- [Sewa bus melalui katalog elektronik belum terbayar karena kendala sistem padahal perjalanan sudah dilaksanakan: bagaimana menyusun SPJ](../tanya-jawab/TJ-0516.md)
+- [Siapa yang memverifikasi keaslian jaminan uang muka: bendahara atau PPK](../tanya-jawab/TJ-0259.md)
+- [SPJ e-purchasing ditolak bagian keuangan karena barang yang dibeli tidak sesuai rincian DPA: dasar pergeseran anggaran dan perubahan DPA-SKPD](../tanya-jawab/TJ-0454.md)
+- [SPPBJ terbit Agustus 2026 tetapi dana tidak tersedia: bisakah Kontrak ditandatangani dengan anggaran 2027](../tanya-jawab/TJ-0023.md)
+- [Tanggung jawab bila laporan lapangan konsultan pengawas tidak sesuai kondisi sebenarnya](../tanya-jawab/TJ-0258.md)
+- [Tenaga ahli jasa konsultansi tidak bekerja: pengakuan dokumen dan klaim total loss](../tanya-jawab/TJ-0463.md)
+- [Uang muka 20% dari nilai Kontrak awal ketika Kontrak akan diadendum dan progres volume belum menghasilkan output (lahan siap tanam)](../tanya-jawab/TJ-0469.md)

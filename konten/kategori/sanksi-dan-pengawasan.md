@@ -2,4 +2,52 @@
 title: 'Kategori: Sanksi dan Pengawasan'
 ---
 
+## Artikel
+
 Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+
+## Tanya jawab
+
+- [Apakah adendum perpanjangan waktu satu kesatuan dengan Kontrak, dan apakah berlaku denda keterlambatan](../tanya-jawab/TJ-0306.md)
+- [Apakah adendum yang melewati tahun anggaran tetap tidak dikenai denda](../tanya-jawab/TJ-0321.md)
+- [Apakah APH dapat memproses kontraktor yang tidak melaksanakan pemeliharaan sehingga FHO tidak dilaksanakan](../tanya-jawab/TJ-0246.md)
+- [Apakah PA/KPA harus ikut bertanggung jawab ketika PPK dan pihak kontraktor ditetapkan sebagai tersangka](../tanya-jawab/TJ-0514.md)
+- [Apakah pemberian kesempatan (adendum waktu) cukup didasarkan pada keyakinan PPK bahwa Penyedia mampu menyelesaikan pekerjaan?](../tanya-jawab/TJ-0427.md)
+- [Apakah pemeriksa eksternal seperti BPK berwenang menyatakan HPS terlalu tinggi atau terdapat mark up harga pada HPS](../tanya-jawab/TJ-0493.md)
+- [Apakah surat pernyataan wanprestasi dikenal dalam Kontrak PBJ Pemerintah, dan apa kedudukannya terhadap pemutusan Kontrak, pengembalian uang muka, dan klaim jaminan](../tanya-jawab/TJ-0472.md)
+- [Bangunan konstruksi sudah selesai dan diresmikan tetapi tidak dimanfaatkan (dianggap mangkrak): apakah otomatis pidana](../tanya-jawab/TJ-0357.md)
+- [Barang tidak ada di katalog elektronik: beli di luar katalog atau pinjam bendera](../tanya-jawab/TJ-0341.md)
+- [Batas fungsi pendampingan ahli pengadaan, ahli hukum kontrak, dan APH dalam PBJ](../tanya-jawab/TJ-0293.md)
+- [Bila diberi kompensasi waktu karena bukan kesalahan Penyedia, apakah tetap didenda untuk hari kompensasi tersebut](../tanya-jawab/TJ-0529.md)
+- [Bolehkah adendum mengubah serah terima bagian Kontrak dari 3 bagian menjadi 10 bagian selama masa pelaksanaan](../tanya-jawab/TJ-0290.md)
+- [Contoh bunyi adendum pemberian kesempatan](../tanya-jawab/TJ-0217.md)
+- [Dasar aturan bahwa ketentuan denda keterlambatan tidak dapat diubah melalui adendum setelah Kontrak ditandatangani](../tanya-jawab/TJ-0280.md)
+- [Dasar hukum serah terima pekerjaan sebagian (parsial)](../tanya-jawab/TJ-0218.md)
+- [Denda keterlambatan bila perizinan yang diurus pemberi pekerjaan tidak selesai](../tanya-jawab/TJ-0268.md)
+- [Efisiensi anggaran sebagai keadaan kahar](../tanya-jawab/TJ-0106.md)
+- [Kepala subbagian keuangan sebagai PPTK](../tanya-jawab/TJ-0087.md)
+- [Kontrak tidak ditandatangani PPK: jawaban kepada pemeriksa](../tanya-jawab/TJ-0202.md)
+- [Kontraktor tidak mengembalikan retensi yang sudah dicairkan dan tidak memelihara: apakah FHO tetap ditahan](../tanya-jawab/TJ-0245.md)
+- [Lanjutan tender ulang penawar tunggal: satu perusahaan menang empat paket, tender diulang tiga kali, dan alasan gugur yang tidak seragam](../tanya-jawab/TJ-0433.md)
+- [Lanjutan TJ-0454: bila pekerjaan tetap dibayar tanpa perubahan rincian DPA, apakah akan menjadi temuan saat audit](../tanya-jawab/TJ-0520.md)
+- [Mengapa pengelolaan Dana BOS sering menjadi temuan dan bagaimana mengelolanya sesuai peraturan](../tanya-jawab/TJ-0481.md)
+- [Nasib kontrak konsultan pengawas ketika kontrak konstruksi diputus karena kesalahan penyedia](../tanya-jawab/TJ-0263.md)
+- [Pejabat penatausahaan keuangan SKPD sebagai ketua tim pendukung PPK](../tanya-jawab/TJ-0037.md)
+- [Pekerjaan (candi) sudah diserahterimakan sebagian lalu diperiksa APH dan ditemukan kerugian: dapatkah kerugian itu dipotongkan pada pembayaran akhir](../tanya-jawab/TJ-0515.md)
+- [Pekerjaan tetap tidak selesai setelah kesempatan 50 hari, dan adendum belum dibuat sebelum waktunya lewat](../tanya-jawab/TJ-0022.md)
+- [Pemberian kesempatan pekerjaan konstruksi harus tertulis dalam adendum](../tanya-jawab/TJ-0185.md)
+- [Pemenang menawarkan peralatan dengan surat dukungan pihak A, tetapi di lapangan memakai alat berat milik Pemkab: apa konsekuensinya](../tanya-jawab/TJ-0329.md)
+- [Pemutusan kontrak konstruksi setelah uji coba SCM III gagal](../tanya-jawab/TJ-0193.md)
+- [Perpanjangan masa pelaksanaan yang tidak diajukan Penyedia: perlukah adendum, dan dari kapan denda dihitung](../tanya-jawab/TJ-0255.md)
+- [Perubahan pekerjaan di lapangan hanya disepakati lisan tanpa berita acara dan adendum: bolehkah dan apakah berisiko menjadi temuan](../tanya-jawab/TJ-0485.md)
+- [PPK membuat adendum yang melanggar larangan adendum yang mempengaruhi kompetisi dan disinyalir menguntungkan peserta tertentu: apakah sudah termasuk mens rea](../tanya-jawab/TJ-0503.md)
+- [PPK sudah menandatangani Kontrak dengan Penyedia yang ternyata sudah dikenakan sanksi daftar hitam tetapi terlambat tayang: dapatkah Kontrak diputus dan Penyedia dikenakan daftar hitam lagi bila tidak melaksanakan pekerjaan](../tanya-jawab/TJ-0498.md)
+- [PPK tidak memahami tupoksi, retensi 5% dicairkan kontraktor tanpa pemeliharaan, dan bangunan TA 2025 belum FHO](../tanya-jawab/TJ-0244.md)
+- [PPK/KPA berperan "remang-remang" dan Penyedia dijadikan sapi perah sehingga mutu pekerjaan menjadi korban: petunjuknya](../tanya-jawab/TJ-0324.md)
+- [Repeat order: Penyedia sudah dinilai sangat baik, kemudian audit BPK/Inspektorat menemukan temuan besar](../tanya-jawab/TJ-0335.md)
+- [Retensi 5% dicairkan tanpa jaminan pemeliharaan, pemeliharaan tidak dilaksanakan, dan FHO belum dilakukan](../tanya-jawab/TJ-0227.md)
+- [SBU perusahaan berstatus dicabut di sistem tetapi tetap menang tender dan berkontrak: apakah pelanggaran](../tanya-jawab/TJ-0351.md)
+- [Siapa APH dan APIP, dan apa bedanya di tingkat kabupaten/kota, provinsi, dan pusat](../tanya-jawab/TJ-0313.md)
+- [SPPBJ dibatalkan PPK atas rekomendasi Inspektorat setelah mini kompetisi](../tanya-jawab/TJ-0200.md)
+- [Swakelola tipe II oleh perguruan tinggi negeri: syarat, batas nilai, dan pertanggungjawaban](../tanya-jawab/TJ-0231.md)
+- [Tanggung jawab kekurangan volume cor beton dalam Swakelola](../tanya-jawab/TJ-0069.md)

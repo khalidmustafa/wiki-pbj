@@ -16,3 +16,9 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 5a Pasal 2 huruf a](../kutipan/KUT-0422.
 > Institusi Lainnya adalah institusi yang menggunakan APBN dan/atau APBD selain Kementerian/Lembaga/Pemerintah Daerah/Pemerintah Desa/badan usaha milik negara/badan usaha milik daerah/badan usaha milik desa.
 
 Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 6](../kutipan/KUT-0782.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+
+### Peraturan LKPP 2/2026, Pasal 1 angka 7
+
+> Institusi Lainnya adalah institusi yang menggunakan APBN dan/atau APBD selain Kementerian/Lembaga/Pemerintah Daerah/Pemerintah Desa/badan usaha milik negara/badan usaha milik daerah/badan usaha milik desa.
+
+Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 7](../kutipan/KUT-0918.md). Berlaku: sejak 2026-09-01 s.d. sekarang.

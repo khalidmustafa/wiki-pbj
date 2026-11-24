@@ -17,6 +17,18 @@ Sumber: [Perpres 16/2018, Pasal 1 angka 10](../kutipan/KUT-0006.md). Berlaku: ru
 
 Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 16](../kutipan/KUT-0792.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
 
+### Peraturan LKPP 2/2026, Pasal 1 angka 13
+
+> Pejabat Pembuat Komitmen yang selanjutnya disingkat PPK adalah pejabat yang diberi kewenangan oleh pengguna anggaran/kuasa pengguna anggaran untuk mengambil keputusan dan/atau melakukan tindakan yang dapat mengakibatkan pengeluaran anggaran belanja negara/anggaran belanja daerah.
+
+Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 13](../kutipan/KUT-0927.md). Berlaku: sejak 2026-09-01 s.d. sekarang.
+
+### Peraturan LKPP 7/2021, Pasal 1 angka 17
+
+> Pejabat Pembuat Komitmen yang selanjutnya disingkat PPK adalah pejabat yang diberi kewenangan oleh PA/KPA untuk mengambil keputusan dan/atau melakukan tindakan yang dapat mengakibatkan pengeluaran anggaran belanja negara/anggaran belanja daerah.
+
+Sumber: [Peraturan LKPP 7/2021, Pasal 1 angka 17](../kutipan/KUT-0928.md). Berlaku: sejak 2021-05-06 s.d. sekarang.
+
 ## Catatan
 
 Peraturan Presiden Nomor 54 Tahun 2010 ([Perpres 54/2010](../regulasi/perpres-54-2010.md), sudah dicabut) Pasal 1 angka 7 mendefinisikan PPK sebagai "pejabat yang bertanggung jawab atas pelaksanaan Pengadaan Barang/Jasa".
