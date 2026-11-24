@@ -38,3 +38,8 @@
     display: none;
   }
 }
+
+// Halaman Regulasi sudah memuat daftar per hierarki peraturan; daftar otomatis folder tidak ditampilkan.
+body[data-slug="regulasi/index"] .page-listing {
+  display: none;
+}
