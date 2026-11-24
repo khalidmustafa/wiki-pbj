@@ -23,6 +23,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Batas nilai Pengadaan Langsung dan kapan Penunjukan Langsung](../tanya-jawab/TJ-0111.md)
 - [Batas Pengadaan Langsung pekerjaan konstruksi di Papua](../tanya-jawab/TJ-0112.md)
 - [Bentuk kontrak pembelian barang dalam pelaksanaan swakelola](../tanya-jawab/TJ-0010.md)
+- [Bolehkah CV yang sama ditunjuk sebagai konsultan perencana dan pengawas dengan tenaga ahli berbeda, dan apakah itu pinjam bendera](../tanya-jawab/TJ-0470.md)
 - [Bolehkah nilai hasil negosiasi yang memuat sen dibulatkan dalam Kontrak](../tanya-jawab/TJ-0363.md)
 - [Bolehkah Pejabat Pengadaan memproses pengadaan langsung saat dinas luar kota, dengan reviu bersama PPK lewat Zoom](../tanya-jawab/TJ-0303.md)
 - [Bolehkah pekerjaan ruang kelas dimulai sebelum Kontrak diteken karena anggarannya di APBD perubahan dan DPA belum selesai, padahal tender sudah dilaksanakan](../tanya-jawab/TJ-0438.md)

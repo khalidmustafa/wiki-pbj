@@ -47,6 +47,7 @@ Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu re
 - [Perhitungan honorarium PA yang melimpahkan sebagian kewenangan (sebagian pagu) kepada KPA: 50 persen dari seluruh pagu atau dari pagu yang dilimpahkan](../tanya-jawab/TJ-0511.md)
 - [Pernyataan bersedia dibayar tahun berikutnya dalam mini kompetisi, dan keikutsertaan koperasi](../tanya-jawab/TJ-0236.md)
 - [PPK sudah ditetapkan tetapi belum memiliki Sertifikat Kompetensi PPK (hanya sertifikat pelatihan) saat input RUP di SIRUP](../tanya-jawab/TJ-0331.md)
+- [RUP baru diumumkan menjelang tender: melanggar atau tidak, dan adakah sanksinya](../tanya-jawab/TJ-0348.md)
 - [Siapa KPA di pemerintah kabupaten: apakah para kepala OPD](../tanya-jawab/TJ-0315.md)
 - [SKP pada pengadaan langsung jasa konsultansi konstruksi dan langkah Pejabat Pengadaan bila SKP penyedia lokal penuh (afirmasi pelaku usaha lokal)](../tanya-jawab/TJ-0458.md)
 - [SPJ e-purchasing ditolak bagian keuangan karena barang yang dibeli tidak sesuai rincian DPA: dasar pergeseran anggaran dan perubahan DPA-SKPD](../tanya-jawab/TJ-0454.md)

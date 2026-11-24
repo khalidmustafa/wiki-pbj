@@ -2,7 +2,7 @@
 title: Tanya jawab
 ---
 
-Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawaban, dikelompokkan menurut kategori wiki. Jumlah tanya jawab: 301. Satu tanya jawab dapat muncul di lebih dari satu kategori.
+Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawaban, dikelompokkan menurut kategori wiki. Jumlah tanya jawab: 302. Satu tanya jawab dapat muncul di lebih dari satu kategori.
 
 **Kategori:** [Asas dan Kebijakan](#asas-dan-kebijakan) · [Pelaku PBJ](#pelaku-pbj) · [Perencanaan](#perencanaan) · [Persiapan Pengadaan](#persiapan-pengadaan) · [Pemilihan Penyedia](#pemilihan-penyedia) · [E-purchasing dan Katalog](#e-purchasing-dan-katalog) · [Swakelola](#swakelola) · [Kontrak](#kontrak) · [Pelaksanaan dan Serah Terima](#pelaksanaan-dan-serah-terima) · [Pembayaran dan Jaminan](#pembayaran-dan-jaminan) · [Sanksi dan Pengawasan](#sanksi-dan-pengawasan) · [Usaha Kecil dan Produk Dalam Negeri](#usaha-kecil-dan-produk-dalam-negeri)
 
@@ -14,11 +14,11 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [Apakah afirmasi pelaku usaha lokal SE Kepala LKPP 3/2026 dikecualikan untuk Jasa Lainnya (KJPP/appraisal)](./TJ-0242.md)
 - [Apakah konsultan pengawas yang juga bertindak sebagai pelaksana pekerjaan melanggar ketentuan PBJ](./TJ-0495.md)
 - [Apakah Surat Perintah Tugas cukup sebagai dasar Pokja Pemilihan tanpa SK penetapan Pokja](./TJ-0008.md)
+- [Bolehkah CV yang sama ditunjuk sebagai konsultan perencana dan pengawas dengan tenaga ahli berbeda, dan apakah itu pinjam bendera](./TJ-0470.md)
 - [Bolehkah Pokja Pemilihan mempersyaratkan surat dukungan bahan](./TJ-0358.md)
 - [Cara Pokja mengenali pinjam bendera saat evaluasi](./TJ-0049.md)
 - [Dalam pemeriksaan ditemukan rincian penawaran pemenang sama dengan rincian HPS: apakah dapat menjadi dugaan persekongkolan](./TJ-0530.md)
 - [Dokumen persiapan dan tahapan pemilihan oleh Pokja Pemilihan pada pengadaan yang dikecualikan di atas Rp200 juta (sewa gudang, iklan sosialisasi/kampanye)](./TJ-0345.md)
-- [Efisiensi anggaran sebagai keadaan kahar](./TJ-0106.md)
 - [Evaluasi pemilik manfaat pada pengadaan langsung yang dimulai sebelum Peraturan LKPP 3/2026 tetapi belum ada undangan](./TJ-0262.md)
 - [Haruskah ambulans desa di atas Rp200 juta dibeli melalui lelang bila penyedianya jauh](./TJ-0031.md)
 - [Jalan sah bagi perusahaan konstruksi daerah yang terbentur segmentasi, SBU, dan kemampuan dasar](./TJ-0015.md)
@@ -166,6 +166,7 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [Perhitungan honorarium PA yang melimpahkan sebagian kewenangan (sebagian pagu) kepada KPA: 50 persen dari seluruh pagu atau dari pagu yang dilimpahkan](./TJ-0511.md)
 - [Pernyataan bersedia dibayar tahun berikutnya dalam mini kompetisi, dan keikutsertaan koperasi](./TJ-0236.md)
 - [PPK sudah ditetapkan tetapi belum memiliki Sertifikat Kompetensi PPK (hanya sertifikat pelatihan) saat input RUP di SIRUP](./TJ-0331.md)
+- [RUP baru diumumkan menjelang tender: melanggar atau tidak, dan adakah sanksinya](./TJ-0348.md)
 - [Siapa KPA di pemerintah kabupaten: apakah para kepala OPD](./TJ-0315.md)
 - [SKP pada pengadaan langsung jasa konsultansi konstruksi dan langkah Pejabat Pengadaan bila SKP penyedia lokal penuh (afirmasi pelaku usaha lokal)](./TJ-0458.md)
 - [SPJ e-purchasing ditolak bagian keuangan karena barang yang dibeli tidak sesuai rincian DPA: dasar pergeseran anggaran dan perubahan DPA-SKPD](./TJ-0454.md)
@@ -233,6 +234,7 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [Batas nilai Pengadaan Langsung dan kapan Penunjukan Langsung](./TJ-0111.md)
 - [Batas Pengadaan Langsung pekerjaan konstruksi di Papua](./TJ-0112.md)
 - [Bentuk kontrak pembelian barang dalam pelaksanaan swakelola](./TJ-0010.md)
+- [Bolehkah CV yang sama ditunjuk sebagai konsultan perencana dan pengawas dengan tenaga ahli berbeda, dan apakah itu pinjam bendera](./TJ-0470.md)
 - [Bolehkah nilai hasil negosiasi yang memuat sen dibulatkan dalam Kontrak](./TJ-0363.md)
 - [Bolehkah Pejabat Pengadaan memproses pengadaan langsung saat dinas luar kota, dengan reviu bersama PPK lewat Zoom](./TJ-0303.md)
 - [Bolehkah pekerjaan ruang kelas dimulai sebelum Kontrak diteken karena anggarannya di APBD perubahan dan DPA belum selesai, padahal tender sudah dilaksanakan](./TJ-0438.md)
@@ -434,7 +436,6 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [Di proyek pemerintah, justifikasi teknis dibuat oleh kontraktor pelaksana atau konsultan pengawas](./TJ-0452.md)
 - [E-purchasing bernilai di bawah Rp100 juta: boleh tanpa SSUK dan SSKK](./TJ-0343.md)
 - [E-purchasing sudah BAST di sistem, tetapi saat menyusun SPJ ternyata spesifikasi dan harga satuan barang tidak sesuai DPA: dapatkah dibatalkan atau diubah](./TJ-0450.md)
-- [Efisiensi anggaran sebagai keadaan kahar](./TJ-0106.md)
 - [Jalan rigid beton 2025: pekerjaan tidak dikerjakan di ruas yang tayang (276 m), penyedia mengklaim ruas lain usulan kades (451 m) sebagai pekerjaan Kontrak tanpa adendum](./TJ-0536.md)
 - [Kedudukan paraf dalam dokumen pengadaan](./TJ-0066.md)
 - [Kerja sama penempatan alat laboratorium di rumah sakit non-BLUD](./TJ-0083.md)
@@ -588,7 +589,6 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [Dasar aturan bahwa ketentuan denda keterlambatan tidak dapat diubah melalui adendum setelah Kontrak ditandatangani](./TJ-0280.md)
 - [Dasar hukum serah terima pekerjaan sebagian (parsial)](./TJ-0218.md)
 - [Denda keterlambatan bila perizinan yang diurus pemberi pekerjaan tidak selesai](./TJ-0268.md)
-- [Efisiensi anggaran sebagai keadaan kahar](./TJ-0106.md)
 - [Kepala subbagian keuangan sebagai PPTK](./TJ-0087.md)
 - [Kontrak tidak ditandatangani PPK: jawaban kepada pemeriksa](./TJ-0202.md)
 - [Kontraktor tidak mengembalikan retensi yang sudah dicairkan dan tidak memelihara: apakah FHO tetap ditahan](./TJ-0245.md)
@@ -610,6 +610,7 @@ Jawaban atas pertanyaan pelaksanaan pengadaan, dengan dasar hukum dan batas jawa
 - [PPK/KPA berperan "remang-remang" dan Penyedia dijadikan sapi perah sehingga mutu pekerjaan menjadi korban: petunjuknya](./TJ-0324.md)
 - [Repeat order: Penyedia sudah dinilai sangat baik, kemudian audit BPK/Inspektorat menemukan temuan besar](./TJ-0335.md)
 - [Retensi 5% dicairkan tanpa jaminan pemeliharaan, pemeliharaan tidak dilaksanakan, dan FHO belum dilakukan](./TJ-0227.md)
+- [RUP baru diumumkan menjelang tender: melanggar atau tidak, dan adakah sanksinya](./TJ-0348.md)
 - [SBU perusahaan berstatus dicabut di sistem tetapi tetap menang tender dan berkontrak: apakah pelanggaran](./TJ-0351.md)
 - [Siapa APH dan APIP, dan apa bedanya di tingkat kabupaten/kota, provinsi, dan pusat](./TJ-0313.md)
 - [SPPBJ dibatalkan PPK atas rekomendasi Inspektorat setelah mini kompetisi](./TJ-0200.md)

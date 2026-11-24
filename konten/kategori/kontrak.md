@@ -43,7 +43,6 @@ title: 'Kategori: Kontrak'
 - [Di proyek pemerintah, justifikasi teknis dibuat oleh kontraktor pelaksana atau konsultan pengawas](../tanya-jawab/TJ-0452.md)
 - [E-purchasing bernilai di bawah Rp100 juta: boleh tanpa SSUK dan SSKK](../tanya-jawab/TJ-0343.md)
 - [E-purchasing sudah BAST di sistem, tetapi saat menyusun SPJ ternyata spesifikasi dan harga satuan barang tidak sesuai DPA: dapatkah dibatalkan atau diubah](../tanya-jawab/TJ-0450.md)
-- [Efisiensi anggaran sebagai keadaan kahar](../tanya-jawab/TJ-0106.md)
 - [Jalan rigid beton 2025: pekerjaan tidak dikerjakan di ruas yang tayang (276 m), penyedia mengklaim ruas lain usulan kades (451 m) sebagai pekerjaan Kontrak tanpa adendum](../tanya-jawab/TJ-0536.md)
 - [Kedudukan paraf dalam dokumen pengadaan](../tanya-jawab/TJ-0066.md)
 - [Kerja sama penempatan alat laboratorium di rumah sakit non-BLUD](../tanya-jawab/TJ-0083.md)
