@@ -17,5 +17,11 @@ Sumber: [KUT-0730](../kutipan/KUT-0730.md). Berlaku: rumusan menurut Perpres 46/
 
 Sumber: [KUT-0574](../kutipan/KUT-0574.md). Berlaku dalam pengelolaan keuangan daerah.
 
+### Peraturan LKPP 3/2026, Pasal 1 angka 13
+
+> Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran Kementerian Negara/Lembaga/Perangkat Daerah.
+
+Sumber: [KUT-0789](../kutipan/KUT-0789.md). Berlaku: sejak 2026-09-22 s.d. sekarang.
+
 Artikel: [Pengguna Anggaran dan Kuasa Pengguna Anggaran](../artikel/pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 
