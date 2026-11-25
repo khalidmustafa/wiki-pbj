@@ -4,6 +4,7 @@ title: 'Kategori: Usaha Kecil dan Produk Dalam Negeri'
 
 ## Artikel
 
+- [Pengadaan Barang/Jasa dalam rangka Percepatan Pembangunan di Papua](../artikel/pengadaan-barang-jasa-dalam-rangka-percepatan-pembangunan-di-papua.md)
 - [Penggunaan Produk Dalam Negeri](../artikel/penggunaan-produk-dalam-negeri.md)
 - [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](../artikel/peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 - [Subkontrak](../artikel/subkontrak.md)

@@ -56,6 +56,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pemutusan Kontrak](./pemutusan-kontrak.md)
 - [Penelitian dalam Pengadaan Barang/Jasa](./penelitian-dalam-pengadaan-barang-jasa.md)
 - [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](./pengadaan-dalam-penanganan-keadaan-darurat.md)
+- [Pengadaan Barang/Jasa dalam rangka Percepatan Pembangunan di Papua](./pengadaan-barang-jasa-dalam-rangka-percepatan-pembangunan-di-papua.md)
 - [Pengadaan Barang/Jasa Desa](./pengadaan-barang-jasa-desa.md)
 - [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](./pengadaan-barang-jasa-internasional.md)
 - [Pengadaan Barang/Jasa yang Dikecualikan](./pengadaan-barang-jasa-yang-dikecualikan.md)
@@ -70,6 +71,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](./peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 - [Permintaan Berulang (Repeat Order)](./permintaan-berulang-repeat-order.md)
 - [Perubahan Kontrak](./perubahan-kontrak.md)
+- [Pinjam Bendera Perusahaan](./pinjam-bendera-perusahaan.md)
 
 ## R
 

@@ -23,3 +23,7 @@ tanggal_cek: '2026-11-17'
 **Dicabut dengan:**
 
 - [Peraturan Presiden Nomor 108 Tahun 2025 tentang Pengadaan Barang/Jasa Pemerintah dalam rangka Percepatan Pembangunan di Papua](../regulasi/perpres-108-2025.md)
+
+## Kutipan pasal
+
+- [Pasal 1 angka 31 dan Pasal 28](../kutipan/KUT-2180.md)

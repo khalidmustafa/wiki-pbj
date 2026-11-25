@@ -7,6 +7,7 @@ title: 'Kategori: Sanksi dan Pengawasan'
 - [Denda Keterlambatan](../artikel/denda-keterlambatan.md)
 - [Pelayanan Hukum bagi Pelaku Pengadaan Barang/Jasa](../artikel/pelayanan-hukum-bagi-pelaku-pengadaan.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](../artikel/pengawasan-dan-pengaduan-pengadaan.md)
+- [Pinjam Bendera Perusahaan](../artikel/pinjam-bendera-perusahaan.md)
 - [Sanksi Administratif dalam Pengadaan](../artikel/sanksi-administratif-dalam-pengadaan.md)
 - [Sanksi Daftar Hitam](../artikel/sanksi-daftar-hitam.md)
 

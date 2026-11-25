@@ -33,6 +33,7 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [angka 10 huruf d e](../kutipan/KUT-0217.md)
 - [angka 11 huruf a angka 1 huruf a d](../kutipan/KUT-0179.md)
 - [angka 11 huruf b angka 1 huruf a b](../kutipan/KUT-0220.md)
+- [angka 11 huruf d angka 1 3 kalimat pembuka](../kutipan/KUT-2162.md)
 - [angka 12](../kutipan/KUT-0216.md)
 - [angka 13](../kutipan/KUT-0320.md)
 - [angka 14 huruf a](../kutipan/KUT-0545.md)
