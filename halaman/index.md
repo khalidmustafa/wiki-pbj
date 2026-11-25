@@ -2,7 +2,7 @@
 title: Wiki PBJ
 ---
 
-**Wiki PBJ** adalah ensiklopedia terbuka tentang pengadaan barang/jasa pemerintah di Indonesia, dikelola KMP. Setiap artikel menjelaskan satu konsep, bersumber dari naskah resmi peraturan, dan ditayangkan setelah lolos reviu redaksi.
+**Wiki PBJ** adalah ensiklopedia terbuka tentang pengadaan barang/jasa di Indonesia, dikelola KMP. Setiap artikel menjelaskan satu konsep, bersumber dari naskah resmi peraturan, dan ditayangkan setelah lolos reviu redaksi.
 
 ## Mulai menjelajah
 
