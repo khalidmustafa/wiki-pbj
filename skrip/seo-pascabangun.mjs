@@ -64,6 +64,8 @@ for (const berkas of semuaHtml(PUB)) {
   const judul = unesc(meta(html, "og:title") || "")
   const desk = unesc(meta(html, "description") || "")
   if (relatif === "index.html") {
+    // Verifikasi Google Search Console (properti Awalan URL https://wiki.pengadaan.id/)
+    tambahan.push('<meta name="google-site-verification" content="558qAxP9OxyEW9b0YZhcdc_A1v8E6YLZU0T0huGBNQw"/>')
     tambahan.push(
       `<script type="application/ld+json">${JSON.stringify({
         "@context": "https://schema.org",
