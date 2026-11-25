@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** PPK/pejabat penandatangan Kontrak atau Penyedia sesuai alasan pemutusan; PA/KPA menetapkan Sanksi Daftar Hitam atas usulan PPK
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Peraturan LKPP 3/2026, Lampiran I butir 6.18](../kutipan/KUT-0163.md)

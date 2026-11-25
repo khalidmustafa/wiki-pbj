@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** Pokja Pemilihan, Pejabat Pengadaan, atau PPK sesuai metode dan nilai
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 38 ayat 1](../kutipan/KUT-0339.md)

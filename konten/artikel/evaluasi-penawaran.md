@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** Pokja Pemilihan menetapkan metode evaluasi dan mengevaluasi penawaran
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 39](../kutipan/KUT-1272.md)

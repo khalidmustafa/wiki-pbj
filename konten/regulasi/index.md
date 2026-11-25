@@ -4,7 +4,7 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 173. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 176. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
 ## Undang-Undang (53)
@@ -120,7 +120,7 @@ Jumlah peraturan: 173. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Presiden Nomor 70 Tahun 2012 tentang Perubahan Kedua atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](./perpres-70-2012.md) _(Dicabut)_
 - [Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](./perpres-54-2010.md) _(Dicabut)_
 
-## Keputusan Presiden (6)
+## Keputusan Presiden (9)
 
 - [Keputusan Presiden Nomor 80 Tahun 2003 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah](./keppres-80-2003.md) _(Dicabut)_
 - [Keputusan Presiden Nomor 18 Tahun 2000 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Instansi Pemerintah](./keppres-18-2000.md) _(Dicabut)_
@@ -128,6 +128,9 @@ Jumlah peraturan: 173. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Keputusan Presiden Nomor 29 Tahun 1984 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-29-1984.md) _(Dicabut)_
 - [Keputusan Presiden Nomor 18 Tahun 1981 tentang Penyempurnaan Keputusan Presiden Nomor 14 A Tahun 1980 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-18-1981.md) _(Dicabut)_
 - [Keputusan Presiden Nomor 14A Tahun 1980 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-14a-1980.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 7 Tahun 1975 tentang Pedoman Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1975/1976](./keppres-7-1975.md) _(Tidak berlaku (masa berlaku berakhir))_
+- [Keputusan Presiden Nomor 14 Tahun 1971 tentang Pedoman Pelaksanaan Anggaran Pendapatan dan Belandja Negara Tahun 1971/1972](./keppres-14-1971.md) _(Tidak berlaku (masa berlaku berakhir))_
+- [Keputusan Presiden Nomor 33 Tahun 1969 tentang Pedoman Pelaksanaan Anggaran dan Pendapatan dan Belanja Negara Tahun 1969/1970](./keppres-33-1969.md) _(Tidak berlaku (masa berlaku berakhir))_
 
 ## Peraturan Menteri (41)
 

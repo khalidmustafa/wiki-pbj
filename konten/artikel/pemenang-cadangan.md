@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** Pokja Pemilihan menetapkan pemenang cadangan; PPK menyampaikan SPPBJ atau penunjukan langsung kepada pemenang cadangan
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Peraturan LKPP 3/2026, Lampiran I 4.2.11 huruf a d e g](../kutipan/KUT-0213.md)

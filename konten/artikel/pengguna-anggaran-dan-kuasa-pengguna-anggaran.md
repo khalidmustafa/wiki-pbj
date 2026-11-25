@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-24'
 >
 > **Pejabat berwenang:** PA melimpahkan kewenangan kepada KPA; pada APBD pelimpahan ditetapkan Kepala Daerah atas usul kepala SKPD
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)

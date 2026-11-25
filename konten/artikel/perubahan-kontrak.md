@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** PPK/pejabat penandatangan Kontrak bersama Penyedia; PA memberikan persetujuan bila penambahan nilai Kontrak akhir melebihi 10% karena keadaan darurat
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 54 ayat 1 2](../kutipan/KUT-0298.md)

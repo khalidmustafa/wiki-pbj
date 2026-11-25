@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** Pokja Pemilihan menyusun persyaratan dan mengevaluasi kualifikasi; Pejabat Pengadaan untuk Pengadaan Langsung
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 44](../kutipan/KUT-1271.md)

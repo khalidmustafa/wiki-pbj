@@ -12,6 +12,8 @@ tanggal_reviu: '2026-11-24'
 >
 > **Pejabat berwenang:** PA/KPA menetapkan Pejabat Pengadaan
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 1 angka 13](../kutipan/KUT-0733.md)

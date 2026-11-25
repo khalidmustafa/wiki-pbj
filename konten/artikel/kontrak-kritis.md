@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** PPK/pejabat penandatangan Kontrak menyatakan Kontrak kritis, menyelenggarakan show cause meeting, dan memutuskan tindak lanjutnya
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.11.2 huruf c](../kutipan/KUT-0197.md)

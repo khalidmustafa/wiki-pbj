@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** Pokja Pemilihan melaksanakan Tender dan menetapkan pemenang; PA menetapkan pemenang untuk nilai di atas batas tertentu
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 1 angka 36](../kutipan/KUT-0759.md)

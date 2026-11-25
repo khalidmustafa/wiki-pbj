@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** PA/KPA menetapkan Penyelenggara Swakelola tipe I serta Tim Persiapan dan Tim Pengawas tipe II dan III; PPK menandatangani Kontrak Swakelola tipe II, III, dan IV
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)

@@ -14,6 +14,8 @@ tanggal_reviu: '2026-11-24'
 >
 > **Pejabat berwenang:** PA menetapkan PPK; KPA dapat menugaskan PPK sesuai pelimpahan dari PA
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 1 angka 10](../kutipan/KUT-0006.md)

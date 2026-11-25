@@ -14,6 +14,8 @@ tanggal_reviu: '2026-11-24'
 >
 > **Pejabat berwenang:** Kepala UKPBJ menetapkan Pokja Pemilihan
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 1 angka 12](../kutipan/KUT-0067.md)

@@ -13,6 +13,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Pejabat berwenang:** PPK menyusun dan menetapkan HPS; Pokja Pemilihan mereviu HPS
 >
+> **Berlaku untuk:** Kementerian/Lembaga/Perangkat Daerah
+>
 > **Dasar hukum utama:**
 >
 > - [Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md)
