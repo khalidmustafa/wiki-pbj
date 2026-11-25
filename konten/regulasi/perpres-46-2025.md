@@ -93,6 +93,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 12](../kutipan/KUT-0431.md)
 - [Pasal 17 ayat 2 dan Pasal 11 ayat 1 huruf i l](../kutipan/KUT-0141.md)
 - [Pasal 18 ayat 1 3 dan 8](../kutipan/KUT-0276.md)
+- [Pasal 19 ayat 1 3 dan 4](../kutipan/KUT-2131.md)
 - [Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)
 - [Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)
 - [Pasal 20 ayat 1 2](../kutipan/KUT-0265.md)

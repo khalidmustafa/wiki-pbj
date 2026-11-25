@@ -8,6 +8,10 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Bentuk Kontrak](./bentuk-kontrak.md)
 
+## D
+
+- [Denda Keterlambatan](./denda-keterlambatan.md)
+
 ## E
 
 - [E-purchasing](./e-purchasing.md)
@@ -30,6 +34,8 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Keadaan Kahar](./keadaan-kahar.md)
 - [Kegagalan Bangunan](./kegagalan-bangunan.md)
 - [Kelompok Kerja Pemilihan](./kelompok-kerja-pemilihan.md)
+- [Kerja Sama Operasi](./kerja-sama-operasi.md)
+- [Klarifikasi dan Negosiasi Teknis dan Harga](./klarifikasi-dan-negosiasi-teknis-dan-harga.md)
 - [Kontrak Kritis](./kontrak-kritis.md)
 - [Kualifikasi Penyedia](./kualifikasi-penyedia.md)
 
@@ -60,7 +66,9 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Penunjukan Langsung](./penunjukan-langsung.md)
 - [Penyedia Barang/Jasa Pemerintah](./penyedia-barang-jasa-pemerintah.md)
 - [Penyelesaian Sengketa Kontrak](./penyelesaian-sengketa-kontrak.md)
+- [Penyesuaian Harga](./penyesuaian-harga.md)
 - [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](./peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
+- [Permintaan Berulang (Repeat Order)](./permintaan-berulang-repeat-order.md)
 - [Perubahan Kontrak](./perubahan-kontrak.md)
 
 ## R
@@ -76,6 +84,8 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Seleksi](./seleksi.md)
 - [Serah Terima Hasil Pekerjaan](./serah-terima-hasil-pekerjaan.md)
 - [Sistem Pengadaan Secara Elektronik](./sistem-pengadaan-secara-elektronik.md)
+- [Spesifikasi Teknis dan Kerangka Acuan Kerja](./spesifikasi-teknis-dan-kerangka-acuan-kerja.md)
+- [Subkontrak](./subkontrak.md)
 - [Sumber Daya Manusia Pengadaan Barang/Jasa](./sumber-daya-manusia-pengadaan-barang-jasa.md)
 - [Swakelola](./swakelola.md)
 

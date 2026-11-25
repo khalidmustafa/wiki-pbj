@@ -5,12 +5,15 @@ title: 'Kategori: Kontrak'
 ## Artikel
 
 - [Bentuk Kontrak](../artikel/bentuk-kontrak.md)
+- [Denda Keterlambatan](../artikel/denda-keterlambatan.md)
 - [Jenis Kontrak](../artikel/jenis-kontrak.md)
 - [Keadaan Kahar](../artikel/keadaan-kahar.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
 - [Pemutusan Kontrak](../artikel/pemutusan-kontrak.md)
 - [Penyelesaian Sengketa Kontrak](../artikel/penyelesaian-sengketa-kontrak.md)
+- [Penyesuaian Harga](../artikel/penyesuaian-harga.md)
 - [Perubahan Kontrak](../artikel/perubahan-kontrak.md)
+- [Subkontrak](../artikel/subkontrak.md)
 
 ## Tanya jawab
 

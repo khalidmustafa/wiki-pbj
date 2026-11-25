@@ -6,6 +6,8 @@ title: 'Kategori: Pemilihan Penyedia'
 
 - [Evaluasi Penawaran](../artikel/evaluasi-penawaran.md)
 - [Kelompok Kerja Pemilihan](../artikel/kelompok-kerja-pemilihan.md)
+- [Kerja Sama Operasi](../artikel/kerja-sama-operasi.md)
+- [Klarifikasi dan Negosiasi Teknis dan Harga](../artikel/klarifikasi-dan-negosiasi-teknis-dan-harga.md)
 - [Kualifikasi Penyedia](../artikel/kualifikasi-penyedia.md)
 - [Metode Pemilihan Penyedia](../artikel/metode-pemilihan-penyedia.md)
 - [Pejabat Pengadaan](../artikel/pejabat-pengadaan.md)
@@ -15,6 +17,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](../artikel/pengadaan-barang-jasa-internasional.md)
 - [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
 - [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
+- [Permintaan Berulang (Repeat Order)](../artikel/permintaan-berulang-repeat-order.md)
 - [Sanggah dan Sanggah Banding](../artikel/sanggah-dan-sanggah-banding.md)
 - [Seleksi](../artikel/seleksi.md)
 - [Tender](../artikel/tender.md)

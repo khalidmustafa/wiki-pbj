@@ -5,6 +5,7 @@ title: 'Kategori: Persiapan Pengadaan'
 ## Artikel
 
 - [Harga Perkiraan Sendiri](../artikel/harga-perkiraan-sendiri.md)
+- [Spesifikasi Teknis dan Kerangka Acuan Kerja](../artikel/spesifikasi-teknis-dan-kerangka-acuan-kerja.md)
 
 ## Tanya jawab
 
