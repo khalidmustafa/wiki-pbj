@@ -104,6 +104,8 @@ export default (() => {
             return resource
           }
         })}
+        {/* Pencarian khusus glosarium (wiki PBJ); dimuat sekali dan bertahan antarhalaman SPA. */}
+        <script src={joinSegments(baseDir, "static/cari-glosarium.js")} defer data-persist></script>
       </head>
     )
   }
