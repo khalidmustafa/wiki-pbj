@@ -13,3 +13,4 @@ if [ -f LISENSI.md ]; then
   { printf -- '---\ntitle: Lisensi\n---\n\n'; sed '1{/^# /d}' LISENSI.md; } > content/lisensi.md
 fi
 echo "content/: $(find content -name '*.md' | wc -l) halaman"
+node skrip/seo-isi.mjs
