@@ -22,3 +22,6 @@ Sumber: [Peraturan LKPP 6/2024, Pasal 1 angka 7](../kutipan/KUT-0954.md). Berlak
 > Aparat Pengawas Intern Pemerintah yang selanjutnya disingkat APIP adalah aparat yang melakukan pengawasan melalui audit, reviu, pemantauan, evaluasi, dan kegiatan pengawasan lain terhadap penyelenggaraan tugas dan fungsi Pemerintah.
 
 Sumber: [Peraturan LKPP 12/2019, Pasal 1 angka 20](../kutipan/KUT-0955.md). Berlaku: sejak 2019-11-13 s.d. sekarang.
+
+Artikel: [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](../artikel/pengawasan-dan-pengaduan-pengadaan.md)
+

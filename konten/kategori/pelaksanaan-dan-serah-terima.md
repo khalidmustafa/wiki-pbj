@@ -4,6 +4,7 @@ title: 'Kategori: Pelaksanaan dan Serah Terima'
 
 ## Artikel
 
+- [Kegagalan Bangunan](../artikel/kegagalan-bangunan.md)
 - [Kontrak Kritis](../artikel/kontrak-kritis.md)
 - [Pemberian Kesempatan](../artikel/pemberian-kesempatan.md)
 - [Serah Terima Hasil Pekerjaan](../artikel/serah-terima-hasil-pekerjaan.md)

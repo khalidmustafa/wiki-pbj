@@ -43,3 +43,5 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [Pasal 1 angka 19](../kutipan/KUT-1000.md)
 - [Pasal 1 angka 20](../kutipan/KUT-0955.md)
 - [Pasal 1 angka 21](../kutipan/KUT-1001.md)
+- [Pasal 4 Pasal 5 Pasal 6](../kutipan/KUT-2087.md)
+- [Pasal 8 Pasal 9 Pasal 10 ayat 1 4 Pasal 11 ayat 1 2 5](../kutipan/KUT-2088.md)

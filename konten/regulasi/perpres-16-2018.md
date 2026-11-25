@@ -86,6 +86,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 65 ayat 3 4](../kutipan/KUT-0215.md)
 - [Pasal 75 ayat 2](../kutipan/KUT-0344.md)
 - [Pasal 76 ayat 1 3 Pasal 77 ayat 1a 2](../kutipan/KUT-0345.md)
+- [Pasal 76 ayat 4 5 6](../kutipan/KUT-2084.md)
 - [Pasal 78 ayat 4](../kutipan/KUT-0359.md)
 - [Pasal 79](../kutipan/KUT-2062.md)
 - [Pasal 82 ayat 1 2](../kutipan/KUT-0073.md)

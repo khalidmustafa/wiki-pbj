@@ -22,3 +22,6 @@ Sumber: [UU 20/2008, Pasal 1 angka 2](../kutipan/KUT-1598.md). Berlaku: sejak 20
 > Usaha Kecil adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dari Usaha Menengah atau usaha besar yang memenuhi kriteria Usaha Kecil sebagaimana dimaksud dalam Peraturan Pemerintah ini.
 
 Sumber: [PP 7/2021, Pasal 1 angka 3](../kutipan/KUT-1599.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+
+Artikel: [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](../artikel/peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
+

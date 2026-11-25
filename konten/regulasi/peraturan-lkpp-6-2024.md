@@ -32,5 +32,7 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [Pasal 1 angka 7](../kutipan/KUT-0954.md)
 - [Pasal 1 angka 8](../kutipan/KUT-0956.md)
 - [Pasal 1 angka 9](../kutipan/KUT-0957.md)
+- [Pasal 3 Pasal 4 ayat 6 9](../kutipan/KUT-2082.md)
 - [Pasal 4 ayat 1 2 5](../kutipan/KUT-0321.md)
 - [Pasal 4 ayat 3 4](../kutipan/KUT-0540.md)
+- [Pasal 5 ayat 1 3 4 5 7 10 Pasal 7](../kutipan/KUT-2083.md)

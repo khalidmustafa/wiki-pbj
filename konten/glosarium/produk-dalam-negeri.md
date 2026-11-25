@@ -16,3 +16,6 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 46a](../kutipan/KUT-0771.md). Berlaku: r
 > Produk Dalam Negeri adalah Barang yang dibuat dan/atau Jasa yang dilakukan oleh Pelaku Usaha di Indonesia.
 
 Sumber: [UU 7/2014, Pasal 1 angka 7](../kutipan/KUT-1640.md). Berlaku: sejak 2014-03-11 s.d. sekarang.
+
+Artikel: [Penggunaan Produk Dalam Negeri](../artikel/penggunaan-produk-dalam-negeri.md)
+

@@ -4,7 +4,8 @@ title: 'Kategori: Usaha Kecil dan Produk Dalam Negeri'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Penggunaan Produk Dalam Negeri](../artikel/penggunaan-produk-dalam-negeri.md)
+- [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](../artikel/peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 
 ## Tanya jawab
 

@@ -4,6 +4,7 @@ title: 'Kategori: Sanksi dan Pengawasan'
 
 ## Artikel
 
+- [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](../artikel/pengawasan-dan-pengaduan-pengadaan.md)
 - [Sanksi Administratif dalam Pengadaan](../artikel/sanksi-administratif-dalam-pengadaan.md)
 - [Sanksi Daftar Hitam](../artikel/sanksi-daftar-hitam.md)
 

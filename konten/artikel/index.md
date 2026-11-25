@@ -11,6 +11,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 ## E
 
 - [E-purchasing](./e-purchasing.md)
+- [Etika Pengadaan](./etika-pengadaan.md)
 - [Evaluasi Penawaran](./evaluasi-penawaran.md)
 
 ## H
@@ -26,6 +27,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Katalog Elektronik](./katalog-elektronik.md)
 - [Keadaan Kahar](./keadaan-kahar.md)
+- [Kegagalan Bangunan](./kegagalan-bangunan.md)
 - [Kelompok Kerja Pemilihan](./kelompok-kerja-pemilihan.md)
 - [Kontrak Kritis](./kontrak-kritis.md)
 - [Kualifikasi Penyedia](./kualifikasi-penyedia.md)
@@ -41,11 +43,17 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pembayaran Prestasi Pekerjaan](./pembayaran-prestasi-pekerjaan.md)
 - [Pemberian Kesempatan](./pemberian-kesempatan.md)
 - [Pemenang Cadangan](./pemenang-cadangan.md)
+- [Pemilik Manfaat dalam Pengadaan Barang/Jasa](./pemilik-manfaat-dalam-pengadaan.md)
 - [Pemutusan Kontrak](./pemutusan-kontrak.md)
+- [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](./pengadaan-dalam-penanganan-keadaan-darurat.md)
+- [Pengadaan Barang/Jasa Desa](./pengadaan-barang-jasa-desa.md)
 - [Pengadaan Langsung](./pengadaan-langsung.md)
+- [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](./pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
+- [Penggunaan Produk Dalam Negeri](./penggunaan-produk-dalam-negeri.md)
 - [Penunjukan Langsung](./penunjukan-langsung.md)
 - [Penyedia Barang/Jasa Pemerintah](./penyedia-barang-jasa-pemerintah.md)
+- [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](./peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 - [Perubahan Kontrak](./perubahan-kontrak.md)
 
 ## R
@@ -64,6 +72,8 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 ## T
 
 - [Tender](./tender.md)
+- [Tim Teknis, Tim Ahli, dan Tim Pendukung](./tim-teknis-tim-ahli-dan-tim-pendukung.md)
+- [Tujuan, Kebijakan, dan Prinsip Pengadaan Barang/Jasa](./tujuan-kebijakan-dan-prinsip-pengadaan.md)
 
 ## U
 

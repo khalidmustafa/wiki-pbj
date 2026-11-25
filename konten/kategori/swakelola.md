@@ -4,6 +4,7 @@ title: 'Kategori: Swakelola'
 
 ## Artikel
 
+- [Pengadaan Barang/Jasa Desa](../artikel/pengadaan-barang-jasa-desa.md)
 - [Swakelola](../artikel/swakelola.md)
 
 ## Tanya jawab

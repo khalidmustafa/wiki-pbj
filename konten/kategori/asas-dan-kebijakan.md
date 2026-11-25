@@ -4,7 +4,8 @@ title: 'Kategori: Asas dan Kebijakan'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Etika Pengadaan](../artikel/etika-pengadaan.md)
+- [Tujuan, Kebijakan, dan Prinsip Pengadaan Barang/Jasa](../artikel/tujuan-kebijakan-dan-prinsip-pengadaan.md)
 
 ## Tanya jawab
 

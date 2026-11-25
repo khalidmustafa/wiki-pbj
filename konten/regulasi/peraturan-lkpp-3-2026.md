@@ -28,6 +28,7 @@ tanggal_cek: '2026-10-23'
 
 - [Lampiran I 4.2.11 huruf a d e g](../kutipan/KUT-0213.md)
 - [Lampiran I Bab I Pendahuluan tim teknis tim ahli tim pendukung](../kutipan/KUT-0347.md)
+- [Lampiran I Bab II pengantar persiapan pengadaan](../kutipan/KUT-0718.md)
 - [Lampiran I angka 1.2](../kutipan/KUT-0181.md)
 - [Lampiran I angka 1.2 huruf a c](../kutipan/KUT-0263.md)
 - [Lampiran I angka 2.1.2 huruf a angka 1 dan 2.1.3](../kutipan/KUT-0254.md)
@@ -75,6 +76,7 @@ tanggal_cek: '2026-10-23'
 - [Lampiran I angka 4.1.1 paragraf pemilik manfaat](../kutipan/KUT-0193.md)
 - [Lampiran I angka 4.1.1 paragraf verifikasi dan pemilik manfaat](../kutipan/KUT-0194.md)
 - [Lampiran I angka 4.1.2 paragraf pemilik manfaat](../kutipan/KUT-0201.md)
+- [Lampiran I angka 4.2.4 6.10 huruf b 6.14.1 huruf h](../kutipan/KUT-2086.md)
 - [Lampiran I angka 4.2.5 paragraf 4](../kutipan/KUT-0301.md)
 - [Lampiran I angka 4.2.7 evaluasi dokumen penawaran huruf d angka 2](../kutipan/KUT-0303.md)
 - [Lampiran I angka 4.2.7 huruf a b](../kutipan/KUT-0302.md)

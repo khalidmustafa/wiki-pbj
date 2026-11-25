@@ -28,6 +28,7 @@ tanggal_cek: '2026-10-23'
 
 ## Kutipan pasal
 
+- [Pasal 4](../kutipan/KUT-2075.md)
 - [Pasal 27 ayat 1 2 3 4](../kutipan/KUT-2052.md)
 - [Pasal 28 ayat 4 5 6](../kutipan/KUT-2059.md)
 - [Pasal 30 ayat 2 dan ayat 2a](../kutipan/KUT-2048.md)
