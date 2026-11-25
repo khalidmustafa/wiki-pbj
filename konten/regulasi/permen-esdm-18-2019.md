@@ -23,3 +23,17 @@ tanggal_cek: '2026-11-17'
 **Mengubah:**
 
 - [Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 27 Tahun 2017 tentang Tingkat Mutu Pelayanan dan Biaya yang Terkait dengan Penyaluran Tenaga Listrik oleh PT Perusahaan Listrik Negara (Persero)](../regulasi/permen-esdm-27-2017.md)
+
+## Kutipan pasal
+
+- [Pasal 1 angka 1](../kutipan/KUT-1947.md)
+- [Pasal 1 angka 2](../kutipan/KUT-1535.md)
+- [Pasal 1 angka 2a](../kutipan/KUT-1948.md)
+- [Pasal 1 angka 2b](../kutipan/KUT-1949.md)
+- [Pasal 1 angka 3](../kutipan/KUT-1950.md)
+- [Pasal 1 angka 4](../kutipan/KUT-1951.md)
+- [Pasal 1 angka 5](../kutipan/KUT-1952.md)
+- [Pasal 1 angka 6](../kutipan/KUT-1953.md)
+- [Pasal 1 angka 7](../kutipan/KUT-1954.md)
+- [Pasal 1 angka 8](../kutipan/KUT-1955.md)
+- [Pasal 1 angka 9](../kutipan/KUT-1956.md)

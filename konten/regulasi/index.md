@@ -4,10 +4,10 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 163. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 165. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
-## Undang-Undang (52)
+## Undang-Undang (53)
 
 - [Undang-Undang Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan](./uu-27-2026.md) _(Berlaku)_
 - [Undang-Undang Nomor 4 Tahun 2026 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan](./uu-4-2026.md) _(Berlaku)_
@@ -21,6 +21,7 @@ Jumlah peraturan: 163. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah](./uu-1-2022.md) _(Berlaku)_
 - [Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan](./uu-7-2021.md) _(Berlaku)_
 - [Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja](./uu-11-2020.md) _(Dicabut)_
+- [Undang-Undang Nomor 19 Tahun 2019 tentang Perubahan Kedua atas Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi](./uu-19-2019.md) _(Berlaku)_
 - [Undang-Undang Nomor 15 Tahun 2019 tentang Perubahan atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan](./uu-15-2019.md) _(Berlaku)_
 - [Undang-Undang Nomor 2 Tahun 2017 tentang Jasa Konstruksi](./uu-2-2017.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota menjadi Undang-Undang](./uu-10-2016.md) _(Berlaku dengan perubahan)_
@@ -95,7 +96,7 @@ Jumlah peraturan: 163. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Pemerintah Nomor 58 Tahun 2005 tentang Pengelolaan Keuangan Daerah](./pp-58-2005.md) _(Dicabut)_
 - [Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum](./pp-23-2005.md) _(Berlaku dengan perubahan)_
 
-## Peraturan Presiden (18)
+## Peraturan Presiden (19)
 
 - [Peraturan Presiden Nomor 26 Tahun 2026 tentang Pengadaan Minyak Bumi, Bahan Bakar Minyak, dan/atau Liquefied Petroleum Gas untuk Ketahanan Energi Nasional](./perpres-26-2026.md) _(Berlaku)_
 - [Peraturan Presiden Nomor 115 Tahun 2025 tentang Tata Kelola Penyelenggaraan Program Makan Bergizi Gratis](./perpres-115-2025.md) _(Berlaku)_
@@ -109,6 +110,7 @@ Jumlah peraturan: 163. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Presiden Nomor 16 Tahun 2018 tentang Pengadaan Barang/Jasa Pemerintah](./perpres-16-2018.md) _(Berlaku dengan perubahan)_
 - [Peraturan Presiden Nomor 13 Tahun 2018 tentang Penerapan Prinsip Mengenali Pemilik Manfaat dari Korporasi dalam rangka Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang dan Tindak Pidana Pendanaan Terorisme](./perpres-13-2018.md) _(Berlaku)_
 - [Peraturan Presiden Nomor 3 Tahun 2018 tentang Penjabat Sekretaris Daerah](./perpres-3-2018.md) _(Berlaku)_
+- [Peraturan Presiden Nomor 122 Tahun 2016 tentang Perubahan atas Peraturan Presiden Nomor 75 Tahun 2014 tentang Percepatan Penyediaan Infrastruktur Prioritas](./perpres-122-2016.md) _(Berlaku)_
 - [Peraturan Presiden Nomor 38 Tahun 2015 tentang Kerjasama Pemerintah dengan Badan Usaha dalam Penyediaan Infrastruktur](./perpres-38-2015.md) _(Berlaku)_
 - [Peraturan Presiden Nomor 75 Tahun 2014 tentang Percepatan Penyediaan Infrastruktur Prioritas](./perpres-75-2014.md) _(Berlaku dengan perubahan)_
 - [Peraturan Presiden Nomor 29 Tahun 2014 tentang Sistem Akuntabilitas Kinerja Instansi Pemerintah](./perpres-29-2014.md) _(Berlaku)_

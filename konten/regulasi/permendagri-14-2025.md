@@ -18,3 +18,9 @@ tanggal_cek: '2026-11-17'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Pasal 1 angka 1](../kutipan/KUT-2027.md)
+- [Pasal 1 angka 2](../kutipan/KUT-1946.md)
+- [Pasal 1 angka 5](../kutipan/KUT-2028.md)

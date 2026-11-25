@@ -41,5 +41,11 @@ Sumber: [PP 12/2019, Pasal 1 angka 68](../kutipan/KUT-1080.md). Berlaku: sejak 2
 
 Sumber: [PMK 107/2024, Pasal 1 angka 23](../kutipan/KUT-1081.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
 
+### Perpres 115/2025, Pasal 1 angka 14
+
+> Pengguna Anggaran yang selanjutnya disingkat PA adalah pejabat pemegang kewenangan penggunaan anggaran kementerian negara/lembaga/perangkat daerah.
+
+Sumber: [Perpres 115/2025, Pasal 1 angka 14](../kutipan/KUT-1898.md). Berlaku: sejak 2025-11-17 s.d. sekarang.
+
 Artikel: [Pengguna Anggaran dan Kuasa Pengguna Anggaran](../artikel/pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 

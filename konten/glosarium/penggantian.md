@@ -1,0 +1,12 @@
+---
+title: Penggantian
+id: GLO-0559
+---
+
+## Definisi
+
+### UU 8/1983 jo. UU 42/2009, Pasal 1 angka 19
+
+> Penggantian adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh pengusaha karena penyerahan Jasa Kena Pajak, ekspor Jasa Kena Pajak, atau ekspor Barang Kena Pajak Tidak Berwujud, tetapi tidak termasuk Pajak Pertambahan Nilai yang dipungut menurut Undang-Undang ini dan potongan harga yang dicantumkan dalam Faktur Pajak atau nilai berupa uang yang dibayar atau seharusnya dibayar oleh Penerima Jasa karena pemanfaatan Jasa Kena Pajak dan/atau oleh penerima manfaat Barang Kena Pajak Tidak Berwujud karena pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean.
+
+Sumber: [UU 42/2009, Pasal 1 angka 19](../kutipan/KUT-1585.md). Berlaku: sejak 2010-04-01 s.d. sekarang.

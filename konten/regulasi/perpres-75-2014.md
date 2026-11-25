@@ -18,4 +18,6 @@ tanggal_cek: '2026-11-17'
 
 ## Riwayat perubahan
 
-Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+**Diubah dengan:**
+
+- [Peraturan Presiden Nomor 122 Tahun 2016 tentang Perubahan atas Peraturan Presiden Nomor 75 Tahun 2014 tentang Percepatan Penyediaan Infrastruktur Prioritas](../regulasi/perpres-122-2016.md)

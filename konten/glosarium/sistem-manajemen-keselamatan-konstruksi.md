@@ -28,3 +28,9 @@ Sumber: [Permen PUPR 10/2021, Pasal 1 angka 3](../kutipan/KUT-0875.md). Berlaku:
 > Sistem Manajemen Keselamatan Konstruksi yang selanjutnya disingkat SMKK adalah bagian dari sistem manajemen pelaksanaan Pekerjaan Konstruksi untuk menjamin terwujudnya keselamatan Konstruksi.
 
 Sumber: [Permen PUPR 9/2021, Pasal 1 angka 12](../kutipan/KUT-0876.md). Berlaku: sejak 2021-04-01 s.d. sekarang.
+
+### PP 16/2021, Pasal 1 angka 47
+
+> Sistem Manajemen Keselamatan Konstruksi yang selanjutnya disingkat SMKK adalah bagian dari sistem manajemen pelaksanaan pekerjaan konstruksi dalam rangka menjamin terwujudnya keselamatan konstruksi.
+
+Sumber: [PP 16/2021, Pasal 1 angka 47](../kutipan/KUT-1810.md). Berlaku: sejak 2021-02-02 s.d. sekarang.

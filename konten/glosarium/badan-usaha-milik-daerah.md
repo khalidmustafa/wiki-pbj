@@ -16,3 +16,9 @@ Sumber: [PP 12/2019, Pasal 1 angka 79](../kutipan/KUT-1167.md). Berlaku: sejak 2
 > Badan Usaha Milik Daerah yang selanjutnya disingkat BUMD adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh Daerah.
 
 Sumber: [PP 54/2017, Pasal 1 angka 1](../kutipan/KUT-1168.md). Berlaku: sejak 2017-12-28 s.d. sekarang.
+
+### Perpres 115/2025, Pasal 1 angka 10
+
+> Badan Usaha Milik Daerah yang selanjutnya disingkat BUMD adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh daerah.
+
+Sumber: [Perpres 115/2025, Pasal 1 angka 10](../kutipan/KUT-1896.md). Berlaku: sejak 2025-11-17 s.d. sekarang.

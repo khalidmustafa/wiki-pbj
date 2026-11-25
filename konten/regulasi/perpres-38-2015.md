@@ -19,3 +19,20 @@ tanggal_cek: '2026-11-17'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Pasal 1 angka 3](../kutipan/KUT-1902.md)
+- [Pasal 1 angka 4](../kutipan/KUT-1903.md)
+- [Pasal 1 angka 5](../kutipan/KUT-1904.md)
+- [Pasal 1 angka 6](../kutipan/KUT-1905.md)
+- [Pasal 1 angka 7](../kutipan/KUT-1710.md)
+- [Pasal 1 angka 8](../kutipan/KUT-1906.md)
+- [Pasal 1 angka 9](../kutipan/KUT-1907.md)
+- [Pasal 1 angka 10](../kutipan/KUT-1908.md)
+- [Pasal 1 angka 11](../kutipan/KUT-1909.md)
+- [Pasal 1 angka 12](../kutipan/KUT-1881.md)
+- [Pasal 1 angka 13](../kutipan/KUT-1910.md)
+- [Pasal 1 angka 14](../kutipan/KUT-1883.md)
+- [Pasal 1 angka 15](../kutipan/KUT-1911.md)
+- [Pasal 1 angka 16](../kutipan/KUT-1912.md)

@@ -22,3 +22,9 @@ Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 8](../kutipan/KUT-0919.md). Berlak
 > Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu perangkat Desa sebagai unsur penyelenggara Pemerintahan Desa.
 
 Sumber: [Peraturan LKPP 12/2019, Pasal 1 angka 4](../kutipan/KUT-0920.md). Berlaku: sejak 2019-11-13 s.d. sekarang.
+
+### UU 6/2014 jo. UU 6/2023, Pasal 1 angka 3
+
+> Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain yang dibantu perangkat Desa sebagai unsur penyelenggara Pemerintahan Desa.
+
+Sumber: [UU 6/2023, Pasal 1 angka 3](../kutipan/KUT-1351.md). Berlaku: sejak 2023-03-31 s.d. sekarang.
