@@ -1,6 +1,6 @@
 # Wiki PBJ
 
-Sumber situs [wiki.pengadaan.id](https://wiki.pengadaan.id), rujukan terbuka pengadaan barang/jasa pemerintah yang dikelola KMP.
+Sumber situs [wiki.pengadaan.id](https://wiki.pengadaan.id), rujukan terbuka pengadaan barang/jasa di Indonesia yang dikelola KMP.
 
 ## Struktur
 
