@@ -76,8 +76,11 @@ export default (() => {
             <meta name="twitter:image" content={ogImageDefaultPath} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${(getFileExtension(ogImageDefaultPath) ?? "png").replace(/^\./, "")}`}
             />
+            {/* Ukuran gambar pratinjau Wiki PBJ (quartz/static/og-image.png). */}
+            <meta property="og:image:width" content="1200" />
+            <meta property="og:image:height" content="630" />
           </>
         )}
 
