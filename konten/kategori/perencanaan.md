@@ -4,7 +4,7 @@ title: 'Kategori: Perencanaan'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Rencana Umum Pengadaan](../artikel/rencana-umum-pengadaan.md)
 
 ## Tanya jawab
 

@@ -5,6 +5,8 @@ title: 'Kategori: Kontrak'
 ## Artikel
 
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
+- [Pemutusan Kontrak](../artikel/pemutusan-kontrak.md)
+- [Perubahan Kontrak](../artikel/perubahan-kontrak.md)
 
 ## Tanya jawab
 

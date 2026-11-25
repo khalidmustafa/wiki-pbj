@@ -16,3 +16,6 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md). Berlaku: ru
 > Swakelola adalah cara memperoleh barang/jasa dengan dikerjakan sendiri oleh TPK dan/atau masyarakat setempat.
 
 Sumber: [Peraturan LKPP 12/2019, Pasal 1 angka 19](../kutipan/KUT-1000.md). Berlaku: sejak 2019-11-13 s.d. sekarang.
+
+Artikel: [Swakelola](../artikel/swakelola.md)
+

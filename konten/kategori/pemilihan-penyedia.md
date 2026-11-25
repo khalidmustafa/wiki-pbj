@@ -4,8 +4,15 @@ title: 'Kategori: Pemilihan Penyedia'
 
 ## Artikel
 
+- [Evaluasi Penawaran](../artikel/evaluasi-penawaran.md)
 - [Kelompok Kerja Pemilihan](../artikel/kelompok-kerja-pemilihan.md)
+- [Kualifikasi Penyedia](../artikel/kualifikasi-penyedia.md)
+- [Metode Pemilihan Penyedia](../artikel/metode-pemilihan-penyedia.md)
 - [Pejabat Pengadaan](../artikel/pejabat-pengadaan.md)
+- [Pemenang Cadangan](../artikel/pemenang-cadangan.md)
+- [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
+- [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
+- [Tender](../artikel/tender.md)
 
 ## Tanya jawab
 

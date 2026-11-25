@@ -10,3 +10,6 @@ id: GLO-0090
 > Kualifikasi adalah penetapan kelompok usaha Jasa Konstruksi berdasarkan kemampuan usaha dan kelompok tenaga kerja berdasarkan kompetensi kerja.
 
 Sumber: [PP 14/2021, Pasal 1 angka 22](../kutipan/KUT-0853.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+
+Artikel: [Kualifikasi Penyedia](../artikel/kualifikasi-penyedia.md)
+

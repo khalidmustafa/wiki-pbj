@@ -4,7 +4,7 @@ title: 'Kategori: Swakelola'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Swakelola](../artikel/swakelola.md)
 
 ## Tanya jawab
 

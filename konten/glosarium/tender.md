@@ -16,3 +16,6 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 36](../kutipan/KUT-0759.md). Berlaku: ru
 > Tender adalah metode pemilihan untuk mendapatkan penyedia Pekerjaan Konstruksi.
 
 Sumber: [PP 14/2021, Pasal 1 angka 30](../kutipan/KUT-0862.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+
+Artikel: [Tender](../artikel/tender.md)
+

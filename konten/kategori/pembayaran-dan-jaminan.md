@@ -4,7 +4,7 @@ title: 'Kategori: Pembayaran dan Jaminan'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Pembayaran Prestasi Pekerjaan](../artikel/pembayaran-prestasi-pekerjaan.md)
 
 ## Tanya jawab
 

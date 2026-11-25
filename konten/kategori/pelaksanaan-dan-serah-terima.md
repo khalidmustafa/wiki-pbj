@@ -4,7 +4,7 @@ title: 'Kategori: Pelaksanaan dan Serah Terima'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Kontrak Kritis](../artikel/kontrak-kritis.md)
 
 ## Tanya jawab
 

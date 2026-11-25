@@ -4,7 +4,7 @@ title: 'Kategori: Persiapan Pengadaan'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Harga Perkiraan Sendiri](../artikel/harga-perkiraan-sendiri.md)
 
 ## Tanya jawab
 

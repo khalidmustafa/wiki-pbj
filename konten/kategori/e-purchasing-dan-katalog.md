@@ -4,7 +4,8 @@ title: 'Kategori: E-purchasing dan Katalog'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [E-purchasing](../artikel/e-purchasing.md)
+- [Katalog Elektronik](../artikel/katalog-elektronik.md)
 
 ## Tanya jawab
 

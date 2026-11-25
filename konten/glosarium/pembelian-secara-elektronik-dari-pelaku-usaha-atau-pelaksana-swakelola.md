@@ -16,3 +16,6 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 35](../kutipan/KUT-0758.md). Berlaku: ru
 > Pembelian secara Elektronik dari Pelaku Usaha atau Pelaksana Swakelola yang selanjutnya disebut E-purchasing adalah tata cara pembelian/memperoleh barang/jasa melalui sistem Katalog Elektronik.
 
 Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 20](../kutipan/KUT-0941.md). Berlaku: sejak 2026-09-01 s.d. sekarang.
+
+Artikel: [E-purchasing](../artikel/e-purchasing.md)
+

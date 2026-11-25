@@ -34,3 +34,6 @@ Sumber: [Permen PUPR 8/2023, Pasal 1 angka 5](../kutipan/KUT-0947.md). Berlaku: 
 > Harga Perkiraan Sendiri yang selanjutnya disingkat HPS adalah perkiraan harga barang/jasa yang ditetapkan oleh pejabat pembuat komitmen yang telah memperhitungkan biaya tidak langsung, keuntungan, pajak pertambahan nilai.
 
 Sumber: [Permen PUPR 10/2021, Pasal 1 angka 25](../kutipan/KUT-0948.md). Berlaku: sejak 2021-04-01 s.d. sekarang.
+
+Artikel: [Harga Perkiraan Sendiri](../artikel/harga-perkiraan-sendiri.md)
+
