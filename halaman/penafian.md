@@ -7,3 +7,4 @@ title: Penafian
 3. Status hukum peraturan ditampilkan sesuai tanggal terakhir dicek yang tercantum di setiap halaman. Status dapat berubah sesudah tanggal itu.
 4. Jawaban dalam bagian Tanya Jawab disusun berdasarkan regulasi yang berlaku pada tanggal acuan yang tercantum, dan dibatasi oleh bagian "Batas jawaban" di setiap halaman. Jawaban bersifat umum dan tidak menggantikan pendapat hukum atas kasus tertentu.
 5. Keputusan dalam pelaksanaan pengadaan tetap menjadi tanggung jawab pejabat yang berwenang.
+6. Situs ini memakai Google Analytics untuk menghitung kunjungan dan mengetahui halaman yang dibaca. Layanan tersebut memakai cookie dan mengumpulkan data penggunaan yang tidak dipakai untuk mengenali pembaca secara pribadi. Pembaca dapat menolak cookie melalui pengaturan peramban.

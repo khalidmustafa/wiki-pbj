@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: google
+    tagId: G-0CJ2TWY5M0
   locale: id-ID
   baseUrl: wiki.pengadaan.id
   ignorePatterns:
