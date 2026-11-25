@@ -44,3 +44,68 @@ body[data-slug="regulasi/index"] .page-listing,
 body[data-slug="tanya-jawab/index"] .page-listing {
   display: none;
 }
+
+// Pencarian khusus glosarium (static/cari-glosarium.js).
+#cari-glosarium {
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--highlight);
+
+  label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+  }
+
+  input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    font: inherit;
+    color: var(--dark);
+    background: var(--light);
+    border: 1px solid var(--gray);
+    border-radius: 4px;
+
+    &:focus {
+      outline: 2px solid var(--secondary);
+      outline-offset: 1px;
+    }
+  }
+
+  #cari-glosarium-info {
+    margin: 0.5rem 0 0;
+    font-size: 0.9rem;
+    color: var(--darkgray);
+
+    &:empty {
+      display: none;
+    }
+  }
+
+  #cari-glosarium-hasil {
+    margin: 0.5rem 0 0;
+    padding-left: 1.5rem;
+
+    &:empty {
+      display: none;
+    }
+
+    li {
+      margin: 0.35rem 0;
+    }
+  }
+
+  .cari-glosarium-cuplikan {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--darkgray);
+
+    mark {
+      background: var(--textHighlight);
+      color: inherit;
+    }
+  }
+}
