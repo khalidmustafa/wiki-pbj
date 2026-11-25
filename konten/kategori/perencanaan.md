@@ -4,6 +4,7 @@ title: 'Kategori: Perencanaan'
 
 ## Artikel
 
+- [Kontrak Tahun Jamak](../artikel/kontrak-tahun-jamak.md)
 - [Rencana Umum Pengadaan](../artikel/rencana-umum-pengadaan.md)
 
 ## Tanya jawab

@@ -6,6 +6,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 ## B
 
+- [Belanja Barang/Jasa oleh Satuan Pendidikan](./belanja-barang-jasa-oleh-satuan-pendidikan.md)
 - [Bentuk Kontrak](./bentuk-kontrak.md)
 
 ## D
@@ -35,8 +36,10 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Kegagalan Bangunan](./kegagalan-bangunan.md)
 - [Kelompok Kerja Pemilihan](./kelompok-kerja-pemilihan.md)
 - [Kerja Sama Operasi](./kerja-sama-operasi.md)
+- [Kerugian Negara/Daerah dalam Pengadaan Barang/Jasa](./kerugian-negara-daerah-dalam-pengadaan.md)
 - [Klarifikasi dan Negosiasi Teknis dan Harga](./klarifikasi-dan-negosiasi-teknis-dan-harga.md)
 - [Kontrak Kritis](./kontrak-kritis.md)
+- [Kontrak Tahun Jamak](./kontrak-tahun-jamak.md)
 - [Kualifikasi Penyedia](./kualifikasi-penyedia.md)
 
 ## M
@@ -59,6 +62,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pengadaan Barang/Jasa dalam rangka Percepatan Pembangunan di Papua](./pengadaan-barang-jasa-dalam-rangka-percepatan-pembangunan-di-papua.md)
 - [Pengadaan Barang/Jasa Desa](./pengadaan-barang-jasa-desa.md)
 - [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](./pengadaan-barang-jasa-internasional.md)
+- [Pengadaan Barang/Jasa pada BLU dan BLUD](./pengadaan-barang-jasa-pada-blu-dan-blud.md)
 - [Pengadaan Barang/Jasa yang Dikecualikan](./pengadaan-barang-jasa-yang-dikecualikan.md)
 - [Pengadaan Langsung](./pengadaan-langsung.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)

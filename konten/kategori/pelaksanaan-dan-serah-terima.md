@@ -4,6 +4,7 @@ title: 'Kategori: Pelaksanaan dan Serah Terima'
 
 ## Artikel
 
+- [Belanja Barang/Jasa oleh Satuan Pendidikan](../artikel/belanja-barang-jasa-oleh-satuan-pendidikan.md)
 - [Kegagalan Bangunan](../artikel/kegagalan-bangunan.md)
 - [Kontrak Kritis](../artikel/kontrak-kritis.md)
 - [Pemberian Kesempatan](../artikel/pemberian-kesempatan.md)

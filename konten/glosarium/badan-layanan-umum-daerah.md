@@ -16,3 +16,6 @@ Sumber: [PP 12/2019, Pasal 1 angka 58](../kutipan/KUT-1156.md). Berlaku: sejak 2
 > Badan Layanan Umum Daerah yang selanjutnya disingkat BLUD adalah sistem yang diterapkan oleh unit pelaksana teknis dinas/badan daerah dalam memberikan pelayanan kepada masyarakat yang mempunyai fleksibilitas dalam pola pengelolaan keuangan sebagai pengecualian dari ketentuan pengelolaan daerah pada umumnya.
 
 Sumber: [Permendagri 79/2018, Pasal 1 angka 1](../kutipan/KUT-1157.md). Berlaku: sejak 2018-09-04 s.d. sekarang.
+
+Artikel: [Pengadaan Barang/Jasa pada BLU dan BLUD](../artikel/pengadaan-barang-jasa-pada-blu-dan-blud.md)
+

@@ -8,6 +8,7 @@ title: 'Kategori: Kontrak'
 - [Denda Keterlambatan](../artikel/denda-keterlambatan.md)
 - [Jenis Kontrak](../artikel/jenis-kontrak.md)
 - [Keadaan Kahar](../artikel/keadaan-kahar.md)
+- [Kontrak Tahun Jamak](../artikel/kontrak-tahun-jamak.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
 - [Pemutusan Kontrak](../artikel/pemutusan-kontrak.md)
 - [Penyelesaian Sengketa Kontrak](../artikel/penyelesaian-sengketa-kontrak.md)

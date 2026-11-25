@@ -4,7 +4,7 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 177. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 179. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
 ## Undang-Undang (53)
@@ -132,7 +132,7 @@ Jumlah peraturan: 177. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Keputusan Presiden Nomor 14 Tahun 1971 tentang Pedoman Pelaksanaan Anggaran Pendapatan dan Belandja Negara Tahun 1971/1972](./keppres-14-1971.md) _(Tidak berlaku (masa berlaku berakhir))_
 - [Keputusan Presiden Nomor 33 Tahun 1969 tentang Pedoman Pelaksanaan Anggaran dan Pendapatan dan Belanja Negara Tahun 1969/1970](./keppres-33-1969.md) _(Tidak berlaku (masa berlaku berakhir))_
 
-## Peraturan Menteri (41)
+## Peraturan Menteri (43)
 
 - [Peraturan Menteri Keuangan Nomor 41 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan Pelaporan Keuangan](./pmk-41-2026.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 17 Tahun 2026 tentang Pedoman Penyusunan Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2027](./permendagri-17-2026.md) _(Berlaku)_
@@ -162,11 +162,13 @@ Jumlah peraturan: 177. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi](./permen-pupr-10-2021.md) _(Berlaku)_
 - [Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 9 Tahun 2021 tentang Pedoman Penyelenggaraan Konstruksi Berkelanjutan](./permen-pupr-9-2021.md) _(Berlaku)_
 - [Peraturan Menteri Keuangan Nomor 129/PMK.05/2020 tentang Pedoman Pengelolaan Badan Layanan Umum](./pmk-129-2020.md) _(Dicabut sebagian)_
+- [Peraturan Menteri Keuangan Nomor 93/PMK.02/2020 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 60/PMK.02/2018 tentang Persetujuan Kontrak Tahun Jamak oleh Menteri Keuangan](./pmk-93-2020.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 77 Tahun 2020 tentang Pedoman Teknis Pengelolaan Keuangan Daerah](./permendagri-77-2020.md) _(Berlaku)_
 - [Peraturan Menteri Keuangan Nomor 211/PMK.05/2019 tentang Tata Cara Penilaian Kompetensi bagi Pejabat Pembuat Komitmen dan Pejabat Penanda Tangan Surat Perintah Membayar pada Satuan Kerja Pengelola Anggaran Pendapatan dan Belanja Negara](./pmk-211-2019.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 90 Tahun 2019 tentang Klasifikasi, Kodefikasi, dan Nomenklatur Perencanaan Pembangunan dan Keuangan Daerah](./permendagri-90-2019.md) _(Berlaku)_
 - [Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 18 Tahun 2019 tentang Perubahan atas Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 27 Tahun 2017 tentang Tingkat Mutu Pelayanan dan Biaya yang Terkait dengan Penyaluran Tenaga Listrik oleh PT Perusahaan Listrik Negara (Persero)](./permen-esdm-18-2019.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018 tentang Badan Layanan Umum Daerah](./permendagri-79-2018.md) _(Berlaku)_
+- [Peraturan Menteri Keuangan Nomor 60/PMK.02/2018 tentang Persetujuan Kontrak Tahun Jamak oleh Menteri Keuangan](./pmk-60-2018.md) _(Berlaku dengan perubahan)_
 - [Peraturan Menteri Keuangan Nomor 145/PMK.05/2017 tentang Tata Cara Pembayaran atas Beban Anggaran Pendapatan dan Belanja Negara Sebelum Barang/Jasa Diterima](./pmk-145-2017.md) _(Dicabut sebagian)_
 - [Peraturan Menteri Dalam Negeri Nomor 53 Tahun 2017 tentang Pedoman Pelaksanaan Kegiatan dan Anggaran di Lingkungan Kementerian Dalam Negeri](./permendagri-53-2017.md) _(Berlaku dengan perubahan)_
 - [Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 27 Tahun 2017 tentang Tingkat Mutu Pelayanan dan Biaya yang Terkait dengan Penyaluran Tenaga Listrik oleh PT Perusahaan Listrik Negara (Persero)](./permen-esdm-27-2017.md) _(Berlaku dengan perubahan)_

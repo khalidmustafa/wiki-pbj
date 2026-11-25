@@ -16,3 +16,6 @@ Sumber: [Permendikdasmen 15/2026, Pasal 1 angka 2](../kutipan/KUT-1035.md). Berl
 > Satuan Pendidikan adalah kelompok layanan pendidikan yang menyelenggarakan pendidikan pada jalur formal, nonformal, dan informal pada setiap jenjang dan jenis pendidikan.
 
 Sumber: [Permendikdasmen 8/2026, Pasal 1 angka 6](../kutipan/KUT-1976.md). Berlaku: sejak 2026-02-06 s.d. sekarang.
+
+Artikel: [Belanja Barang/Jasa oleh Satuan Pendidikan](../artikel/belanja-barang-jasa-oleh-satuan-pendidikan.md)
+

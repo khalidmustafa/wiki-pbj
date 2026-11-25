@@ -4,6 +4,7 @@ title: 'Kategori: Pemilihan Penyedia'
 
 ## Artikel
 
+- [Belanja Barang/Jasa oleh Satuan Pendidikan](../artikel/belanja-barang-jasa-oleh-satuan-pendidikan.md)
 - [Evaluasi Penawaran](../artikel/evaluasi-penawaran.md)
 - [Kelompok Kerja Pemilihan](../artikel/kelompok-kerja-pemilihan.md)
 - [Kerja Sama Operasi](../artikel/kerja-sama-operasi.md)

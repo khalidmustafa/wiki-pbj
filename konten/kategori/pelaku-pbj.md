@@ -8,6 +8,7 @@ title: 'Kategori: Pelaku PBJ'
 - [Model Kematangan UKPBJ](../artikel/model-kematangan-ukpbj.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
 - [Pejabat Pengadaan](../artikel/pejabat-pengadaan.md)
+- [Pengadaan Barang/Jasa pada BLU dan BLUD](../artikel/pengadaan-barang-jasa-pada-blu-dan-blud.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](../artikel/pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 - [Penyedia Barang/Jasa Pemerintah](../artikel/penyedia-barang-jasa-pemerintah.md)
 - [Sumber Daya Manusia Pengadaan Barang/Jasa](../artikel/sumber-daya-manusia-pengadaan-barang-jasa.md)
