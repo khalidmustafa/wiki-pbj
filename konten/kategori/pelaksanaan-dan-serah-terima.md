@@ -5,6 +5,8 @@ title: 'Kategori: Pelaksanaan dan Serah Terima'
 ## Artikel
 
 - [Kontrak Kritis](../artikel/kontrak-kritis.md)
+- [Pemberian Kesempatan](../artikel/pemberian-kesempatan.md)
+- [Serah Terima Hasil Pekerjaan](../artikel/serah-terima-hasil-pekerjaan.md)
 
 ## Tanya jawab
 

@@ -4,7 +4,9 @@ title: 'Kategori: Pembayaran dan Jaminan'
 
 ## Artikel
 
+- [Jaminan Pengadaan Barang/Jasa](../artikel/jaminan-pengadaan-barang-jasa.md)
 - [Pembayaran Prestasi Pekerjaan](../artikel/pembayaran-prestasi-pekerjaan.md)
+- [Uang Muka](../artikel/uang-muka.md)
 
 ## Tanya jawab
 

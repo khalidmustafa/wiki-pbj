@@ -4,7 +4,8 @@ title: 'Kategori: Sanksi dan Pengawasan'
 
 ## Artikel
 
-Belum ada artikel dalam kategori ini. Artikel ditayangkan setelah lolos reviu redaksi.
+- [Sanksi Administratif dalam Pengadaan](../artikel/sanksi-administratif-dalam-pengadaan.md)
+- [Sanksi Daftar Hitam](../artikel/sanksi-daftar-hitam.md)
 
 ## Tanya jawab
 

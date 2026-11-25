@@ -22,3 +22,6 @@ Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 23](../kutipan/KUT-0798.md). Berla
 > Kontrak Pengadaan Barang/Jasa yang selanjutnya disebut Kontrak adalah perjanjian tertulis antara PA/KPA/PPK dengan Penyedia Barang/Jasa atau pelaksana Swakelola.
 
 Sumber: [PMK 107/2024, Pasal 1 angka 117](../kutipan/KUT-1229.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+
+Artikel: [Bentuk Kontrak](../artikel/bentuk-kontrak.md)
+

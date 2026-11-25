@@ -28,3 +28,6 @@ Sumber: [Peraturan LKPP 2/2026, Pasal 1 angka 14](../kutipan/KUT-0929.md). Berla
 > Unit Kerja Pengadaan Barang/Jasa yang selanjutnya disingkat UKPBJ adalah unit kerja di Kementerian/Lembaga/Pemerintah Daerah yang menjadi pusat keunggulan Pengadaan Barang/Jasa.
 
 Sumber: [Peraturan LKPP 7/2021, Pasal 1 angka 14](../kutipan/KUT-0930.md). Berlaku: sejak 2021-05-06 s.d. sekarang.
+
+Artikel: [Unit Kerja Pengadaan Barang/Jasa](../artikel/unit-kerja-pengadaan-barang-jasa.md)
+

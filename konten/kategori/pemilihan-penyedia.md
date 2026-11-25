@@ -12,6 +12,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Pemenang Cadangan](../artikel/pemenang-cadangan.md)
 - [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
 - [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
+- [Sanggah dan Sanggah Banding](../artikel/sanggah-dan-sanggah-banding.md)
 - [Tender](../artikel/tender.md)
 
 ## Tanya jawab

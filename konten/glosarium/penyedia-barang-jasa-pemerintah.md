@@ -40,3 +40,6 @@ Sumber: [Peraturan LKPP 12/2019, Pasal 1 angka 15](../kutipan/KUT-0940.md). Berl
 > Penyedia Barang/Jasa Pemerintah yang selanjutnya disebut Penyedia adalah pelaku usaha yang menyediakan barang/jasa berdasarkan Kontrak.
 
 Sumber: [PMK 107/2024, Pasal 1 angka 119](../kutipan/KUT-1230.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+
+Artikel: [Penyedia Barang/Jasa Pemerintah](../artikel/penyedia-barang-jasa-pemerintah.md)
+
