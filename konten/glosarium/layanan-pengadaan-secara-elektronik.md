@@ -10,3 +10,6 @@ id: GLO-0025
 > Layanan Pengadaan Secara Elektronik adalah layanan pengelolaan teknologi informasi untuk memfasilitasi pelaksanaan Pengadaan Barang/Jasa secara elektronik.
 
 Sumber: [Perpres 46/2025, Pasal 1 angka 21](../kutipan/KUT-0749.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+
+Artikel: [Sistem Pengadaan Secara Elektronik](../artikel/sistem-pengadaan-secara-elektronik.md)
+

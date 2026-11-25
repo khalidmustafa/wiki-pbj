@@ -40,3 +40,6 @@ Sumber: [Permen PUPR 10/2021, Pasal 1 angka 2](../kutipan/KUT-0811.md). Berlaku:
 > Pekerjaan Konstruksi adalah keseluruhan atau sebagian kegiatan yang meliputi pembangunan, pengoperasian, pemeliharaan, pembongkaran, dan pembangunan kembali suatu bangunan.
 
 Sumber: [Permen PUPR 9/2021, Pasal 1 angka 3](../kutipan/KUT-0812.md). Berlaku: sejak 2021-04-01 s.d. sekarang.
+
+Artikel: [Jenis Pengadaan Barang/Jasa](../artikel/jenis-pengadaan-barang-jasa.md)
+

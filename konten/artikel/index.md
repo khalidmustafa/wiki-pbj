@@ -22,6 +22,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Jaminan Pengadaan Barang/Jasa](./jaminan-pengadaan-barang-jasa.md)
 - [Jenis Kontrak](./jenis-kontrak.md)
+- [Jenis Pengadaan Barang/Jasa](./jenis-pengadaan-barang-jasa.md)
 
 ## K
 
@@ -40,19 +41,23 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Pejabat Pembuat Komitmen](./pejabat-pembuat-komitmen.md)
 - [Pejabat Pengadaan](./pejabat-pengadaan.md)
+- [Pelayanan Hukum bagi Pelaku Pengadaan Barang/Jasa](./pelayanan-hukum-bagi-pelaku-pengadaan.md)
 - [Pembayaran Prestasi Pekerjaan](./pembayaran-prestasi-pekerjaan.md)
 - [Pemberian Kesempatan](./pemberian-kesempatan.md)
 - [Pemenang Cadangan](./pemenang-cadangan.md)
 - [Pemilik Manfaat dalam Pengadaan Barang/Jasa](./pemilik-manfaat-dalam-pengadaan.md)
 - [Pemutusan Kontrak](./pemutusan-kontrak.md)
+- [Penelitian dalam Pengadaan Barang/Jasa](./penelitian-dalam-pengadaan-barang-jasa.md)
 - [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](./pengadaan-dalam-penanganan-keadaan-darurat.md)
 - [Pengadaan Barang/Jasa Desa](./pengadaan-barang-jasa-desa.md)
+- [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](./pengadaan-barang-jasa-internasional.md)
 - [Pengadaan Langsung](./pengadaan-langsung.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](./pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 - [Penggunaan Produk Dalam Negeri](./penggunaan-produk-dalam-negeri.md)
 - [Penunjukan Langsung](./penunjukan-langsung.md)
 - [Penyedia Barang/Jasa Pemerintah](./penyedia-barang-jasa-pemerintah.md)
+- [Penyelesaian Sengketa Kontrak](./penyelesaian-sengketa-kontrak.md)
 - [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](./peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 - [Perubahan Kontrak](./perubahan-kontrak.md)
 
@@ -66,7 +71,10 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Sanksi Administratif dalam Pengadaan](./sanksi-administratif-dalam-pengadaan.md)
 - [Sanksi Daftar Hitam](./sanksi-daftar-hitam.md)
 - [Sejarah Regulasi Pengadaan Barang/Jasa Pemerintah](./sejarah-regulasi-pengadaan-barang-jasa-pemerintah.md)
+- [Seleksi](./seleksi.md)
 - [Serah Terima Hasil Pekerjaan](./serah-terima-hasil-pekerjaan.md)
+- [Sistem Pengadaan Secara Elektronik](./sistem-pengadaan-secara-elektronik.md)
+- [Sumber Daya Manusia Pengadaan Barang/Jasa](./sumber-daya-manusia-pengadaan-barang-jasa.md)
 - [Swakelola](./swakelola.md)
 
 ## T

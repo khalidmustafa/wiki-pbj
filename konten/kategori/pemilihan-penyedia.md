@@ -12,9 +12,11 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Pemenang Cadangan](../artikel/pemenang-cadangan.md)
 - [Pemilik Manfaat dalam Pengadaan Barang/Jasa](../artikel/pemilik-manfaat-dalam-pengadaan.md)
 - [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](../artikel/pengadaan-dalam-penanganan-keadaan-darurat.md)
+- [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](../artikel/pengadaan-barang-jasa-internasional.md)
 - [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
 - [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
 - [Sanggah dan Sanggah Banding](../artikel/sanggah-dan-sanggah-banding.md)
+- [Seleksi](../artikel/seleksi.md)
 - [Tender](../artikel/tender.md)
 
 ## Tanya jawab

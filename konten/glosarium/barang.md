@@ -28,3 +28,6 @@ Sumber: [UU 42/2009, Pasal 1 angka 2](../kutipan/KUT-1537.md). Berlaku: sejak 20
 > Barang adalah setiap benda, baik berwujud maupun tidak berwujud, baik bergerak maupun tidak bergerak, baik dapat dihabiskan maupun tidak dapat dihabiskan, dan dapat diperdagangkan, dipakai, digunakan, atau dimanfaatkan oleh konsumen atau Pelaku Usaha.
 
 Sumber: [UU 7/2014, Pasal 1 angka 5](../kutipan/KUT-1538.md). Berlaku: sejak 2014-03-11 s.d. sekarang.
+
+Artikel: [Jenis Pengadaan Barang/Jasa](../artikel/jenis-pengadaan-barang-jasa.md)
+

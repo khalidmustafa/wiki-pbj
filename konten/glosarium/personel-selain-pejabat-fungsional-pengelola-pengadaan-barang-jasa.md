@@ -17,3 +17,6 @@ Sumber: [Perpres 46/2025, Pasal 1 angka 18b](../kutipan/KUT-0745.md). Berlaku: r
 > Personel selain Pejabat Fungsional Pengelola Pengadaan Barang/Jasa yang selanjutnya disebut Personel Lainnya adalah Aparatur Sipil Negara, prajurit Tentara Nasional Indonesia, dan anggota Kepolisian Negara Republik Indonesia yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan Pengadaan Barang/Jasa.
 
 Sumber: [Peraturan LKPP 7/2021, Pasal 1 angka 11](../kutipan/KUT-0968.md). Berlaku: sejak 2021-05-06 s.d. sekarang.
+
+Artikel: [Sumber Daya Manusia Pengadaan Barang/Jasa](../artikel/sumber-daya-manusia-pengadaan-barang-jasa.md)
+

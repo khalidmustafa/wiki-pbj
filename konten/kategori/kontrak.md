@@ -9,6 +9,7 @@ title: 'Kategori: Kontrak'
 - [Keadaan Kahar](../artikel/keadaan-kahar.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
 - [Pemutusan Kontrak](../artikel/pemutusan-kontrak.md)
+- [Penyelesaian Sengketa Kontrak](../artikel/penyelesaian-sengketa-kontrak.md)
 - [Perubahan Kontrak](../artikel/perubahan-kontrak.md)
 
 ## Tanya jawab
