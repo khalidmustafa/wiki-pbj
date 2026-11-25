@@ -4,7 +4,7 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 176. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 177. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
 ## Undang-Undang (53)
@@ -176,7 +176,7 @@ Jumlah peraturan: 176. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Menteri Keuangan Nomor 168/PMK.05/2015 tentang Mekanisme Pelaksanaan Anggaran Bantuan Pemerintah pada Kementerian Negara/Lembaga](./pmk-168-2015.md) _(Berlaku dengan perubahan)_
 - [Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah](./permendagri-13-2006.md) _(Dicabut)_
 
-## Peraturan Lembaga dan Badan (16)
+## Peraturan Lembaga dan Badan (17)
 
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 3 Tahun 2026 tentang Pedoman Persiapan dan Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia](./peraturan-lkpp-3-2026.md) _(Berlaku)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 2 Tahun 2026 tentang Katalog Elektronik dalam Pengadaan Barang/Jasa Pemerintah](./peraturan-lkpp-2-2026.md) _(Berlaku)_
@@ -184,6 +184,7 @@ Jumlah peraturan: 176. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 4 Tahun 2024 tentang Perubahan atas Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 12 Tahun 2021 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia](./peraturan-lkpp-4-2024.md) _(Dicabut)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 12 Tahun 2021 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah melalui Penyedia](./peraturan-lkpp-12-2021.md) _(Dicabut)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 11 Tahun 2021 tentang Pedoman Perencanaan Pengadaan Barang/Jasa Pemerintah](./peraturan-lkpp-11-2021.md) _(Berlaku)_
+- [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 10 Tahun 2021 tentang Unit Kerja Pengadaan Barang/Jasa](./peraturan-lkpp-10-2021.md) _(Berlaku)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 9 Tahun 2021 tentang Toko Daring dan Katalog Elektronik dalam Pengadaan Barang/Jasa Pemerintah](./peraturan-lkpp-9-2021.md) _(Dicabut)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 7 Tahun 2021 tentang Sumber Daya Manusia Pengadaan Barang/Jasa](./peraturan-lkpp-7-2021.md) _(Berlaku)_
 - [Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 5 Tahun 2021 tentang Pedoman Pengadaan Barang/Jasa yang Dikecualikan pada Pengadaan Barang/Jasa Pemerintah](./peraturan-lkpp-5-2021.md) _(Berlaku)_

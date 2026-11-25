@@ -85,6 +85,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 50 ayat 7](../kutipan/KUT-0661.md)
 - [Pasal 52 ayat 1](../kutipan/KUT-0162.md)
 - [Pasal 52 ayat 2](../kutipan/KUT-0214.md)
+- [Pasal 61 ayat 1 huruf a ayat 2 dan ayat 3](../kutipan/KUT-2115.md)
 - [Pasal 61 ayat 1a](../kutipan/KUT-0472.md)
 - [Pasal 62](../kutipan/KUT-2105.md)
 - [Pasal 64 ayat 2 3](../kutipan/KUT-2097.md)

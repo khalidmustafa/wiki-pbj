@@ -7,6 +7,7 @@ title: 'Kategori: Asas dan Kebijakan'
 - [Etika Pengadaan](../artikel/etika-pengadaan.md)
 - [Jenis Pengadaan Barang/Jasa](../artikel/jenis-pengadaan-barang-jasa.md)
 - [Penelitian dalam Pengadaan Barang/Jasa](../artikel/penelitian-dalam-pengadaan-barang-jasa.md)
+- [Pengadaan Barang/Jasa yang Dikecualikan](../artikel/pengadaan-barang-jasa-yang-dikecualikan.md)
 - [Sistem Pengadaan Secara Elektronik](../artikel/sistem-pengadaan-secara-elektronik.md)
 - [Tujuan, Kebijakan, dan Prinsip Pengadaan Barang/Jasa](../artikel/tujuan-kebijakan-dan-prinsip-pengadaan.md)
 

@@ -2,8 +2,8 @@
 title: Kategori
 ---
 
-- [Asas dan Kebijakan](./asas-dan-kebijakan.md) (5 artikel, 35 tanya jawab)
-- [Pelaku PBJ](./pelaku-pbj.md) (8 artikel, 77 tanya jawab)
+- [Asas dan Kebijakan](./asas-dan-kebijakan.md) (6 artikel, 35 tanya jawab)
+- [Pelaku PBJ](./pelaku-pbj.md) (9 artikel, 77 tanya jawab)
 - [Perencanaan](./perencanaan.md) (1 artikel, 49 tanya jawab)
 - [Persiapan Pengadaan](./persiapan-pengadaan.md) (1 artikel, 38 tanya jawab)
 - [Pemilihan Penyedia](./pemilihan-penyedia.md) (14 artikel, 99 tanya jawab)

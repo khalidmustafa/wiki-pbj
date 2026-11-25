@@ -150,6 +150,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 57](../kutipan/KUT-0331.md)
 - [Pasal 59 ayat 1 2 5 7](../kutipan/KUT-0323.md)
 - [Pasal 59 ayat 2 huruf d e ayat 3 4](../kutipan/KUT-2081.md)
+- [Pasal 61](../kutipan/KUT-2113.md)
 - [Pasal 61 ayat 1 huruf c dan ayat 3](../kutipan/KUT-0478.md)
 - [Pasal 64 ayat 1](../kutipan/KUT-0532.md)
 - [Pasal 64A 64B 64C](../kutipan/KUT-0154.md)

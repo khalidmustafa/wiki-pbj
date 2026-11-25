@@ -36,6 +36,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 ## M
 
 - [Metode Pemilihan Penyedia](./metode-pemilihan-penyedia.md)
+- [Model Kematangan UKPBJ](./model-kematangan-ukpbj.md)
 
 ## P
 
@@ -51,6 +52,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](./pengadaan-dalam-penanganan-keadaan-darurat.md)
 - [Pengadaan Barang/Jasa Desa](./pengadaan-barang-jasa-desa.md)
 - [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](./pengadaan-barang-jasa-internasional.md)
+- [Pengadaan Barang/Jasa yang Dikecualikan](./pengadaan-barang-jasa-yang-dikecualikan.md)
 - [Pengadaan Langsung](./pengadaan-langsung.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](./pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)

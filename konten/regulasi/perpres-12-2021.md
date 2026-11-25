@@ -34,5 +34,6 @@ tanggal_cek: '2026-10-23'
 - [Pasal 30 ayat 2 dan ayat 2a](../kutipan/KUT-2048.md)
 - [Pasal 31 ayat 3 dan Pasal 32 ayat 2](../kutipan/KUT-2043.md)
 - [Pasal 58](../kutipan/KUT-2071.md)
+- [Pasal 61 ayat 1 huruf a ayat 2 ayat 2a dan ayat 3](../kutipan/KUT-2114.md)
 - [Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)
 - [Pasal 85](../kutipan/KUT-2107.md)
