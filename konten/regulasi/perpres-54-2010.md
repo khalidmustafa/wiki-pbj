@@ -18,6 +18,10 @@ tanggal_cek: '2026-11-17'
 
 ## Riwayat perubahan
 
+**Mencabut:**
+
+- [Keputusan Presiden Nomor 80 Tahun 2003 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah](../regulasi/keppres-80-2003.md)
+
 **Diubah dengan:**
 
 - [Peraturan Presiden Nomor 70 Tahun 2012 tentang Perubahan Kedua atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](../regulasi/perpres-70-2012.md)

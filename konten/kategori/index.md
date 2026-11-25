@@ -14,4 +14,4 @@ title: Kategori
 - [Pembayaran dan Jaminan](./pembayaran-dan-jaminan.md) (1 artikel, 40 tanya jawab)
 - [Sanksi dan Pengawasan](./sanksi-dan-pengawasan.md) (belum ada artikel, 43 tanya jawab)
 - [Usaha Kecil dan Produk Dalam Negeri](./usaha-kecil-dan-produk-dalam-negeri.md) (belum ada artikel, 12 tanya jawab)
-- [Sejarah](./sejarah.md) (belum ada artikel)
+- [Sejarah](./sejarah.md) (1 artikel)

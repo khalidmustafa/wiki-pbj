@@ -4,7 +4,7 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 165. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 173. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
 ## Undang-Undang (53)
@@ -63,7 +63,7 @@ Jumlah peraturan: 165. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah](./uu-8-1983.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan](./uu-7-1983.md) _(Berlaku dengan perubahan)_
 
-## Peraturan Pemerintah (30)
+## Peraturan Pemerintah (32)
 
 - [Peraturan Pemerintah Nomor 49 Tahun 2025 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan](./pp-49-2025.md) _(Berlaku)_
 - [Peraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko](./pp-28-2025.md) _(Berlaku)_
@@ -95,6 +95,8 @@ Jumlah peraturan: 165. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Pemerintah Nomor 49 Tahun 2008 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 6 Tahun 2005 tentang Pemilihan, Pengesahan Pengangkatan, dan Pemberhentian Kepala Daerah dan Wakil Kepala Daerah](./pp-49-2008.md) _(Berlaku)_
 - [Peraturan Pemerintah Nomor 58 Tahun 2005 tentang Pengelolaan Keuangan Daerah](./pp-58-2005.md) _(Dicabut)_
 - [Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum](./pp-23-2005.md) _(Berlaku dengan perubahan)_
+- [Peraturan Pemerintah Nomor 55 Tahun 1957 tentang Perubahan Peraturan Pemerintah No. 7 Tahun 1952 (Lembaran-Negara Tahun 1952 No. 11) tentang Pembelian Barang-Barang untuk Perlengkapan Jawatan-Jawatan dan Organisasi-Organisasi Pemerintah](./pp-55-1957.md) _(Dicabut)_
+- [Peraturan Pemerintah Nomor 7 Tahun 1952 tentang Pembelian Barang-Barang untuk Perlengkapan Jawatan-Jawatan dan Organisasi-Organisasi Pemerintah](./pp-7-1952.md) _(Dicabut)_
 
 ## Peraturan Presiden (19)
 
@@ -117,6 +119,15 @@ Jumlah peraturan: 165. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Presiden Nomor 71 Tahun 2012 tentang Penyelenggaraan Pengadaan Tanah bagi Pembangunan untuk Kepentingan Umum](./perpres-71-2012.md) _(Dicabut)_
 - [Peraturan Presiden Nomor 70 Tahun 2012 tentang Perubahan Kedua atas Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](./perpres-70-2012.md) _(Dicabut)_
 - [Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](./perpres-54-2010.md) _(Dicabut)_
+
+## Keputusan Presiden (6)
+
+- [Keputusan Presiden Nomor 80 Tahun 2003 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah](./keppres-80-2003.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 18 Tahun 2000 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Instansi Pemerintah](./keppres-18-2000.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 16 Tahun 1994 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-16-1994.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 29 Tahun 1984 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-29-1984.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 18 Tahun 1981 tentang Penyempurnaan Keputusan Presiden Nomor 14 A Tahun 1980 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-18-1981.md) _(Dicabut)_
+- [Keputusan Presiden Nomor 14A Tahun 1980 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara](./keppres-14a-1980.md) _(Dicabut)_
 
 ## Peraturan Menteri (41)
 

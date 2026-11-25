@@ -42,6 +42,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 ## S
 
+- [Sejarah Regulasi Pengadaan Barang/Jasa Pemerintah](./sejarah-regulasi-pengadaan-barang-jasa-pemerintah.md)
 - [Swakelola](./swakelola.md)
 
 ## T
