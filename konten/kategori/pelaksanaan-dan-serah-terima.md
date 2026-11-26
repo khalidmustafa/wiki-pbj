@@ -8,7 +8,9 @@ title: 'Kategori: Pelaksanaan dan Serah Terima'
 - [Kegagalan Bangunan](../artikel/kegagalan-bangunan.md)
 - [Kontrak Kritis](../artikel/kontrak-kritis.md)
 - [Pemberian Kesempatan](../artikel/pemberian-kesempatan.md)
+- [Pengawasan Pekerjaan Konstruksi](../artikel/pengawasan-pekerjaan-konstruksi.md)
 - [Serah Terima Hasil Pekerjaan](../artikel/serah-terima-hasil-pekerjaan.md)
+- [Surat Perintah Mulai Kerja dan Rapat Persiapan Pelaksanaan Kontrak](../artikel/surat-perintah-mulai-kerja-dan-rapat-persiapan-pelaksanaan-kontrak.md)
 
 ## Tanya jawab
 

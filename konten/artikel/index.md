@@ -13,6 +13,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Delegasi, Mandat, Pelaksana Harian, dan Pelaksana Tugas dalam Pengadaan Barang/Jasa](./delegasi-mandat-pelaksana-harian-dan-pelaksana-tugas.md)
 - [Denda Keterlambatan](./denda-keterlambatan.md)
+- [Dokumen Pemilihan dan Pemberian Penjelasan](./dokumen-pemilihan-dan-pemberian-penjelasan.md)
 
 ## E
 
@@ -69,6 +70,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pengadaan Barang/Jasa yang Dikecualikan](./pengadaan-barang-jasa-yang-dikecualikan.md)
 - [Pengadaan Langsung](./pengadaan-langsung.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)
+- [Pengawasan Pekerjaan Konstruksi](./pengawasan-pekerjaan-konstruksi.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](./pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 - [Penggunaan Produk Dalam Negeri](./penggunaan-produk-dalam-negeri.md)
 - [Penilaian Kinerja Penyedia](./penilaian-kinerja-penyedia.md)
@@ -99,11 +101,13 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Subkontrak](./subkontrak.md)
 - [Sumber Daya Manusia Pengadaan Barang/Jasa](./sumber-daya-manusia-pengadaan-barang-jasa.md)
 - [Surat Penunjukan Penyedia dan Penandatanganan Kontrak](./surat-penunjukan-penyedia-dan-penandatanganan-kontrak.md)
+- [Surat Perintah Mulai Kerja dan Rapat Persiapan Pelaksanaan Kontrak](./surat-perintah-mulai-kerja-dan-rapat-persiapan-pelaksanaan-kontrak.md)
 - [Swakelola](./swakelola.md)
 
 ## T
 
 - [Tender](./tender.md)
+- [Tender Cepat](./tender-cepat.md)
 - [Tender Gagal dan Seleksi Gagal](./tender-gagal-dan-seleksi-gagal.md)
 - [Tim Teknis, Tim Ahli, dan Tim Pendukung](./tim-teknis-tim-ahli-dan-tim-pendukung.md)
 - [Tujuan, Kebijakan, dan Prinsip Pengadaan Barang/Jasa](./tujuan-kebijakan-dan-prinsip-pengadaan.md)

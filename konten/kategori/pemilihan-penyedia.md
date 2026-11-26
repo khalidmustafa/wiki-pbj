@@ -5,6 +5,7 @@ title: 'Kategori: Pemilihan Penyedia'
 ## Artikel
 
 - [Belanja Barang/Jasa oleh Satuan Pendidikan](../artikel/belanja-barang-jasa-oleh-satuan-pendidikan.md)
+- [Dokumen Pemilihan dan Pemberian Penjelasan](../artikel/dokumen-pemilihan-dan-pemberian-penjelasan.md)
 - [Evaluasi Penawaran](../artikel/evaluasi-penawaran.md)
 - [Kelompok Kerja Pemilihan](../artikel/kelompok-kerja-pemilihan.md)
 - [Kerja Sama Operasi](../artikel/kerja-sama-operasi.md)
@@ -27,6 +28,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Sanggah dan Sanggah Banding](../artikel/sanggah-dan-sanggah-banding.md)
 - [Seleksi](../artikel/seleksi.md)
 - [Tender](../artikel/tender.md)
+- [Tender Cepat](../artikel/tender-cepat.md)
 - [Tender Gagal dan Seleksi Gagal](../artikel/tender-gagal-dan-seleksi-gagal.md)
 
 ## Tanya jawab

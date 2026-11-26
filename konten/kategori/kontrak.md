@@ -18,6 +18,7 @@ title: 'Kategori: Kontrak'
 - [Perubahan Kontrak](../artikel/perubahan-kontrak.md)
 - [Subkontrak](../artikel/subkontrak.md)
 - [Surat Penunjukan Penyedia dan Penandatanganan Kontrak](../artikel/surat-penunjukan-penyedia-dan-penandatanganan-kontrak.md)
+- [Surat Perintah Mulai Kerja dan Rapat Persiapan Pelaksanaan Kontrak](../artikel/surat-perintah-mulai-kerja-dan-rapat-persiapan-pelaksanaan-kontrak.md)
 
 ## Tanya jawab
 
