@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 15
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment1.outputs.page_url || steps.deployment2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
         with:
@@ -51,5 +51,16 @@ jobs:
         with:
           path: public
 
-      - id: deployment
+      # deploy-pages kadang gagal sesaat; satu percobaan ulang otomatis setelah jeda 60 detik
+      # agar penayangan artikel terjadwal pukul 06.00 WIB tidak tertunda.
+      - id: deployment1
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Jeda sebelum percobaan ulang
+        if: steps.deployment1.outcome == 'failure'
+        run: sleep 60
+
+      - id: deployment2
+        if: steps.deployment1.outcome == 'failure'
         uses: actions/deploy-pages@v5
