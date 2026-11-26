@@ -51,7 +51,9 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 - [Pejabat Pembuat Komitmen](./pejabat-pembuat-komitmen.md)
 - [Pejabat Pengadaan](./pejabat-pengadaan.md)
+- [Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun](./pekerjaan-konstruksi-terintegrasi-rancang-dan-bangun.md)
 - [Pelayanan Hukum bagi Pelaku Pengadaan Barang/Jasa](./pelayanan-hukum-bagi-pelaku-pengadaan.md)
+- [Pemaketan dan Konsolidasi Pengadaan Barang/Jasa](./pemaketan-dan-konsolidasi-pengadaan-barang-jasa.md)
 - [Pembayaran Prestasi Pekerjaan](./pembayaran-prestasi-pekerjaan.md)
 - [Pemberian Kesempatan](./pemberian-kesempatan.md)
 - [Pemenang Cadangan](./pemenang-cadangan.md)
@@ -74,6 +76,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Penyesuaian Harga](./penyesuaian-harga.md)
 - [Peran Usaha Mikro, Usaha Kecil, dan Koperasi](./peran-usaha-mikro-usaha-kecil-dan-koperasi.md)
 - [Permintaan Berulang (Repeat Order)](./permintaan-berulang-repeat-order.md)
+- [Persekongkolan dalam Tender](./persekongkolan-dalam-tender.md)
 - [Perubahan Kontrak](./perubahan-kontrak.md)
 - [Pinjam Bendera Perusahaan](./pinjam-bendera-perusahaan.md)
 
@@ -93,11 +96,13 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Spesifikasi Teknis dan Kerangka Acuan Kerja](./spesifikasi-teknis-dan-kerangka-acuan-kerja.md)
 - [Subkontrak](./subkontrak.md)
 - [Sumber Daya Manusia Pengadaan Barang/Jasa](./sumber-daya-manusia-pengadaan-barang-jasa.md)
+- [Surat Penunjukan Penyedia dan Penandatanganan Kontrak](./surat-penunjukan-penyedia-dan-penandatanganan-kontrak.md)
 - [Swakelola](./swakelola.md)
 
 ## T
 
 - [Tender](./tender.md)
+- [Tender Gagal dan Seleksi Gagal](./tender-gagal-dan-seleksi-gagal.md)
 - [Tim Teknis, Tim Ahli, dan Tim Pendukung](./tim-teknis-tim-ahli-dan-tim-pendukung.md)
 - [Tujuan, Kebijakan, dan Prinsip Pengadaan Barang/Jasa](./tujuan-kebijakan-dan-prinsip-pengadaan.md)
 

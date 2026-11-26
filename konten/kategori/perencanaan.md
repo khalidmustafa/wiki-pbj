@@ -5,6 +5,7 @@ title: 'Kategori: Perencanaan'
 ## Artikel
 
 - [Kontrak Tahun Jamak](../artikel/kontrak-tahun-jamak.md)
+- [Pemaketan dan Konsolidasi Pengadaan Barang/Jasa](../artikel/pemaketan-dan-konsolidasi-pengadaan-barang-jasa.md)
 - [Rencana Umum Pengadaan](../artikel/rencana-umum-pengadaan.md)
 
 ## Tanya jawab

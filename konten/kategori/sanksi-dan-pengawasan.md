@@ -8,6 +8,7 @@ title: 'Kategori: Sanksi dan Pengawasan'
 - [Kerugian Negara/Daerah dalam Pengadaan Barang/Jasa](../artikel/kerugian-negara-daerah-dalam-pengadaan.md)
 - [Pelayanan Hukum bagi Pelaku Pengadaan Barang/Jasa](../artikel/pelayanan-hukum-bagi-pelaku-pengadaan.md)
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](../artikel/pengawasan-dan-pengaduan-pengadaan.md)
+- [Persekongkolan dalam Tender](../artikel/persekongkolan-dalam-tender.md)
 - [Pinjam Bendera Perusahaan](../artikel/pinjam-bendera-perusahaan.md)
 - [Sanksi Administratif dalam Pengadaan](../artikel/sanksi-administratif-dalam-pengadaan.md)
 - [Sanksi Daftar Hitam](../artikel/sanksi-daftar-hitam.md)

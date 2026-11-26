@@ -29,6 +29,8 @@ tanggal_cek: '2026-10-26'
 - [Lampiran angka 3.2](../kutipan/KUT-0158.md)
 - [Lampiran angka II 2.2 dan 2.2.1](../kutipan/KUT-0657.md)
 - [Lampiran angka II 2.2.4](../kutipan/KUT-0658.md)
+- [Lampiran angka II 2.4.1](../kutipan/KUT-1296.md)
+- [Lampiran angka II 2.4.3](../kutipan/KUT-1297.md)
 - [Lampiran angka II 2.6](../kutipan/KUT-0514.md)
 - [Lampiran angka III 3.1](../kutipan/KUT-0462.md)
 - [Pasal 8](../kutipan/KUT-0461.md)

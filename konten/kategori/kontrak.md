@@ -10,11 +10,13 @@ title: 'Kategori: Kontrak'
 - [Keadaan Kahar](../artikel/keadaan-kahar.md)
 - [Kontrak Tahun Jamak](../artikel/kontrak-tahun-jamak.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)
+- [Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun](../artikel/pekerjaan-konstruksi-terintegrasi-rancang-dan-bangun.md)
 - [Pemutusan Kontrak](../artikel/pemutusan-kontrak.md)
 - [Penyelesaian Sengketa Kontrak](../artikel/penyelesaian-sengketa-kontrak.md)
 - [Penyesuaian Harga](../artikel/penyesuaian-harga.md)
 - [Perubahan Kontrak](../artikel/perubahan-kontrak.md)
 - [Subkontrak](../artikel/subkontrak.md)
+- [Surat Penunjukan Penyedia dan Penandatanganan Kontrak](../artikel/surat-penunjukan-penyedia-dan-penandatanganan-kontrak.md)
 
 ## Tanya jawab
 

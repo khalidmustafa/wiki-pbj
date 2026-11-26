@@ -12,6 +12,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Kualifikasi Penyedia](../artikel/kualifikasi-penyedia.md)
 - [Metode Pemilihan Penyedia](../artikel/metode-pemilihan-penyedia.md)
 - [Pejabat Pengadaan](../artikel/pejabat-pengadaan.md)
+- [Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun](../artikel/pekerjaan-konstruksi-terintegrasi-rancang-dan-bangun.md)
 - [Pemenang Cadangan](../artikel/pemenang-cadangan.md)
 - [Pemilik Manfaat dalam Pengadaan Barang/Jasa](../artikel/pemilik-manfaat-dalam-pengadaan.md)
 - [Pengadaan Barang/Jasa dalam Penanganan Keadaan Darurat](../artikel/pengadaan-dalam-penanganan-keadaan-darurat.md)
@@ -20,10 +21,12 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
 - [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
 - [Permintaan Berulang (Repeat Order)](../artikel/permintaan-berulang-repeat-order.md)
+- [Persekongkolan dalam Tender](../artikel/persekongkolan-dalam-tender.md)
 - [Pinjam Bendera Perusahaan](../artikel/pinjam-bendera-perusahaan.md)
 - [Sanggah dan Sanggah Banding](../artikel/sanggah-dan-sanggah-banding.md)
 - [Seleksi](../artikel/seleksi.md)
 - [Tender](../artikel/tender.md)
+- [Tender Gagal dan Seleksi Gagal](../artikel/tender-gagal-dan-seleksi-gagal.md)
 
 ## Tanya jawab
 

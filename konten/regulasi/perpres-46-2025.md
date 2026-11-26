@@ -117,6 +117,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 30 ayat 1 dan Pasal 33 ayat 4](../kutipan/KUT-2042.md)
 - [Pasal 30 ayat 3 4 6 7 dan Pasal 33 ayat 1](../kutipan/KUT-0134.md)
 - [Pasal 33 ayat 2 3](../kutipan/KUT-0677.md)
+- [Pasal 33 ayat 4](../kutipan/KUT-2217.md)
 - [Pasal 33 ayat 5](../kutipan/KUT-0597.md)
 - [Pasal 34](../kutipan/KUT-0395.md)
 - [Pasal 38 ayat 2 dan Pasal 41 ayat 2](../kutipan/KUT-0485.md)

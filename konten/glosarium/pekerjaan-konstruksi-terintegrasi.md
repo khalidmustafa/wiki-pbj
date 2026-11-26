@@ -16,3 +16,6 @@ Sumber: [PP 14/2021, Pasal 1 angka 6](../kutipan/KUT-0844.md). Berlaku: sejak 20
 > Pekerjaan Konstruksi Terintegrasi adalah gabungan Pekerjaan Konstruksi dan jasa Konsultansi Konstruksi.
 
 Sumber: [Permen PUPR 10/2021, Pasal 1 angka 6](../kutipan/KUT-0845.md). Berlaku: sejak 2021-04-01 s.d. sekarang.
+
+Artikel: [Pekerjaan Konstruksi Terintegrasi Rancang dan Bangun](../artikel/pekerjaan-konstruksi-terintegrasi-rancang-dan-bangun.md)
+
