@@ -3,13 +3,13 @@ title: Kategori
 ---
 
 - [Asas dan Kebijakan](./asas-dan-kebijakan.md) (7 artikel, 35 tanya jawab)
-- [Pelaku PBJ](./pelaku-pbj.md) (10 artikel, 77 tanya jawab)
+- [Pelaku PBJ](./pelaku-pbj.md) (11 artikel, 77 tanya jawab)
 - [Perencanaan](./perencanaan.md) (3 artikel, 49 tanya jawab)
 - [Persiapan Pengadaan](./persiapan-pengadaan.md) (2 artikel, 38 tanya jawab)
-- [Pemilihan Penyedia](./pemilihan-penyedia.md) (23 artikel, 99 tanya jawab)
+- [Pemilihan Penyedia](./pemilihan-penyedia.md) (24 artikel, 99 tanya jawab)
 - [E-purchasing dan Katalog](./e-purchasing-dan-katalog.md) (2 artikel, 51 tanya jawab)
 - [Swakelola](./swakelola.md) (2 artikel, 22 tanya jawab)
-- [Kontrak](./kontrak.md) (13 artikel, 90 tanya jawab)
+- [Kontrak](./kontrak.md) (14 artikel, 90 tanya jawab)
 - [Pelaksanaan dan Serah Terima](./pelaksanaan-dan-serah-terima.md) (5 artikel, 33 tanya jawab)
 - [Pembayaran dan Jaminan](./pembayaran-dan-jaminan.md) (3 artikel, 40 tanya jawab)
 - [Sanksi dan Pengawasan](./sanksi-dan-pengawasan.md) (8 artikel, 43 tanya jawab)

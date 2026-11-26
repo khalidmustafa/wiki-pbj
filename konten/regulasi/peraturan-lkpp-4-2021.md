@@ -22,6 +22,10 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 
 ## Kutipan pasal
 
+- [Lampiran I angka 5.3 5.4](../kutipan/KUT-2256.md)
+- [Lampiran I angka 5.5 huruf a b](../kutipan/KUT-2257.md)
+- [Lampiran I angka 5.5 huruf c 5.6 5.7](../kutipan/KUT-2258.md)
+- [Lampiran I angka V pembuka 5.1 5.2](../kutipan/KUT-2255.md)
 - [Lampiran II angka 3.1 huruf g 4.1 4.2 huruf b](../kutipan/KUT-0372.md)
 - [Lampiran II angka 4.1 huruf c 4.2 huruf a](../kutipan/KUT-2034.md)
 - [Lampiran II angka 4.3.1 huruf a b f 4.3.2 huruf a 4.3.3](../kutipan/KUT-0373.md)

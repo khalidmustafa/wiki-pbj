@@ -4,6 +4,7 @@ title: 'Kategori: Pelaku PBJ'
 
 ## Artikel
 
+- [Delegasi, Mandat, Pelaksana Harian, dan Pelaksana Tugas dalam Pengadaan Barang/Jasa](../artikel/delegasi-mandat-pelaksana-harian-dan-pelaksana-tugas.md)
 - [Kelompok Kerja Pemilihan](../artikel/kelompok-kerja-pemilihan.md)
 - [Model Kematangan UKPBJ](../artikel/model-kematangan-ukpbj.md)
 - [Pejabat Pembuat Komitmen](../artikel/pejabat-pembuat-komitmen.md)

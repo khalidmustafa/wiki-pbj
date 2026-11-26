@@ -11,6 +11,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 
 ## D
 
+- [Delegasi, Mandat, Pelaksana Harian, dan Pelaksana Tugas dalam Pengadaan Barang/Jasa](./delegasi-mandat-pelaksana-harian-dan-pelaksana-tugas.md)
 - [Denda Keterlambatan](./denda-keterlambatan.md)
 
 ## E
@@ -70,6 +71,7 @@ Artikel ensiklopedia pengadaan barang/jasa pemerintah, satu konsep per artikel. 
 - [Pengawasan dan Pengaduan Pengadaan Barang/Jasa](./pengawasan-dan-pengaduan-pengadaan.md)
 - [Pengguna Anggaran dan Kuasa Pengguna Anggaran](./pengguna-anggaran-dan-kuasa-pengguna-anggaran.md)
 - [Penggunaan Produk Dalam Negeri](./penggunaan-produk-dalam-negeri.md)
+- [Penilaian Kinerja Penyedia](./penilaian-kinerja-penyedia.md)
 - [Penunjukan Langsung](./penunjukan-langsung.md)
 - [Penyedia Barang/Jasa Pemerintah](./penyedia-barang-jasa-pemerintah.md)
 - [Penyelesaian Sengketa Kontrak](./penyelesaian-sengketa-kontrak.md)

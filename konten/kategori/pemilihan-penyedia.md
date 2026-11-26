@@ -19,6 +19,7 @@ title: 'Kategori: Pemilihan Penyedia'
 - [Pengadaan Barang/Jasa dalam rangka Percepatan Pembangunan di Papua](../artikel/pengadaan-barang-jasa-dalam-rangka-percepatan-pembangunan-di-papua.md)
 - [Pengadaan Barang/Jasa Internasional dan Dana Pinjaman atau Hibah Luar Negeri](../artikel/pengadaan-barang-jasa-internasional.md)
 - [Pengadaan Langsung](../artikel/pengadaan-langsung.md)
+- [Penilaian Kinerja Penyedia](../artikel/penilaian-kinerja-penyedia.md)
 - [Penunjukan Langsung](../artikel/penunjukan-langsung.md)
 - [Permintaan Berulang (Repeat Order)](../artikel/permintaan-berulang-repeat-order.md)
 - [Persekongkolan dalam Tender](../artikel/persekongkolan-dalam-tender.md)
