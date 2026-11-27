@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [PP 14/2021, Pasal 1 angka 56](../kutipan/KUT-0907.md)
+> - [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 56](../kutipan/KUT-0907.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.4.1 angka 1 huruf g k dan kalimat penutup](../kutipan/KUT-2150.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 3.4.1 angka 1 huruf k l o](../kutipan/KUT-0097.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 3.4.1 angka 1 huruf j m n p](../kutipan/KUT-2151.md)
@@ -99,7 +99,7 @@ KSO jasa konsultansi berdana pinjaman luar negeri yang anggotanya tidak ikut bek
 
 ## Rujukan
 
-[^1]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 56 ([PP 14/2021, Pasal 1 angka 56](../kutipan/KUT-0907.md)).
+[^1]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 56 ([PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 56](../kutipan/KUT-0907.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.4.1 angka 1 huruf g sampai dengan huruf k dan kalimat penutup ([Peraturan LKPP 3/2026, Lampiran I angka 3.4.1 angka 1 huruf g k dan kalimat penutup](../kutipan/KUT-2150.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.4.1 angka 1 huruf j, huruf m, huruf n, dan huruf p ([Peraturan LKPP 3/2026, Lampiran II angka 3.4.1 angka 1 huruf j m n p](../kutipan/KUT-2151.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.4.1 angka 1 huruf k, huruf l, dan huruf o ([Peraturan LKPP 3/2026, Lampiran II angka 3.4.1 angka 1 huruf k l o](../kutipan/KUT-0097.md)).

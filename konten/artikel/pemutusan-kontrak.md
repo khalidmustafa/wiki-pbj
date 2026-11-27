@@ -20,7 +20,7 @@ tanggal_reviu: '2026-11-25'
 > - [Peraturan LKPP 3/2026, Lampiran I butir 6.18](../kutipan/KUT-0163.md)
 > - [Peraturan LKPP 3/2026, Lampiran II butir 6.18](../kutipan/KUT-0164.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.18.1 huruf i j](../kutipan/KUT-0125.md)
-> - [Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
 > - [Peraturan LKPP 4/2021, Lampiran II angka 3.1 huruf g 4.1 4.2 huruf b](../kutipan/KUT-0372.md)
 >
 > **Kategori:** [Kontrak](../kategori/kontrak.md)
@@ -113,10 +113,10 @@ Kontrak dengan Penyedia yang ternyata sudah dikenakan sanksi daftar hitam sebelu
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.18 dan angka 6.18.1 ([Peraturan LKPP 3/2026, Lampiran I butir 6.18](../kutipan/KUT-0163.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf a ([Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf a ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
 [^3]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka 3.1 huruf g, angka 4.1, dan angka 4.2 huruf b ([Peraturan LKPP 4/2021, Lampiran II angka 3.1 huruf g 4.1 4.2 huruf b](../kutipan/KUT-0372.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.18 dan angka 6.18.1 ([Peraturan LKPP 3/2026, Lampiran II butir 6.18](../kutipan/KUT-0164.md)).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf j ([Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf j ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
 [^6]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 93 ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.11.3 huruf b angka 3) ([Peraturan LKPP 3/2026, Lampiran II angka 6.11.3 huruf b angka 3 paragraf akhir](../kutipan/KUT-0198.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.11.2 ([Peraturan LKPP 3/2026, Lampiran I angka 6.11 paragraf akhir 6.11.1 6.11.2](../kutipan/KUT-1290.md)).

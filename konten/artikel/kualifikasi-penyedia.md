@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 44](../kutipan/KUT-1271.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 44](../kutipan/KUT-1271.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.4 paragraf 1 2](../kutipan/KUT-0340.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.3.1 paragraf 1](../kutipan/KUT-0192.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.1.1 huruf f paragraf 1 4](../kutipan/KUT-0511.md)
@@ -107,7 +107,7 @@ Cara Pokja Pemilihan mengevaluasi pemilik manfaat dan akibat surat pernyataan ya
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 44 ([Perpres 46/2025, Pasal 44](../kutipan/KUT-1271.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 44 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 44](../kutipan/KUT-1271.md)).
 [^2]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 56 ayat (1) sampai dengan ayat (4) ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
 [^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 24 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.3.1 ([Peraturan LKPP 3/2026, Lampiran I angka 3.3.1 paragraf 1](../kutipan/KUT-0192.md)).
@@ -115,13 +115,13 @@ Cara Pokja Pemilihan mengevaluasi pemilik manfaat dan akibat surat pernyataan ya
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.1.1 huruf g ([Peraturan LKPP 3/2026, Lampiran II angka 4.1.1 huruf g](../kutipan/KUT-0502.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.4 ([Peraturan LKPP 3/2026, Lampiran I angka 3.4 paragraf 1 2](../kutipan/KUT-0340.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.4 ([Peraturan LKPP 3/2026, Lampiran II angka 3.4 paragraf 1 2](../kutipan/KUT-0507.md)).
-[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 44 ayat (1) dan ayat (9) ([Perpres 46/2025, Pasal 44 ayat 1 dan 9](../kutipan/KUT-0092.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 44 ayat (1) dan ayat (9) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 44 ayat 1 dan 9](../kutipan/KUT-0092.md)).
 [^10]: Surat Edaran Kepala LKPP Nomor 3 Tahun 2026, angka 9 huruf d ([Surat Edaran 3/2026, angka 9 huruf d](../kutipan/KUT-0428.md)).
 [^11]: Surat Edaran Kepala LKPP Nomor 3 Tahun 2026, angka 9 huruf b ([Surat Edaran 3/2026, angka 9 huruf b](../kutipan/KUT-0269.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.4.2 huruf a angka 1) ([Peraturan LKPP 3/2026, Lampiran I angka 3.4.2 huruf a angka 1 huruf a b](../kutipan/KUT-0519.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.4.2 huruf a angka 1) ([Peraturan LKPP 3/2026, Lampiran II angka 3.4.2 huruf a angka 1 huruf a c d](../kutipan/KUT-0098.md)).
 [^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.1.1 huruf f ([Peraturan LKPP 3/2026, Lampiran II angka 4.1.1 huruf f paragraf 1 4](../kutipan/KUT-0511.md)).
 [^15]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.1.1 ([Peraturan LKPP 3/2026, Lampiran I angka 4.1.1 paragraf pemilik manfaat](../kutipan/KUT-0193.md)).
-[^16]: Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 22 ([PP 14/2021, Pasal 1 angka 22](../kutipan/KUT-0853.md)).
+[^16]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 22 ([PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 22](../kutipan/KUT-0853.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

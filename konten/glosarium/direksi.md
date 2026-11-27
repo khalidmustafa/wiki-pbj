@@ -15,7 +15,7 @@ Sumber: [UU 6/2023, Pasal 1 angka 5](../kutipan/KUT-1332.md). Berlaku: sejak 202
 
 > Direksi adalah organ BUMN yang berwenang dan bertanggung jawab penuh atas pengurusan BUMN untuk kepentingan BUMN, sesuai dengan maksud dan tujuan BUMN, baik di dalam maupun di luar pengadilan sesuai dengan ketentuan anggaran dasar.
 
-Sumber: [UU 16/2025, Pasal 1 angka 9](../kutipan/KUT-1333.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 9](../kutipan/KUT-1333.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
 
 ### UU 24/2011, Pasal 1 angka 13
 

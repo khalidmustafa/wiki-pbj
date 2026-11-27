@@ -9,7 +9,7 @@ id: GLO-0108
 
 > Rencana Mutu Pekerjaan Konstruksi yang selanjutnya disingkat RMPK adalah dokumen telaah tentang Keselamatan Konstruksi yang memuat uraian metode pekerjaan, rencana inspeksi dan pengujian, serta pengendalian subpenyedia jasa dan pemasok, dan merupakan satu kesatuan dengan dokumen kontrak.
 
-Sumber: [PP 14/2021, Pasal 1 angka 44](../kutipan/KUT-0885.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 44](../kutipan/KUT-0885.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 19
 

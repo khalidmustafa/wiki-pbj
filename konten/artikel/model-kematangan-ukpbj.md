@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)
 > - [Peraturan LKPP 10/2021, Pasal 1 angka 23 sampai dengan 26](../kutipan/KUT-2124.md)
 > - [Peraturan LKPP 10/2021, Pasal 24](../kutipan/KUT-2125.md)
 >
@@ -99,7 +99,7 @@ Belum ada tanya jawab dalam basis pengetahuan ini yang membahas Model Kematangan
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 1 angka 23 sampai dengan angka 26 ([Peraturan LKPP 10/2021, Pasal 1 angka 23 sampai dengan 26](../kutipan/KUT-2124.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (6) sampai dengan ayat (8) ([Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (6) sampai dengan ayat (8) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
 [^3]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 24 ([Peraturan LKPP 10/2021, Pasal 24](../kutipan/KUT-2125.md)).
 [^4]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 25 ayat (1) sampai dengan ayat (4) dan Pasal 26 ayat (1), ayat (3), ayat (5), dan ayat (6) ([Peraturan LKPP 10/2021, Pasal 25 ayat 1 sampai dengan 4 dan Pasal 26 ayat 1 3 5 6](../kutipan/KUT-2126.md)).
 [^5]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 28 dan Pasal 29 ([Peraturan LKPP 10/2021, Pasal 28 dan Pasal 29](../kutipan/KUT-2127.md)).

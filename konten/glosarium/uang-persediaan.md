@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 38](../kutipan/KUT-1139.md). Berlaku: sejak 2
 
 > Uang Persediaan yang selanjutnya disingkat UP adalah uang muka kerja dalam jumlah tertentu yang diberikan kepada Bendahara Pengeluaran untuk membiayai kegiatan operasional sehari-hari Satker atau membiayai pengeluaran yang menurut sifat dan tujuannya tidak mungkin dilakukan melalui mekanisme Pembayaran LS.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 123](../kutipan/KUT-1140.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 123](../kutipan/KUT-1140.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

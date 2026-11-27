@@ -15,7 +15,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 9](../kutipan/KUT-0827.md). Berlaku: sejak 201
 
 > Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan adalah pedoman teknis keamanan, keselamatan, kesehatan tempat kerja konstruksi, dan perlindungan sosial tenaga kerja, serta tata lingkungan setempat dan pengelolaan lingkungan hidup dalam penyelenggaraan Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 14](../kutipan/KUT-0828.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 14](../kutipan/KUT-0828.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 4
 

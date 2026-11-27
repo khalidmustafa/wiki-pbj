@@ -9,4 +9,4 @@ id: GLO-0354
 
 > Surat Perintah Membayar Penggantian Uang Persediaan yang selanjutnya disingkat SPM-GUP adalah dokumen yang diterbitkan oleh PPSPM dengan membebani DIPA, yang dananya dipergunakan untuk menggantikan UP yang telah dipakai.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 134](../kutipan/KUT-1238.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 134](../kutipan/KUT-1238.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

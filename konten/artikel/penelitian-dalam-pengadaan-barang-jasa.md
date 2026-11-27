@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 34](../kutipan/KUT-0757.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 34](../kutipan/KUT-0757.md)
 > - [Perpres 16/2018, Pasal 62](../kutipan/KUT-2105.md)
 >
 > **Glosarium:** [Penelitian](../glosarium/penelitian.md)
@@ -72,7 +72,7 @@ Belum ada tanya jawab dalam basis pengetahuan ini yang membahas penelitian sebag
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 34 ([Perpres 46/2025, Pasal 1 angka 34](../kutipan/KUT-0757.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 34 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 34](../kutipan/KUT-0757.md)).
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 62 ([Perpres 16/2018, Pasal 62](../kutipan/KUT-2105.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 39](../kutipan/KUT-1272.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 39](../kutipan/KUT-1272.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.5 dan 3.5.1 huruf a](../kutipan/KUT-1273.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf a b](../kutipan/KUT-0302.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 evaluasi dokumen penawaran huruf d angka 2](../kutipan/KUT-0303.md)
@@ -106,7 +106,7 @@ Cara Pokja Pemilihan mengenali pinjam bendera dan penilaian rincian penawaran ya
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.7 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf a b](../kutipan/KUT-0302.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 39 ([Perpres 46/2025, Pasal 39](../kutipan/KUT-1272.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 39 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 39](../kutipan/KUT-1272.md)).
 [^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 21 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.5 dan angka 3.5.1 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 3.5 dan 3.5.1 huruf a](../kutipan/KUT-1273.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.5.1 huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 3.5.1 huruf c](../kutipan/KUT-0300.md)).
@@ -114,7 +114,7 @@ Cara Pokja Pemilihan mengenali pinjam bendera dan penilaian rincian penawaran ya
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.5.2 ([Peraturan LKPP 3/2026, Lampiran I angka 3.5.2](../kutipan/KUT-1274.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.7 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.7 huruf a b](../kutipan/KUT-0221.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.7 huruf e sampai dengan huruf g ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf e f g](../kutipan/KUT-0195.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) ([Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.5 ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.5 paragraf 4](../kutipan/KUT-0301.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.5 ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.5 paragraf penawaran kurang dari 80 persen HPS](../kutipan/KUT-0495.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.7 huruf d angka 2) ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 evaluasi dokumen penawaran huruf d angka 2](../kutipan/KUT-0303.md)).

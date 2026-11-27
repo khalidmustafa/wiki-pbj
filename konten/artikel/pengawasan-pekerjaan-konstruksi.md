@@ -108,7 +108,7 @@ Kontrak konsultan pengawas yang berakhir sebelum pekerjaan konstruksi selesai di
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 6 ([Peraturan LKPP 3/2026, Pasal 6](../kutipan/KUT-0055.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 7 ([Peraturan LKPP 3/2026, Pasal 7](../kutipan/KUT-0056.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.11 ([Peraturan LKPP 3/2026, Lampiran II angka 6.11 paragraf pembuka](../kutipan/KUT-0593.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf b dan huruf c ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf b dan huruf c ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.11.1 huruf a, huruf b, dan huruf d ([Peraturan LKPP 3/2026, Lampiran II angka 6.11.1 huruf a b d](../kutipan/KUT-0174.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.7 dan angka 6.7.2 ([Peraturan LKPP 3/2026, Lampiran II angka 6.4 dan 6.7](../kutipan/KUT-2285.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.8 ([Peraturan LKPP 3/2026, Lampiran II angka 6.8](../kutipan/KUT-0122.md)).

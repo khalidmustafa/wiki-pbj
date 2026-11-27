@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 37](../kutipan/KUT-1137.md). Berlaku: sejak 2
 
 > Surat Permintaan Pembayaran yang selanjutnya disingkat SPP adalah dokumen yang diterbitkan oleh PPK, yang berisi permintaan pembayaran tagihan kepada negara.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 112](../kutipan/KUT-1138.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 112](../kutipan/KUT-1138.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

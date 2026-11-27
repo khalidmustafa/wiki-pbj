@@ -15,7 +15,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 1](../kutipan/KUT-0801.md). Berlaku: sejak 201
 
 > Jasa Konstruksi adalah layanan jasa konsultansi konstruksi dan/atau pekerjaan konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 3](../kutipan/KUT-0802.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 3](../kutipan/KUT-0802.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 1
 

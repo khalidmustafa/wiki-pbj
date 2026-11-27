@@ -18,8 +18,8 @@ tanggal_reviu: '2026-11-25'
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 11 ayat 1](../kutipan/KUT-0058.md)
-> - [Perpres 46/2025, Pasal 19 ayat 1 3 dan 4](../kutipan/KUT-2131.md)
-> - [Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 1 3 dan 4](../kutipan/KUT-2131.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2 paragraf pembuka 2.1.1 dan 2.1.2 huruf b d](../kutipan/KUT-2134.md)
 >
 > **Kategori:** [Persiapan Pengadaan](../kategori/persiapan-pengadaan.md)
@@ -120,12 +120,12 @@ Kewajiban Penyedia melaksanakan pekerjaan sesuai spesifikasi dalam Kontrak dibah
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 11 ayat (1) huruf c ([Perpres 16/2018, Pasal 11 ayat 1](../kutipan/KUT-0058.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1), ayat (3), dan ayat (4) ([Perpres 46/2025, Pasal 19 ayat 1 3 dan 4](../kutipan/KUT-2131.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1), ayat (3), dan ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 1 3 dan 4](../kutipan/KUT-2131.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka II paragraf pembuka, angka 2.1.1, dan angka 2.1.2 huruf b sampai dengan huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 2 paragraf pembuka 2.1.1 dan 2.1.2 huruf b d](../kutipan/KUT-2134.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 19 ([Perpres 16/2018, Pasal 19](../kutipan/KUT-2132.md)).
-[^5]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 19 ([Perpres 12/2021, Pasal 19](../kutipan/KUT-2133.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (2) ([Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1a) ([Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 19 ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 19](../kutipan/KUT-2133.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1a) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.1.2 dan angka 2.1.3 ([Peraturan LKPP 3/2026, Lampiran I angka 2.1.2 huruf a angka 1 dan 2.1.3](../kutipan/KUT-0254.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka II paragraf pembuka ([Peraturan LKPP 3/2026, Lampiran II Bab II pengantar persiapan pengadaan](../kutipan/KUT-0387.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.1.2 dan angka 2.1.3 ([Peraturan LKPP 3/2026, Lampiran II angka 2.1.2 paragraf akhir dan 2.1.3](../kutipan/KUT-0500.md)).

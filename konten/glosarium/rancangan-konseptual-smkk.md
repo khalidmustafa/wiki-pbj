@@ -9,7 +9,7 @@ id: GLO-0106
 
 > Rancangan Konseptual SMKK adalah dokumen telaah tentang Keselamatan Konstruksi yang disusun pada tahap pengkajian, perencanaan, dan/atau perancangan.
 
-Sumber: [PP 14/2021, Pasal 1 angka 42](../kutipan/KUT-0879.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 42](../kutipan/KUT-0879.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 12
 

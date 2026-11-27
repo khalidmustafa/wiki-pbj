@@ -4,10 +4,10 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 181. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 183. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
-## Undang-Undang (54)
+## Undang-Undang (55)
 
 - [Undang-Undang Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan](./uu-27-2026.md) _(Berlaku)_
 - [Undang-Undang Nomor 4 Tahun 2026 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan](./uu-4-2026.md) _(Berlaku)_
@@ -42,6 +42,7 @@ Jumlah peraturan: 181. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung](./uu-3-2009.md) _(Berlaku)_
 - [Undang-Undang Nomor 2 Tahun 2009 tentang Lembaga Pembiayaan Ekspor Indonesia](./uu-2-2009.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan](./uu-36-2008.md) _(Berlaku dengan perubahan)_
+- [Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah](./uu-21-2008.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah](./uu-20-2008.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik](./uu-14-2008.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas](./uu-40-2007.md) _(Berlaku dengan perubahan)_
@@ -211,3 +212,7 @@ Jumlah peraturan: 181. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Surat Edaran Bersama Kepala LKPP dan Menteri Dalam Negeri Nomor 2 Tahun 2024 / Nomor 000.3.3.2/2067/SJ tentang Pedoman Penyusunan Peraturan Kepala Daerah tentang PBJ Pemerintah di BLUD dan Pedoman Penyusunan Peraturan Pemimpin BLUD Sektor Kesehatan tentang PBJ melalui Penyedia](./surat-edaran-bersama-2-2024.md) _(Berlaku)_
 - [Surat Edaran Kepala Badan Kepegawaian Negara Nomor 1/SE/I/2021 tentang Kewenangan Pelaksana Harian dan Pelaksana Tugas dalam Aspek Kepegawaian](./surat-edaran-1-se-i-2021.md) _(Berlaku)_
 - [Surat Edaran Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 29 Tahun 2020 tentang Panduan Penyusunan Peraturan Pengadaan Barang/Jasa pada Badan Layanan Umum](./surat-edaran-29-2020.md) _(Berlaku)_
+
+## Lainnya (1)
+
+- [Peraturan Gubernur Nusa Tenggara Barat Nomor 12 Tahun 2020 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Badan Usaha Milik Daerah](./peraturan-gubernur-nusa-tenggara-barat-nomor-12-tahun-2020-tentang-pedoman-pelaksanaan-pengadaan-barang-jasa-badan-usaha-milik-daerah.md) _(Berlaku)_

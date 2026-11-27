@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)
-> - [Perpres 46/2025, Pasal 28 ayat 2 4](../kutipan/KUT-0470.md)
-> - [Perpres 46/2025, Pasal 28 ayat 5](../kutipan/KUT-0637.md)
-> - [Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)
-> - [Perpres 46/2025, Pasal 28 ayat 6a dan 7](../kutipan/KUT-2055.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 2 4](../kutipan/KUT-0470.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 5](../kutipan/KUT-0637.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 6a dan 7](../kutipan/KUT-2055.md)
 >
 > **Glosarium:** [Kontrak Pengadaan Barang/Jasa](../glosarium/kontrak-pengadaan-barang-jasa.md)
 >
@@ -103,15 +103,15 @@ Penandatanganan SPK dan SPMK pada tanggal yang sama dibahas dalam [TJ-0020](../t
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (1) dan ayat (4) ([Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (1) dan ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.4 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.4 huruf a b](../kutipan/KUT-0585.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (2) sampai dengan ayat (4) ([Perpres 46/2025, Pasal 28 ayat 2 4](../kutipan/KUT-0470.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (2) sampai dengan ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 2 4](../kutipan/KUT-0470.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.4 huruf c dan huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.4 huruf c dan d](../kutipan/KUT-2056.md)); Lampiran II angka 2.3.4 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.4 huruf a dan b](../kutipan/KUT-2057.md)).
 [^5]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 28, bunyi sebelum diubah ([Perpres 16/2018, Pasal 28 ayat 1 huruf c e ayat 4 5 6](../kutipan/KUT-2058.md)).
-[^6]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 28 ayat (4) sampai dengan ayat (6), bunyi sebelum diubah ([Perpres 12/2021, Pasal 28 ayat 4 5 6](../kutipan/KUT-2059.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6a) dan ayat (7) ([Perpres 46/2025, Pasal 28 ayat 6a dan 7](../kutipan/KUT-2055.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (5) ([Perpres 46/2025, Pasal 28 ayat 5](../kutipan/KUT-0637.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6) ([Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 28 ayat (4) sampai dengan ayat (6), bunyi sebelum diubah ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 28 ayat 4 5 6](../kutipan/KUT-2059.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6a) dan ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 6a dan 7](../kutipan/KUT-2055.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 5](../kutipan/KUT-0637.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.4 huruf d, isi naskah perjanjian huruf a dan huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.4 huruf d isi naskah perjanjian huruf a angka 1 3 dan huruf c](../kutipan/KUT-2060.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.4 huruf d, isi naskah perjanjian huruf b angka 5 sampai dengan angka 7 ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.4 huruf d isi naskah perjanjian huruf b angka 5 7](../kutipan/KUT-0551.md)).
 

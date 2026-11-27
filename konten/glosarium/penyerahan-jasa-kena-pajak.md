@@ -9,4 +9,4 @@ id: GLO-0548
 
 > Penyerahan Jasa Kena Pajak adalah setiap kegiatan pemberian Jasa Kena Pajak.
 
-Sumber: [UU 42/2009, Pasal 1 angka 7](../kutipan/KUT-1571.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 7](../kutipan/KUT-1571.md). Berlaku: sejak 2010-04-01 s.d. sekarang.

@@ -9,7 +9,7 @@ id: GLO-0035
 
 > Pekerjaan Konstruksi adalah keseluruhan atau sebagian kegiatan yang meliputi pembangunan, pengoperasian, pemeliharaan, pembongkaran, dan pembangunan kembali suatu bangunan.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### UU 2/2017, Pasal 1 angka 3
 
@@ -21,7 +21,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 3](../kutipan/KUT-0808.md). Berlaku: sejak 201
 
 > Pekerjaan Konstruksi adalah keseluruhan atau sebagian kegiatan yang meliputi pembangunan, pengoperasian, pemeliharaan, pembongkaran, dan pembangunan kembali suatu bangunan.
 
-Sumber: [PP 14/2021, Pasal 1 angka 5](../kutipan/KUT-0809.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 5](../kutipan/KUT-0809.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 8/2023, Pasal 1 angka 3
 

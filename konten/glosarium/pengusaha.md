@@ -15,7 +15,7 @@ Sumber: [UU 27/2026, Pasal 1 angka 7](../kutipan/KUT-1419.md). Berlaku: sejak 20
 
 > Pengusaha adalah orang pribadi atau badan dalam bentuk apa pun yang dalam kegiatan usaha atau pekerjaannya menghasilkan barang, mengimpor barang, mengekspor barang, melakukan usaha perdagangan, memanfaatkan barang tidak berwujud dari luar Daerah Pabean, melakukan usaha jasa termasuk mengekspor jasa, atau memanfaatkan jasa dari luar Daerah Pabean.
 
-Sumber: [UU 42/2009, Pasal 1 angka 14](../kutipan/KUT-1420.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 14](../kutipan/KUT-1420.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
 
 ### PP 36/2021, Pasal 1 angka 3
 

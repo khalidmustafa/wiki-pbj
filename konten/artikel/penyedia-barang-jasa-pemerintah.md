@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 28](../kutipan/KUT-0754.md)
-> - [Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 28](../kutipan/KUT-0754.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)
 > - [Perpres 16/2018, Pasal 17 ayat 1](../kutipan/KUT-2074.md)
 > - [Perpres 16/2018, Pasal 17 ayat 2](../kutipan/KUT-0072.md)
-> - [Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
 >
 > **Glosarium:** [Penyedia Barang/Jasa Pemerintah](../glosarium/penyedia-barang-jasa-pemerintah.md)
 >
@@ -108,13 +108,13 @@ Subkontrak oleh Penyedia usaha kecil konstruksi dibahas dalam [TJ-0055](../tanya
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 28 ([Perpres 46/2025, Pasal 1 angka 28](../kutipan/KUT-0754.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 21 ([Peraturan LKPP 3/2026, Pasal 1 angka 21](../kutipan/KUT-0796.md)).
-[^2]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 28 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 28](../kutipan/KUT-0754.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 21 ([Peraturan LKPP 3/2026, Pasal 1 angka 21](../kutipan/KUT-0796.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 17 ayat (1) ([Perpres 16/2018, Pasal 17 ayat 1](../kutipan/KUT-2074.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 17 ayat (2) ([Perpres 16/2018, Pasal 17 ayat 2](../kutipan/KUT-0072.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 26 dan angka 27 ([Perpres 46/2025, Pasal 1 angka 26 27](../kutipan/KUT-0544.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) huruf b, huruf c, huruf e, dan huruf h ([Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf h](../kutipan/KUT-0173.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf a dan huruf b serta ayat (3) huruf a, huruf e, dan huruf f ([Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md), [Perpres 46/2025, Pasal 78 ayat 3 huruf d e](../kutipan/KUT-0441.md), [Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 26 dan angka 27 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 26 27](../kutipan/KUT-0544.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) huruf b, huruf c, huruf e, dan huruf h ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf h](../kutipan/KUT-0173.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf a dan huruf b serta ayat (3) huruf a, huruf e, dan huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf d e](../kutipan/KUT-0441.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

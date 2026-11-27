@@ -9,4 +9,4 @@ id: GLO-0545
 
 > Barang Kena Pajak adalah barang yang dikenai pajak berdasarkan Undang-Undang ini.
 
-Sumber: [UU 42/2009, Pasal 1 angka 3](../kutipan/KUT-1568.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 3](../kutipan/KUT-1568.md). Berlaku: sejak 2010-04-01 s.d. sekarang.

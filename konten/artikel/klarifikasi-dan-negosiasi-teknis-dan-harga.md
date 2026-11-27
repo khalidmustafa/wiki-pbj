@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
-> - [Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.10 huruf a angka 1 2 5 8](../kutipan/KUT-2138.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 5.3.3 huruf b angka 4 7](../kutipan/KUT-2140.md)
 >
@@ -113,10 +113,10 @@ Pembulatan nilai hasil negosiasi yang memuat sen dalam Kontrak dibahas dalam [TJ
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (3) dan ayat (6) ([Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (7) ([Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (3) dan ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.10 huruf b angka 2), angka 5), angka 15), dan angka 16) ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.10 huruf b angka 2 5 15 16](../kutipan/KUT-2139.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf h ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf h ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.2.3 ([Peraturan LKPP 3/2026, Lampiran I angka 5.2.3 paragraf pengecualian](../kutipan/KUT-2142.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.10 huruf a angka 1), angka 2), dan angka 5) sampai dengan angka 8) ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.10 huruf a angka 1 2 5 8](../kutipan/KUT-2138.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.7 huruf c ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.7 huruf c kalimat penutup evaluasi teknis](../kutipan/KUT-0520.md)).

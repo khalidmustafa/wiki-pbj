@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)
 > - [Peraturan LKPP 12/2019, Pasal 1 angka 7](../kutipan/KUT-0989.md)
 > - [Peraturan LKPP 12/2019, Pasal 4 Pasal 5 Pasal 6](../kutipan/KUT-2087.md)
 > - [Peraturan LKPP 12/2019, Pasal 8 Pasal 9 Pasal 10 ayat 1 4 Pasal 11 ayat 1 2 5](../kutipan/KUT-2088.md)
@@ -91,7 +91,7 @@ Material dari Penyedia dengan pekerjaan oleh warga dibahas dalam [TJ-0072](../ta
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 12 Tahun 2019, Pasal 1 angka 7 ([Peraturan LKPP 12/2019, Pasal 1 angka 7](../kutipan/KUT-0989.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64A, Pasal 64B, dan Pasal 64C ([Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64A, Pasal 64B, dan Pasal 64C ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)).
 [^3]: Peraturan LKPP Nomor 12 Tahun 2019, Pasal 4 sampai dengan Pasal 6 ([Peraturan LKPP 12/2019, Pasal 4 Pasal 5 Pasal 6](../kutipan/KUT-2087.md)).
 [^4]: Peraturan LKPP Nomor 12 Tahun 2019, Pasal 1 angka 5 ([Peraturan LKPP 12/2019, Pasal 1 angka 5](../kutipan/KUT-0987.md)).
 [^5]: Peraturan LKPP Nomor 12 Tahun 2019, Pasal 8 sampai dengan Pasal 11 ([Peraturan LKPP 12/2019, Pasal 8 Pasal 9 Pasal 10 ayat 1 4 Pasal 11 ayat 1 2 5](../kutipan/KUT-2088.md)).

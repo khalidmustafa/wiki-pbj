@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 10](../kutipan/KUT-1341.md). Berlaku: sejak 20
 
 > Peleburan adalah perbuatan hukum yang dilakukan oleh 2 (dua) BUMN atau lebih untuk meleburkan diri dengan cara mendirikan 1 (satu) BUMN baru yang karena hukum memperoleh aktiva dan pasiva dari BUMN yang meleburkan diri dan status badan hukum BUMN yang meleburkan diri berakhir karena hukum.
 
-Sumber: [UU 16/2025, Pasal 1 angka 13](../kutipan/KUT-1342.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 13](../kutipan/KUT-1342.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

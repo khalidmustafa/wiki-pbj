@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 37](../kutipan/KUT-0760.md)
-> - [Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)
-> - [Perpres 46/2025, Pasal 41 ayat 4 6](../kutipan/KUT-0379.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 37](../kutipan/KUT-0760.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 4 6](../kutipan/KUT-0379.md)
 > - [Perpres 16/2018, Pasal 42 dan Pasal 43](../kutipan/KUT-2092.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.2.2 huruf c 3.3.1 3.3.2](../kutipan/KUT-2093.md)
 >
@@ -99,13 +99,13 @@ Waktu Seleksi yang lebih lama dari waktu pelaksanaan pekerjaan dibahas dalam TJ-
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 37 ([Perpres 46/2025, Pasal 1 angka 37](../kutipan/KUT-0760.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (6) ([Perpres 46/2025, Pasal 41 ayat 4 6](../kutipan/KUT-0379.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 37 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 37](../kutipan/KUT-0760.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 4 6](../kutipan/KUT-0379.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 42 dan Pasal 43 ayat (2) ([Perpres 16/2018, Pasal 42 dan Pasal 43](../kutipan/KUT-2092.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (1) dan ayat (3) ([Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (1) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.2.2 huruf c, angka 3.3.1, dan angka 3.3.2 ([Peraturan LKPP 3/2026, Lampiran I angka 3.2.2 huruf c 3.3.1 3.3.2](../kutipan/KUT-2093.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.2.2 huruf c, angka 3.3.1, dan angka 3.3.2 ([Peraturan LKPP 3/2026, Lampiran II angka 3.2.2 huruf c 3.3.1 3.3.2](../kutipan/KUT-2094.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (7) ([Perpres 46/2025, Pasal 41 ayat 7](../kutipan/KUT-0660.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2), ayat (7), ayat (8a), dan ayat (10) ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 7](../kutipan/KUT-0660.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2), ayat (7), ayat (8a), dan ayat (10) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

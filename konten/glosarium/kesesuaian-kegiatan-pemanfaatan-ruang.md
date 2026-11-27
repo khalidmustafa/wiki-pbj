@@ -9,7 +9,7 @@ id: GLO-0672
 
 > Kesesuaian Kegiatan Pemanfaatan Ruang adalah kesesuaian antara rencana kegiatan pemanfaatan ruang dengan rencana tata ruang.
 
-Sumber: [PP 39/2023, Pasal 1 angka 24](../kutipan/KUT-1716.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 24](../kutipan/KUT-1716.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
 
 ### PP 28/2025, Pasal 1 angka 27
 

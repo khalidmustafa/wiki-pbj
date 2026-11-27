@@ -9,7 +9,7 @@ id: GLO-0082
 
 > Pekerjaan Konstruksi Terintegrasi adalah gabungan Pekerjaan Konstruksi dan jasa Konsultansi Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 6](../kutipan/KUT-0844.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 6](../kutipan/KUT-0844.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 6
 

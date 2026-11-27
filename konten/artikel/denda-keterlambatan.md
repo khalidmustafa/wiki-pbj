@@ -18,7 +18,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
 > - [Perpres 16/2018, Pasal 79](../kutipan/KUT-2062.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a b](../kutipan/KUT-0110.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.21 huruf a b dan e](../kutipan/KUT-0150.md)
@@ -116,17 +116,17 @@ Denda pada Kontrak yang sebagian hasilnya sudah dimanfaatkan dibahas dalam TJ-01
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a b](../kutipan/KUT-0110.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf f ([Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4), ayat (4a), ayat (4b), dan ayat (5) ([Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4), ayat (4a), ayat (4b), dan ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 79 ayat (4) dan ayat (5) ([Perpres 16/2018, Pasal 79](../kutipan/KUT-2062.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf c, huruf e, huruf f, dan huruf g ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf c e f g](../kutipan/KUT-2135.md)).
-[^6]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 78 ayat (3) dan ayat (5), bunyi sebelum diubah ([Perpres 12/2021, Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 78 ayat (3) dan ayat (5), bunyi sebelum diubah ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.21 huruf a, huruf b, dan huruf e ([Peraturan LKPP 3/2026, Lampiran II angka 6.21 huruf a b dan e](../kutipan/KUT-0150.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka 6.19 ([Peraturan LKPP 3/2026, Lampiran III angka 6.19](../kutipan/KUT-2137.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.14.1 huruf j ([Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf j](../kutipan/KUT-0328.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.21 huruf c, huruf d, huruf f, dan huruf h ([Peraturan LKPP 3/2026, Lampiran II angka 6.21 huruf c d f h](../kutipan/KUT-2136.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.13 ([Peraturan LKPP 3/2026, Lampiran I angka 6.13 huruf b d g dan paragraf penutup](../kutipan/KUT-1291.md)).
-[^12]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 56 ([Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)).
+[^12]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 56 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.19 paragraf pembuka dan huruf a angka 3) sampai dengan angka 5) ([Peraturan LKPP 3/2026, Lampiran I angka 6.19 paragraf pembuka dan huruf a angka 3 5](../kutipan/KUT-0513.md)).
 [^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a dan d](../kutipan/KUT-0149.md)).
 

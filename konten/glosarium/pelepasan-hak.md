@@ -15,4 +15,4 @@ Sumber: [UU 2/2012, Pasal 1 angka 9](../kutipan/KUT-1559.md). Berlaku: sejak 201
 
 > Pelepasan Hak adalah kegiatan pemutusan hubungan hukum dari Pihak yang Berhak kepada negara.
 
-Sumber: [PP 39/2023, Pasal 1 angka 11](../kutipan/KUT-1560.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 11](../kutipan/KUT-1560.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

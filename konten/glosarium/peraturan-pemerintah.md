@@ -9,4 +9,4 @@ id: GLO-0450
 
 > Peraturan Pemerintah adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden untuk menjalankan Undang-Undang sebagaimana mestinya.
 
-Sumber: [UU 15/2019, Pasal 1 angka 5](../kutipan/KUT-1388.md). Berlaku: sejak 2019-10-04 s.d. sekarang.
+Sumber: [UU 12/2011 sebagaimana telah diubah dengan UU 15/2019, Pasal 1 angka 5](../kutipan/KUT-1388.md). Berlaku: sejak 2019-10-04 s.d. sekarang.

@@ -9,7 +9,7 @@ id: GLO-0005
 
 > Pejabat Pengadaan adalah pejabat administrasi/pejabat fungsional/personel yang bertugas melaksanakan Pengadaan Langsung, Penunjukan Langsung, dan/atau E-purchasing.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 13](../kutipan/KUT-0733.md). Berlaku: rumusan Perpres 16/2018 (sejak 2018-03-22), tidak berubah setelah Perpres 46/2025, s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 13](../kutipan/KUT-0733.md). Berlaku: rumusan Perpres 16/2018 (sejak 2018-03-22), tidak berubah setelah Perpres 46/2025, s.d. sekarang.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 20
 

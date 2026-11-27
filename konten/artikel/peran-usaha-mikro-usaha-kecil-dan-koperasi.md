@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)
-> - [Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)
-> - [Perpres 46/2025, Pasal 1 angka 45](../kutipan/KUT-0769.md)
-> - [Perpres 46/2025, Pasal 1 angka 46](../kutipan/KUT-0770.md)
-> - [Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 45](../kutipan/KUT-0769.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 46](../kutipan/KUT-0770.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)
 >
 > **Glosarium:** [Usaha Mikro](../glosarium/usaha-mikro.md), [Usaha Kecil](../glosarium/usaha-kecil.md), [Koperasi](../glosarium/koperasi.md)
 >
@@ -102,14 +102,14 @@ Besaran dan syarat uang muka dibahas dalam [TJ-0312](../tanya-jawab/TJ-0312.md).
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 65 ([Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 45 dan angka 46 ([Perpres 46/2025, Pasal 1 angka 45](../kutipan/KUT-0769.md), [Perpres 46/2025, Pasal 1 angka 46](../kutipan/KUT-0770.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 65 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 45 dan angka 46 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 45](../kutipan/KUT-0769.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 46](../kutipan/KUT-0770.md)).
 [^3]: Peraturan Pemerintah Nomor 7 Tahun 2021, Pasal 1 angka 1 ([PP 7/2021, Pasal 1 angka 1](../kutipan/KUT-1818.md)).
-[^4]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 huruf c ([Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)); Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 huruf g ([Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 20 ayat (3) ([Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ayat (1a) ([Perpres 16/2018, Pasal 61 ayat 1a](../kutipan/KUT-0472.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64B ayat (3) ([Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 huruf c ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)); Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 huruf g ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 20 ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ayat (1a) ([Perpres 16/2018, Pasal 61 ayat 1a](../kutipan/KUT-0472.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64B ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 64A 64B 64C](../kutipan/KUT-0154.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.8 huruf a angka 2) dan huruf b angka 2) ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.8 huruf a](../kutipan/KUT-0099.md), [Peraturan LKPP 3/2026, Lampiran II angka 2.3.8 huruf b](../kutipan/KUT-0270.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) huruf a sampai dengan huruf c ([Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) huruf a sampai dengan huruf c ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

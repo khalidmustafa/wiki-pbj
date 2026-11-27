@@ -9,4 +9,4 @@ id: GLO-0445
 
 > Pegawai Komisi Pemberantasan Korupsi adalah aparatur sipil negara sebagaimana dimaksud dalam peraturan perundang-undangan mengenai aparatur sipil negara.
 
-Sumber: [UU 19/2019, Pasal 1 angka 6](../kutipan/KUT-1383.md). Berlaku: sejak 2019-10-17 s.d. sekarang.
+Sumber: [UU 30/2002 sebagaimana telah diubah terakhir dengan UU 19/2019, Pasal 1 angka 6](../kutipan/KUT-1383.md). Berlaku: sejak 2019-10-17 s.d. sekarang.

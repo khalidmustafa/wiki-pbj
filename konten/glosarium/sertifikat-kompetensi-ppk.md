@@ -9,7 +9,7 @@ id: GLO-0022
 
 > Sertifikat Kompetensi PPK adalah tanda atau bukti keterangan tertulis dari proses penetapan dan pengakuan terhadap pencapaian kompetensi teknis sebagai PPK yang dilakukan secara sistematis dan objektif melalui uji kompetensi atau pelatihan sesuai dengan standar kompetensi yang ditetapkan.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 18d](../kutipan/KUT-0439.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18d](../kutipan/KUT-0439.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 Artikel: [Sumber Daya Manusia Pengadaan Barang/Jasa](../artikel/sumber-daya-manusia-pengadaan-barang-jasa.md)
 

@@ -9,7 +9,7 @@ id: GLO-0544
 
 > Daerah Pabean adalah wilayah Republik Indonesia yang meliputi wilayah darat, perairan, dan ruang udara di atasnya, serta tempat-tempat tertentu di Zona Ekonomi Eksklusif dan landas kontinen yang di dalamnya berlaku Undang-Undang yang mengatur mengenai kepabeanan.
 
-Sumber: [UU 42/2009, Pasal 1 angka 1](../kutipan/KUT-1566.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 1](../kutipan/KUT-1566.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
 
 ### UU 7/2014, Pasal 1 angka 15
 

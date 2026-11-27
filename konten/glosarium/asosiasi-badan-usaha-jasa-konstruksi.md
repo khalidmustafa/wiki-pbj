@@ -9,4 +9,4 @@ id: GLO-0084
 
 > Asosiasi Badan Usaha Jasa Konstruksi yang selanjutnya disebut Asosiasi Badan Usaha adalah organisasi berbadan hukum yang mewadahi Badan Usaha Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 11](../kutipan/KUT-0847.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 11](../kutipan/KUT-0847.md). Berlaku: sejak 2021-02-02 s.d. sekarang.

@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 57](../kutipan/KUT-0331.md)
-> - [Perpres 12/2021, Pasal 58](../kutipan/KUT-2071.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 57](../kutipan/KUT-0331.md)
+> - [Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 58](../kutipan/KUT-2071.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 7.1.1 huruf a b e](../kutipan/KUT-0330.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 7.1 huruf a d f dan angka 7.3](../kutipan/KUT-0142.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 7.2 huruf a g](../kutipan/KUT-0248.md)
@@ -106,8 +106,8 @@ Penandatangan FHO bila PPK penanda tangan PHO sudah pindah dibahas dalam [TJ-024
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 57 ([Perpres 46/2025, Pasal 57](../kutipan/KUT-0331.md)).
-[^2]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 58 ([Perpres 12/2021, Pasal 58](../kutipan/KUT-2071.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 57 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 57](../kutipan/KUT-0331.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 58 ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 58](../kutipan/KUT-2071.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 7.1 dan angka 7.3 ([Peraturan LKPP 3/2026, Lampiran II angka 7.1 huruf a d f dan angka 7.3](../kutipan/KUT-0142.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 7.1.1 huruf a, huruf b, dan huruf e ([Peraturan LKPP 3/2026, Lampiran I angka 7.1.1 huruf a b e](../kutipan/KUT-0330.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 7.1.1 huruf c dan huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 7.1.1 huruf c d](../kutipan/KUT-0526.md)).

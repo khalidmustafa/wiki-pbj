@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 41](../kutipan/KUT-1145.md). Berlaku: sejak 2
 
 > Surat Perintah Membayar yang selanjutnya disingkat SPM adalah dokumen yang diterbitkan oleh PPSPM untuk mencairkan dana yang bersumber dari DIPA.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 115](../kutipan/KUT-1146.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 115](../kutipan/KUT-1146.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

@@ -9,7 +9,7 @@ id: GLO-0550
 
 > Impor adalah setiap kegiatan memasukkan barang dari luar Daerah Pabean ke dalam Daerah Pabean.
 
-Sumber: [UU 42/2009, Pasal 1 angka 9](../kutipan/KUT-1573.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 9](../kutipan/KUT-1573.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
 
 ### UU 7/2014, Pasal 1 angka 18
 

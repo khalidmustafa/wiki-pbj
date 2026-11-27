@@ -9,4 +9,4 @@ id: GLO-0465
 
 > Tata Usaha Negara adalah administrasi negara yang melaksanakan fungsi untuk menyelenggarakan urusan pemerintahan baik di pusat maupun di daerah.
 
-Sumber: [UU 51/2009, Pasal 1 angka 7](../kutipan/KUT-1403.md). Berlaku: sejak 2009-10-29 s.d. sekarang.
+Sumber: [UU 5/1986 sebagaimana telah diubah terakhir dengan UU 51/2009, Pasal 1 angka 7](../kutipan/KUT-1403.md). Berlaku: sejak 2009-10-29 s.d. sekarang.

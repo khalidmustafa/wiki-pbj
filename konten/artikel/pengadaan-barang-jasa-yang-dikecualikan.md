@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)
 > - [Peraturan LKPP 5/2021, Pasal 1 Pasal 2 Pasal 3](../kutipan/KUT-2116.md)
 > - [Peraturan LKPP 5/2021, Lampiran I angka 1.2 dan 1.3](../kutipan/KUT-2118.md)
 >
@@ -129,10 +129,10 @@ Dokumen persiapan dan tahapan pemilihan oleh Pokja Pemilihan pada pengadaan yang
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 5 Tahun 2021, Lampiran I angka 1.2 dan angka 1.3 ([Peraturan LKPP 5/2021, Lampiran I angka 1.2 dan 1.3](../kutipan/KUT-2118.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ([Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)).
 [^3]: Peraturan LKPP Nomor 5 Tahun 2021, Pasal 1 sampai dengan Pasal 3 ([Peraturan LKPP 5/2021, Pasal 1 Pasal 2 Pasal 3](../kutipan/KUT-2116.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 61 ayat (1) huruf a, ayat (2), dan ayat (3), rumusan awal ([Perpres 16/2018, Pasal 61 ayat 1 huruf a ayat 2 dan ayat 3](../kutipan/KUT-2115.md)).
-[^5]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 61 ayat (1) huruf a, ayat (2), ayat (2a), dan ayat (3) ([Perpres 12/2021, Pasal 61 ayat 1 huruf a ayat 2 ayat 2a dan ayat 3](../kutipan/KUT-2114.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 61 ayat (1) huruf a, ayat (2), ayat (2a), dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 61 ayat 1 huruf a ayat 2 ayat 2a dan ayat 3](../kutipan/KUT-2114.md)).
 [^6]: Peraturan LKPP Nomor 5 Tahun 2021, Pasal 6 ([Peraturan LKPP 5/2021, Pasal 6](../kutipan/KUT-2117.md)).
 [^7]: Peraturan LKPP Nomor 5 Tahun 2021, Pasal 8 ([Peraturan LKPP 5/2021, Pasal 8](../kutipan/KUT-0473.md)).
 [^8]: Peraturan LKPP Nomor 5 Tahun 2021, Pasal 4 dan Pasal 5 ([Peraturan LKPP 5/2021, Pasal 4 Pasal 5](../kutipan/KUT-0243.md)).

@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 52 dan Pasal 55](../kutipan/KUT-0364.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 52 dan Pasal 55](../kutipan/KUT-0364.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.16 pembuka dan 6.17.1](../kutipan/KUT-0307.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.16 paragraf pemberitahuan dan penghentian](../kutipan/KUT-0464.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.16 bukti dan contoh keadaan kahar](../kutipan/KUT-0420.md)
@@ -79,7 +79,7 @@ Tanggul longsor atau jebol setelah serah terima karena musim hujan dibahas dalam
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 52; Peraturan Presiden Nomor 16 Tahun 2018, Pasal 55 ([Perpres 46/2025, Pasal 1 angka 52 dan Pasal 55](../kutipan/KUT-0364.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 52; Peraturan Presiden Nomor 16 Tahun 2018, Pasal 55 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 52 dan Pasal 55](../kutipan/KUT-0364.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.16 paragraf pembuka dan angka 6.17.1 ([Peraturan LKPP 3/2026, Lampiran II angka 6.16 pembuka dan 6.17.1](../kutipan/KUT-0307.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.16, bukti dan contoh keadaan kahar ([Peraturan LKPP 3/2026, Lampiran II angka 6.16 bukti dan contoh keadaan kahar](../kutipan/KUT-0420.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.16, pemberitahuan dan penghentian ([Peraturan LKPP 3/2026, Lampiran II angka 6.16 paragraf pemberitahuan dan penghentian](../kutipan/KUT-0464.md)).

@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 59 ayat 1 2 5 7](../kutipan/KUT-0323.md)
-> - [Perpres 46/2025, Pasal 59 ayat 2 huruf d e ayat 3 4](../kutipan/KUT-2081.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 59 ayat 1 2 5 7](../kutipan/KUT-0323.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 59 ayat 2 huruf d e ayat 3 4](../kutipan/KUT-2081.md)
 > - [Peraturan LKPP 6/2024, Pasal 4 ayat 1 2 5](../kutipan/KUT-0321.md)
 > - [Peraturan LKPP 6/2024, Pasal 3 Pasal 4 ayat 6 9](../kutipan/KUT-2082.md)
 > - [Peraturan LKPP 6/2024, Pasal 5 ayat 1 3 4 5 7 10 Pasal 7](../kutipan/KUT-2083.md)
@@ -121,12 +121,12 @@ Pembangunan gedung kantor setelah kebakaran melalui pengadaan dalam penanganan k
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 6 Tahun 2024, Pasal 1 angka 2 sampai dengan angka 4, angka 8, dan angka 9 ([Peraturan LKPP 6/2024, Pasal 1 angka 2](../kutipan/KUT-0951.md), [Peraturan LKPP 6/2024, Pasal 1 angka 3](../kutipan/KUT-0952.md), [Peraturan LKPP 6/2024, Pasal 1 angka 4](../kutipan/KUT-0953.md), [Peraturan LKPP 6/2024, Pasal 1 angka 8](../kutipan/KUT-0956.md), [Peraturan LKPP 6/2024, Pasal 1 angka 9](../kutipan/KUT-0957.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 59 ayat (1), ayat (2) huruf a sampai dengan huruf c, dan ayat (5) sampai dengan ayat (7) ([Perpres 46/2025, Pasal 59 ayat 1 2 5 7](../kutipan/KUT-0323.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 59 ayat (2) huruf d dan huruf e, ayat (3), dan ayat (4) ([Perpres 46/2025, Pasal 59 ayat 2 huruf d e ayat 3 4](../kutipan/KUT-2081.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 59 ayat (1), ayat (2) huruf a sampai dengan huruf c, dan ayat (5) sampai dengan ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 59 ayat 1 2 5 7](../kutipan/KUT-0323.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 59 ayat (2) huruf d dan huruf e, ayat (3), dan ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 59 ayat 2 huruf d e ayat 3 4](../kutipan/KUT-2081.md)).
 [^5]: Peraturan LKPP Nomor 6 Tahun 2024, Pasal 4 ayat (3) sampai dengan ayat (6) ([Peraturan LKPP 6/2024, Pasal 4 ayat 3 4](../kutipan/KUT-0540.md), [Peraturan LKPP 6/2024, Pasal 4 ayat 1 2 5](../kutipan/KUT-0321.md), [Peraturan LKPP 6/2024, Pasal 3 Pasal 4 ayat 6 9](../kutipan/KUT-2082.md)).
 [^6]: Peraturan LKPP Nomor 6 Tahun 2024, Pasal 3 dan Pasal 4 ayat (7) sampai dengan ayat (9) ([Peraturan LKPP 6/2024, Pasal 3 Pasal 4 ayat 6 9](../kutipan/KUT-2082.md)).
 [^7]: Peraturan LKPP Nomor 6 Tahun 2024, Lampiran I ([Peraturan LKPP 6/2024, Lampiran I cara pengadaan penyedia dan konstruksi permanen](../kutipan/KUT-0322.md)).
 [^8]: Peraturan LKPP Nomor 6 Tahun 2024, Pasal 5 dan Pasal 7 ([Peraturan LKPP 6/2024, Pasal 5 ayat 1 3 4 5 7 10 Pasal 7](../kutipan/KUT-2083.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (3) ([Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

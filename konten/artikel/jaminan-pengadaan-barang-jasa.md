@@ -17,10 +17,10 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 48](../kutipan/KUT-0773.md)
-> - [Perpres 46/2025, Pasal 30 ayat 1 dan Pasal 33 ayat 4](../kutipan/KUT-2042.md)
-> - [Perpres 46/2025, Pasal 30 ayat 1 2 5 dan Pasal 31 ayat 1](../kutipan/KUT-0282.md)
-> - [Perpres 46/2025, Pasal 30 ayat 3 4 6 7 dan Pasal 33 ayat 1](../kutipan/KUT-0134.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 48](../kutipan/KUT-0773.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 1 dan Pasal 33 ayat 4](../kutipan/KUT-2042.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 1 2 5 dan Pasal 31 ayat 1](../kutipan/KUT-0282.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 3 4 6 7 dan Pasal 33 ayat 1](../kutipan/KUT-0134.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.3.6 huruf a b c d angka 2 e f g](../kutipan/KUT-2045.md)
 >
 > **Glosarium:** [Surat Jaminan](../glosarium/surat-jaminan.md)
@@ -116,21 +116,21 @@ Alasan besaran jaminan dihitung dari HPS dibahas dalam [TJ-0477](../tanya-jawab/
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 48 ([Perpres 46/2025, Pasal 1 angka 48](../kutipan/KUT-0773.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 48 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 48](../kutipan/KUT-0773.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.6 ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.6 huruf a b c d angka 2 e f g](../kutipan/KUT-2045.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (1) dan Pasal 33 ayat (4) ([Perpres 46/2025, Pasal 30 ayat 1 dan Pasal 33 ayat 4](../kutipan/KUT-2042.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (3), ayat (4), ayat (6), dan ayat (7), serta Pasal 33 ayat (1) ([Perpres 46/2025, Pasal 30 ayat 3 4 6 7 dan Pasal 33 ayat 1](../kutipan/KUT-0134.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (1) dan Pasal 33 ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 1 dan Pasal 33 ayat 4](../kutipan/KUT-2042.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (3), ayat (4), ayat (6), dan ayat (7), serta Pasal 33 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 3 4 6 7 dan Pasal 33 ayat 1](../kutipan/KUT-0134.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.6 huruf a, huruf b, huruf d angka 2, huruf e, huruf f, dan huruf g ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.6 huruf a b c d angka 2 e f g](../kutipan/KUT-2045.md)).
 [^6]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 30 ayat (2) dan Pasal 33 ayat (2), bunyi sebelum diubah ([Perpres 16/2018, Pasal 30 ayat 2 dan Pasal 33 ayat 2](../kutipan/KUT-2047.md)).
-[^7]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 30 ayat (2) dan ayat (2a), bunyi sebelum diubah ([Perpres 12/2021, Pasal 30 ayat 2 dan ayat 2a](../kutipan/KUT-2048.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (1), ayat (2), dan ayat (5), serta Pasal 31 ayat (1) ([Perpres 46/2025, Pasal 30 ayat 1 2 5 dan Pasal 31 ayat 1](../kutipan/KUT-0282.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 33 ayat (2) dan ayat (3) ([Perpres 46/2025, Pasal 33 ayat 2 3](../kutipan/KUT-0677.md)).
-[^10]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) dan ayat (6), Pasal 30 ayat (2a), Pasal 31 ayat (2), dan Pasal 32 ayat (1) ([Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
-[^11]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 31 ayat (3) dan Pasal 32 ayat (2) ([Perpres 12/2021, Pasal 31 ayat 3 dan Pasal 32 ayat 2](../kutipan/KUT-2043.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 30 ayat (2) dan ayat (2a), bunyi sebelum diubah ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 30 ayat 2 dan ayat 2a](../kutipan/KUT-2048.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (1), ayat (2), dan ayat (5), serta Pasal 31 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 30 ayat 1 2 5 dan Pasal 31 ayat 1](../kutipan/KUT-0282.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 33 ayat (2) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 33 ayat 2 3](../kutipan/KUT-0677.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) dan ayat (6), Pasal 30 ayat (2a), Pasal 31 ayat (2), dan Pasal 32 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
+[^11]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 31 ayat (3) dan Pasal 32 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 31 ayat 3 dan Pasal 32 ayat 2](../kutipan/KUT-2043.md)).
 [^12]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 34 dan Pasal 35 ([Perpres 16/2018, Pasal 34 dan Pasal 35](../kutipan/KUT-2044.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.6 ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.6 huruf a b c d angka 2 e f g h](../kutipan/KUT-2046.md)).
 [^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.6 huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.6 huruf a b c d angka 2 e f g](../kutipan/KUT-2045.md)).
-[^15]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 33 ayat (5) ([Perpres 46/2025, Pasal 33 ayat 5](../kutipan/KUT-0597.md)).
+[^15]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 33 ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 33 ayat 5](../kutipan/KUT-0597.md)).
 [^16]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.6 huruf d angka 1 ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.6 paragraf pembuka dan huruf d angka 1](../kutipan/KUT-0135.md)).
 [^17]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.6 huruf d angka 1 ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.6 huruf d angka 1](../kutipan/KUT-0136.md)).
 

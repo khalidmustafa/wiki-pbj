@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-27'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 43](../kutipan/KUT-0767.md)
-> - [Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 43](../kutipan/KUT-0767.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 3.9 sampai 3.9.3](../kutipan/KUT-2278.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 3.8 sampai 3.8.3](../kutipan/KUT-2279.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.3 dan 4.2.4](../kutipan/KUT-2280.md)
@@ -125,8 +125,8 @@ Akibat reviu dokumen persiapan oleh Pejabat Pengadaan yang terlewat sebelum unda
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 43 ([Perpres 46/2025, Pasal 1 angka 43](../kutipan/KUT-0767.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (1) ([Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 43 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 43](../kutipan/KUT-0767.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.3 dan angka 4.2.4 ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.3 dan 4.2.4](../kutipan/KUT-2280.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.4, paragraf adendum dokumen pemilihan ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.4 paragraf adendum dokumen pemilihan](../kutipan/KUT-0673.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.9 sampai dengan angka 3.9.3 ([Peraturan LKPP 3/2026, Lampiran I angka 3.9 sampai 3.9.3](../kutipan/KUT-2278.md)).
@@ -136,6 +136,6 @@ Akibat reviu dokumen persiapan oleh Pejabat Pengadaan yang terlewat sebelum unda
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 3.8.2 huruf a angka 3) dan angka 4) ([Peraturan LKPP 3/2026, Lampiran I angka 3.8.2 huruf a angka 3 dan 4](../kutipan/KUT-2282.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.4 huruf c dan Lampiran II angka 5.4.4 huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.4 huruf a sampai d angka 7](../kutipan/KUT-2271.md), [Peraturan LKPP 3/2026, Lampiran II angka 5.4.4](../kutipan/KUT-2276.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.7 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf a b](../kutipan/KUT-0302.md)).
-[^12]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf d, ayat (7), ayat (8a), dan ayat (9) ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^12]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf d, ayat (7), ayat (8a), dan ayat (9) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-27. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

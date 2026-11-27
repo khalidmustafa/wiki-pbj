@@ -9,4 +9,4 @@ id: GLO-0676
 
 > Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional yang selanjutnya disebut Kementerian adalah kementerian yang menyelenggarakan urusan pemerintahan di bidang agraria/pertanahan dan tata ruang.
 
-Sumber: [PP 39/2023, Pasal 1 angka 30](../kutipan/KUT-1721.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 30](../kutipan/KUT-1721.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

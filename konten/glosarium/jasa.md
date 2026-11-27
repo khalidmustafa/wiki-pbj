@@ -15,7 +15,7 @@ Sumber: [UU 5/1999, Pasal 1 angka 17](../kutipan/KUT-1539.md). Berlaku: sejak 20
 
 > Jasa adalah setiap kegiatan pelayanan yang berdasarkan suatu perikatan atau perbuatan hukum yang menyebabkan suatu barang, fasilitas, kemudahan, atau hak tersedia untuk dipakai, termasuk jasa yang dilakukan untuk menghasilkan barang karena pesanan atau permintaan dengan bahan dan atas petunjuk dari pemesan.
 
-Sumber: [UU 42/2009, Pasal 1 angka 5](../kutipan/KUT-1540.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 5](../kutipan/KUT-1540.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
 
 ### UU 7/2014, Pasal 1 angka 6
 

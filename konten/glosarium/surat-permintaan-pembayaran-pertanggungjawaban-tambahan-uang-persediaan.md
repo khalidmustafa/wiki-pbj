@@ -9,4 +9,4 @@ id: GLO-0352
 
 > Surat Permintaan Pembayaran Pertanggungjawaban Tambahan Uang Persediaan yang selanjutnya disingkat SPP-PTUP adalah dokumen yang diterbitkan oleh PPK, yang berisi permintaan pertanggungjawaban atas TUP.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 131](../kutipan/KUT-1236.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 131](../kutipan/KUT-1236.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

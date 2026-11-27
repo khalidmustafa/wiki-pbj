@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)
-> - [Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 5.2.1 paragraf pembuka dan 5.2.1.1 huruf b c](../kutipan/KUT-0442.md)
 > - [Surat Edaran 3/2026, angka 9 huruf c e f](../kutipan/KUT-0384.md)
 >
@@ -109,10 +109,10 @@ Satu konsultan yang memperoleh banyak paket dibahas dalam TJ-0154.
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.2.1 paragraf pembuka dan angka 5.2.1.1 huruf b dan huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 5.2.1 paragraf pembuka dan 5.2.1.1 huruf b c](../kutipan/KUT-0442.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.2.1 ([Peraturan LKPP 3/2026, Lampiran II angka 5.2.1](../kutipan/KUT-0382.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf k ([Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (5) huruf f ([Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf k ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (5) huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)).
 [^5]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 41 ayat (4) dan ayat (5) huruf d ([Perpres 16/2018, Pasal 41 ayat 4 dan ayat 5 huruf d](../kutipan/KUT-2157.md)).
-[^6]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 41 ayat (5) huruf d ([Perpres 12/2021, Pasal 41 ayat 5 huruf d](../kutipan/KUT-2158.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 41 ayat (5) huruf d ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 41 ayat 5 huruf d](../kutipan/KUT-2158.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.2.1 huruf b dan huruf c serta angka 5.2.1.1 huruf a dan huruf b angka 2) sampai dengan angka 4) ([Peraturan LKPP 3/2026, Lampiran I angka 5.2.1 huruf b c dan 5.2.1.1 huruf a b angka 2 4](../kutipan/KUT-2154.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.2.1.2 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 5.2.1.2 huruf a](../kutipan/KUT-0251.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.2.1.1 huruf a, huruf b angka 2) sampai dengan angka 4), dan huruf d ([Peraturan LKPP 3/2026, Lampiran II angka 5.2.1.1 huruf a b angka 2 4 dan huruf d](../kutipan/KUT-2156.md)).

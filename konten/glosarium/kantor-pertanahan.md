@@ -9,4 +9,4 @@ id: GLO-0678
 
 > Kantor Pertanahan adalah instansi vertikal Kementerian di kabupaten/kota.
 
-Sumber: [PP 39/2023, Pasal 1 angka 33](../kutipan/KUT-1723.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 33](../kutipan/KUT-1723.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

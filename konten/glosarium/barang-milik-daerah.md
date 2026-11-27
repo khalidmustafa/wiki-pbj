@@ -27,4 +27,4 @@ Sumber: [PP 27/2014, Pasal 1 angka 2](../kutipan/KUT-1077.md). Berlaku: sejak 20
 
 > Barang Milik Daerah adalah semua barang yang dibeli atau diperoleh atas beban APBD atau berasal dari perolehan lainnya yang sah.
 
-Sumber: [Permendagri 7/2024, Pasal 1 angka 15](../kutipan/KUT-1078.md). Berlaku: sejak 2024-07-02 s.d. sekarang.
+Sumber: [Permendagri 19/2016 sebagaimana telah diubah terakhir dengan Permendagri 7/2024, Pasal 1 angka 15](../kutipan/KUT-1078.md). Berlaku: sejak 2024-07-02 s.d. sekarang.

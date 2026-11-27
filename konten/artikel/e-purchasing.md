@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 35](../kutipan/KUT-0758.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 35](../kutipan/KUT-0758.md)
 > - [Perpres 16/2018, Pasal 50 ayat 5 5a 5b 5c](../kutipan/KUT-0222.md)
 > - [Peraturan LKPP 2/2026, Pasal 12 ayat 1 6](../kutipan/KUT-0223.md)
 > - [Peraturan LKPP 2/2026, Pasal 14 ayat 1 4 5](../kutipan/KUT-0239.md)
@@ -109,11 +109,11 @@ Kedudukan Surat Pesanan dibandingkan SPK serta syarat-syarat kontrak dibahas dal
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 35 ([Perpres 46/2025, Pasal 1 angka 35](../kutipan/KUT-0758.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 35 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 35](../kutipan/KUT-0758.md)).
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (5) sampai dengan ayat (5c) ([Perpres 16/2018, Pasal 50 ayat 5 5a 5b 5c](../kutipan/KUT-0222.md)).
 [^3]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 12 ayat (1) sampai dengan ayat (6) ([Peraturan LKPP 2/2026, Pasal 12 ayat 1 6](../kutipan/KUT-0223.md)).
 [^4]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 1 angka 20 ([Peraturan LKPP 2/2026, Pasal 1 angka 20](../kutipan/KUT-0941.md)).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (2) dan Pasal 41 ayat (2) ([Perpres 46/2025, Pasal 38 ayat 2 dan Pasal 41 ayat 2](../kutipan/KUT-0485.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (2) dan Pasal 41 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 2 dan Pasal 41 ayat 2](../kutipan/KUT-0485.md)).
 [^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 1 dan angka 26 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^7]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 13 ([Peraturan LKPP 2/2026, Pasal 13](../kutipan/KUT-0228.md)).
 [^8]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 14 ayat (1), ayat (4), dan ayat (5) ([Peraturan LKPP 2/2026, Pasal 14 ayat 1 4 5](../kutipan/KUT-0239.md)).
@@ -125,7 +125,7 @@ Kedudukan Surat Pesanan dibandingkan SPK serta syarat-syarat kontrak dibahas dal
 [^14]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 17 ([Peraturan LKPP 2/2026, Pasal 17](../kutipan/KUT-0230.md)).
 [^15]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 16 ayat (1) huruf b, huruf d, dan huruf e ([Peraturan LKPP 2/2026, Pasal 16 ayat 1 huruf b d e](../kutipan/KUT-1282.md)); Pasal 11 ayat (6) ([Peraturan LKPP 2/2026, Pasal 11 ayat 2 6](../kutipan/KUT-0530.md)).
 [^16]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 18 ([Peraturan LKPP 2/2026, Pasal 18](../kutipan/KUT-1283.md)).
-[^17]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6) ([Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)).
+[^17]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 6](../kutipan/KUT-0394.md)).
 [^18]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 19 ayat (2) ([Peraturan LKPP 2/2026, Pasal 19](../kutipan/KUT-0202.md)).
 [^19]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 20 ayat (1) dan ayat (2) ([Peraturan LKPP 2/2026, Pasal 20 ayat 1](../kutipan/KUT-0241.md), [Peraturan LKPP 2/2026, Pasal 20 ayat 2 Pasal 21 ayat 1 3 5 Pasal 23 huruf a b](../kutipan/KUT-0489.md)).
 

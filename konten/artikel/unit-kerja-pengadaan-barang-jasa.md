@@ -17,10 +17,10 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md)
-> - [Perpres 46/2025, Pasal 75 ayat 1](../kutipan/KUT-0140.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1](../kutipan/KUT-0140.md)
 > - [Perpres 16/2018, Pasal 75 ayat 2](../kutipan/KUT-0344.md)
-> - [Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)
 > - [Perpres 16/2018, Pasal 1 angka 12](../kutipan/KUT-0067.md)
 >
 > **Glosarium:** [Unit Kerja Pengadaan Barang/Jasa](../glosarium/unit-kerja-pengadaan-barang-jasa.md)
@@ -114,16 +114,16 @@ Penetapan pejabat eselon IV di sekretariat sebagai Pejabat Pengadaan dibahas dal
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 11 ([Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 18 ([Peraturan LKPP 3/2026, Pasal 1 angka 18](../kutipan/KUT-0794.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (1) ([Perpres 46/2025, Pasal 75 ayat 1](../kutipan/KUT-0140.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 12 ([Perpres 16/2018, Pasal 1 angka 12](../kutipan/KUT-0067.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 19 ([Peraturan LKPP 3/2026, Pasal 1 angka 19](../kutipan/KUT-0069.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 16 ([Perpres 46/2025, Pasal 1 angka 16](../kutipan/KUT-0741.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (1a), ayat (1b), ayat (3), ayat (3a), ayat (3b), dan ayat (4) sampai dengan ayat (8) ([Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (2) ([Perpres 16/2018, Pasal 75 ayat 2](../kutipan/KUT-0344.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (8) dan ayat (10) ([Perpres 46/2025, Pasal 74A ayat 8 dan 10](../kutipan/KUT-0313.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 11 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 18 ([Peraturan LKPP 3/2026, Pasal 1 angka 18](../kutipan/KUT-0794.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1](../kutipan/KUT-0140.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 12 ([Perpres 16/2018, Pasal 1 angka 12](../kutipan/KUT-0067.md)); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 19 ([Peraturan LKPP 3/2026, Pasal 1 angka 19](../kutipan/KUT-0069.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 16 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 16](../kutipan/KUT-0741.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (1a), ayat (1b), ayat (3), ayat (3a), ayat (3b), dan ayat (4) sampai dengan ayat (8) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (2) ([Perpres 16/2018, Pasal 75 ayat 2](../kutipan/KUT-0344.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (8) dan ayat (10) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74A ayat 8 dan 10](../kutipan/KUT-0313.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III ([Peraturan LKPP 3/2026, Lampiran I angka III paragraf pengajuan pemilihan huruf a](../kutipan/KUT-0057.md), [Peraturan LKPP 3/2026, Lampiran I angka III paragraf penetapan Pokja](../kutipan/KUT-0070.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.13 ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.13](../kutipan/KUT-0529.md)).
-[^10]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 81 juncto Pasal 78 ayat (1) huruf a sampai dengan huruf c ([Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md), [Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 81 juncto Pasal 78 ayat (1) huruf a sampai dengan huruf c ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
 [^11]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 2, Pasal 3 ayat (4), Pasal 8, Pasal 9 ayat (1) dan ayat (2), dan Pasal 10 ([Peraturan LKPP 10/2021, Pasal 2 Pasal 3 ayat 4 Pasal 8 Pasal 9 ayat 1 2 dan Pasal 10](../kutipan/KUT-2129.md)).
 [^12]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 13 ayat (1) dan ayat (2), Pasal 17 ayat (1) sampai dengan ayat (3), dan Pasal 18 ([Peraturan LKPP 10/2021, Pasal 13 ayat 1 2 Pasal 17 ayat 1 3 Pasal 18](../kutipan/KUT-0696.md)).
 [^13]: Peraturan LKPP Nomor 10 Tahun 2021, Pasal 22 ayat (1) dan ayat (2) serta Pasal 23 ayat (1) dan ayat (3) ([Peraturan LKPP 10/2021, Pasal 22 ayat 1 2 dan Pasal 23 ayat 1 3](../kutipan/KUT-2130.md)).

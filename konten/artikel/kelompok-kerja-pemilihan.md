@@ -100,7 +100,7 @@ Pengelola Pengadaan Barang/Jasa dapat ditugaskan sebagai Pejabat Pengadaan dan/a
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf a, ayat (2), dan ayat (3) ([Perpres 16/2018, Pasal 13 ayat 1 huruf a ayat 2 3](../kutipan/KUT-0068.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (1) huruf c ([Perpres 16/2018, Pasal 13 ayat 1 huruf c](../kutipan/KUT-0212.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 1 angka 19 ([Peraturan LKPP 3/2026, Pasal 1 angka 19](../kutipan/KUT-0069.md)).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (2) dan ayat (3) ([Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (2) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III ([Peraturan LKPP 3/2026, Lampiran I angka III paragraf 1 huruf a](../kutipan/KUT-0047.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka III, paragraf penetapan Pokja ([Peraturan LKPP 3/2026, Lampiran I angka III paragraf penetapan Pokja](../kutipan/KUT-0070.md)).
 [^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf n ([Perpres 16/2018, Pasal 9 ayat 1 huruf n](../kutipan/KUT-0211.md)).

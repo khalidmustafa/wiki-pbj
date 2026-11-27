@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-26'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 20 ayat 1 2](../kutipan/KUT-0265.md)
-> - [Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)
-> - [Perpres 46/2025, Pasal 1 angka 51 Pasal 21 ayat 1 2](../kutipan/KUT-0436.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 1 2](../kutipan/KUT-0265.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 51 Pasal 21 ayat 1 2](../kutipan/KUT-0436.md)
 > - [Peraturan LKPP 11/2021, Lampiran angka II 2.4.1](../kutipan/KUT-1296.md)
 > - [Peraturan LKPP 11/2021, Lampiran angka II 2.4.3](../kutipan/KUT-1297.md)
 >
@@ -114,13 +114,13 @@ Paket di DPA yang mencakup dua jenis barang dan kemungkinan memecahnya menjadi d
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 18 ayat (7) ([Perpres 16/2018, Pasal 18 ayat 7](../kutipan/KUT-2228.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 20 ayat (1) dan ayat (2) ([Perpres 46/2025, Pasal 20 ayat 1 2](../kutipan/KUT-0265.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 51 dan Pasal 21 ayat (1) dan ayat (2) ([Perpres 46/2025, Pasal 1 angka 51 Pasal 21 ayat 1 2](../kutipan/KUT-0436.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 20 ayat (1) dan ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 1 2](../kutipan/KUT-0265.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 51 dan Pasal 21 ayat (1) dan ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 51 Pasal 21 ayat 1 2](../kutipan/KUT-0436.md)).
 [^4]: Peraturan LKPP Nomor 11 Tahun 2021, Lampiran angka 2.4.1 ([Peraturan LKPP 11/2021, Lampiran angka II 2.4.1](../kutipan/KUT-1296.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 11 (Pasal 20 ayat (3)) ([Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 12 (Pasal 20A dan Pasal 20B) ([Perpres 46/2025, Pasal 20A 20B](../kutipan/KUT-1265.md)).
+[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 11 (Pasal 20 ayat (3)) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20 ayat 3](../kutipan/KUT-1264.md)).
+[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 12 (Pasal 20A dan Pasal 20B) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 20A 20B](../kutipan/KUT-1265.md)).
 [^7]: Peraturan LKPP Nomor 11 Tahun 2021, Lampiran angka 2.4.3 ([Peraturan LKPP 11/2021, Lampiran angka II 2.4.3](../kutipan/KUT-1297.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 13 (Pasal 21 ayat (3)) ([Perpres 46/2025, Pasal 21 ayat 3](../kutipan/KUT-1266.md)).
+[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 13 (Pasal 21 ayat (3)) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 21 ayat 3](../kutipan/KUT-1266.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.3.1 huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.3.1 huruf d paragraf konsolidasi](../kutipan/KUT-2227.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-26. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

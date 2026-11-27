@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 39](../kutipan/KUT-1141.md). Berlaku: sejak 2
 
 > Pembayaran Langsung yang selanjutnya disebut Pembayaran LS adalah pembayaran yang dilakukan langsung kepada Bendahara Pengeluaran/penerima hak lainnya atas dasar perjanjian kerja, surat keputusan, surat tugas atau surat perintah kerja lainnya melalui penerbitan SPM-LS.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 121](../kutipan/KUT-1142.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 121](../kutipan/KUT-1142.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

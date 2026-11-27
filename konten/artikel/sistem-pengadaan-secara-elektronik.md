@@ -18,9 +18,9 @@ tanggal_reviu: '2026-11-25'
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 69](../kutipan/KUT-2099.md)
-> - [Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)
-> - [Perpres 46/2025, Pasal 73](../kutipan/KUT-2101.md)
-> - [Perpres 46/2025, Pasal 1 angka 21](../kutipan/KUT-0749.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 73](../kutipan/KUT-2101.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 21](../kutipan/KUT-0749.md)
 > - [Peraturan LKPP 3/2026, Pasal 3 ayat 1 5](../kutipan/KUT-0389.md)
 >
 > **Glosarium:** [Layanan Pengadaan Secara Elektronik](../glosarium/layanan-pengadaan-secara-elektronik.md), [Lokapasar Pengadaan Barang/Jasa](../glosarium/lokapasar-pengadaan-barang-jasa.md)
@@ -55,7 +55,7 @@ Peraturan Presiden Nomor 16 Tahun 2018 menyatakan bahwa penyelenggaraan Pengadaa
 | Pengelolaan Penyedia | Monitoring dan evaluasi |
 | Katalog elektronik | |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 ayat (1) dan ayat (3).[^2]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 ayat (1) dan ayat (3).[^2]
 
 SPSE memiliki interkoneksi dengan sistem informasi perencanaan, penganggaran, pembayaran, manajemen aset, dan sistem informasi lain yang terkait.[^2]
 
@@ -107,13 +107,13 @@ Hubungan dokumen unggahan SPSE dan dokumen fisik dalam evaluasi dibahas dalam [T
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 69 ([Perpres 16/2018, Pasal 69](../kutipan/KUT-2099.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 dan Pasal 71 ([Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 21 ([Perpres 46/2025, Pasal 1 angka 21](../kutipan/KUT-0749.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 20 ([Perpres 46/2025, Pasal 1 angka 20](../kutipan/KUT-0748.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 72 ayat (1) ([Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 73 ([Perpres 46/2025, Pasal 73](../kutipan/KUT-2101.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (2) huruf b ([Perpres 16/2018, Pasal 75 ayat 2](../kutipan/KUT-0344.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (4) ([Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 dan Pasal 71 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 21 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 21](../kutipan/KUT-0749.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 20 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 20](../kutipan/KUT-0748.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 72 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 73 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 73](../kutipan/KUT-2101.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (2) huruf b ([Perpres 16/2018, Pasal 75 ayat 2](../kutipan/KUT-0344.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 75 ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 75 ayat 1a 1b 3 3a 3b 4 5 6 7 8](../kutipan/KUT-2073.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 3 ([Peraturan LKPP 3/2026, Pasal 3 ayat 1 5](../kutipan/KUT-0389.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

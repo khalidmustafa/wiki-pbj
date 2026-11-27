@@ -9,7 +9,7 @@ id: GLO-0009
 
 > Perangkat Daerah adalah unsur pembantu kepala daerah dan dewan perwakilan rakyat daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 4](../kutipan/KUT-0736.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 4](../kutipan/KUT-0736.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 4
 

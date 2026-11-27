@@ -9,7 +9,7 @@ id: GLO-0107
 
 > Rencana Keselamatan Konstruksi yang selanjutnya disingkat RKK adalah dokumen telaah tentang Keselamatan Konstruksi yang memuat elemen SMKK yang merupakan satu kesatuan dengan dokumen kontrak.
 
-Sumber: [PP 14/2021, Pasal 1 angka 43](../kutipan/KUT-0881.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 43](../kutipan/KUT-0881.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 8/2023, Pasal 1 angka 18
 

@@ -137,7 +137,7 @@ Pihak yang menandatangani Kontrak dibahas dalam [TJ-0094](../tanya-jawab/TJ-0094
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.1 ([Peraturan LKPP 3/2026, Lampiran II angka 6.1](../kutipan/KUT-0542.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.1 dan angka 6.2 ([Peraturan LKPP 3/2026, Lampiran I angka 6.1 dan 6.2](../kutipan/KUT-1277.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.2 ([Peraturan LKPP 3/2026, Lampiran II angka 6.2](../kutipan/KUT-0127.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (2) ([Perpres 46/2025, Pasal 78 ayat 2](../kutipan/KUT-0662.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 2](../kutipan/KUT-0662.md)).
 [^8]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka III angka 3.1 huruf f ([Peraturan LKPP 4/2021, Lampiran II angka III 3.1](../kutipan/KUT-0624.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.3 ([Peraturan LKPP 3/2026, Lampiran I angka 6.3 paragraf 1](../kutipan/KUT-0183.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.3.1 huruf a angka 1) dan huruf g ([Peraturan LKPP 3/2026, Lampiran I angka 6.3.1 huruf a angka 1 dan huruf g](../kutipan/KUT-0207.md)).

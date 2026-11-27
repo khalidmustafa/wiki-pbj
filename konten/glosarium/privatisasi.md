@@ -9,4 +9,4 @@ id: GLO-0436
 
 > Privatisasi adalah penjualan saham milik Negara Republik Indonesia pada Persero, baik sebagian maupun seluruhnya, kepada pihak lain.
 
-Sumber: [UU 16/2025, Pasal 1 angka 16](../kutipan/KUT-1374.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 16](../kutipan/KUT-1374.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

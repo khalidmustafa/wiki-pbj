@@ -21,7 +21,7 @@ tanggal_reviu: '2026-11-26'
 > - [Peraturan LKPP 3/2026, Lampiran III angka I paragraf 1 dan persyaratan penyelenggaraan](../kutipan/KUT-2218.md)
 > - [Peraturan LKPP 3/2026, Lampiran III angka 1.1.1](../kutipan/KUT-2220.md)
 > - [Peraturan LKPP 3/2026, Lampiran III angka 3.2](../kutipan/KUT-2222.md)
-> - [Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)
 > - [Perpres 16/2018, Pasal 26 ayat 1 7](../kutipan/KUT-0226.md)
 >
 > **Glosarium:** [Pekerjaan Konstruksi Terintegrasi](../glosarium/pekerjaan-konstruksi-terintegrasi.md), [Konsultan Manajemen Konstruksi](../glosarium/konsultan-manajemen-konstruksi.md)
@@ -113,7 +113,7 @@ Konsultan perencana/pengawas yang bertindak sebagai pelaksana pekerjaan yang dir
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka I ([Peraturan LKPP 3/2026, Lampiran III angka I paragraf 1 dan persyaratan penyelenggaraan](../kutipan/KUT-2218.md)).
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 3 ayat (2) ([Perpres 16/2018, Pasal 3 ayat 2](../kutipan/KUT-2109.md)).
-[^3]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 6 ([PP 14/2021, Pasal 1 angka 6](../kutipan/KUT-0844.md)).
+[^3]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 6 ([PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 6](../kutipan/KUT-0844.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 2 ayat (3) ([Peraturan LKPP 3/2026, Pasal 2 ayat 3](../kutipan/KUT-2110.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 10 huruf a dan Pasal 11 ([Peraturan LKPP 3/2026, Pasal 10 huruf a Pasal 11](../kutipan/KUT-0071.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka 1.1.1 ([Peraturan LKPP 3/2026, Lampiran III angka 1.1.1](../kutipan/KUT-2220.md)).
@@ -122,9 +122,9 @@ Konsultan perencana/pengawas yang bertindak sebagai pelaksana pekerjaan yang dir
 [^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (7) ([Perpres 16/2018, Pasal 26 ayat 1 7](../kutipan/KUT-0226.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka 3.2 ([Peraturan LKPP 3/2026, Lampiran III angka 3.2](../kutipan/KUT-2222.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka 3.5.1 ([Peraturan LKPP 3/2026, Lampiran III angka 3.5.1](../kutipan/KUT-2223.md)).
-[^12]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 15 (Pasal 27 ayat (4)) ([Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)).
-[^13]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 31 ayat (3) dan Pasal 32 ayat (2) ([Perpres 12/2021, Pasal 31 ayat 3 dan Pasal 32 ayat 2](../kutipan/KUT-2043.md)).
-[^14]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 19 (Pasal 33 ayat (4)) ([Perpres 46/2025, Pasal 33 ayat 4](../kutipan/KUT-2217.md)).
-[^15]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf b ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^12]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 15 (Pasal 27 ayat (4)) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)).
+[^13]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 31 ayat (3) dan Pasal 32 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 31 ayat 3 dan Pasal 32 ayat 2](../kutipan/KUT-2043.md)).
+[^14]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 19 (Pasal 33 ayat (4)) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 33 ayat 4](../kutipan/KUT-2217.md)).
+[^15]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-26. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

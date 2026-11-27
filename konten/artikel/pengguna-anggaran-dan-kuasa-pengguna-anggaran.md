@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-24'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)
-> - [Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)
-> - [Perpres 46/2025, Pasal 10](../kutipan/KUT-0732.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 10](../kutipan/KUT-0732.md)
 >
 > **Glosarium:** [Pengguna Anggaran](../glosarium/pengguna-anggaran.md), [Kuasa Pengguna Anggaran](../glosarium/kuasa-pengguna-anggaran.md)
 >
@@ -123,13 +123,13 @@ Dasar PA/KPA melaksanakan tugas PPK dan syarat pengetahuan bagi KPA dibahas dala
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 7, angka 8, dan angka 9 ([Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ([Perpres 46/2025, Pasal 10](../kutipan/KUT-0732.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 8 dan Pasal 58 ([Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 7, angka 8, dan angka 9 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 7 8 9](../kutipan/KUT-0730.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 10](../kutipan/KUT-0732.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 8 dan Pasal 58 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
 [^5]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 1 angka 68, Pasal 4 ayat (4) huruf c, dan Pasal 11 ayat (1) sampai dengan ayat (3) ([PP 12/2019, Pasal 1 angka 68 Pasal 4 ayat 3 dan 6](../kutipan/KUT-0574.md), [PP 12/2019, Pasal 1 angka 67 Pasal 4 ayat 4 huruf c Pasal 11 ayat 1 3](../kutipan/KUT-0419.md)).
 [^6]: Peraturan Menteri Keuangan Nomor 62 Tahun 2023 sebagaimana telah diubah terakhir dengan Peraturan Menteri Keuangan Nomor 41 Tahun 2026, Pasal 183 ayat (1) dan ayat (1a) ([PMK 41/2026, Pasal I angka 1 Pasal 1 angka 108 115 dan angka 29 Pasal 183](../kutipan/KUT-0605.md)).
-[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74A ayat 2 3](../kutipan/KUT-0535.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka I, paragraf tidak ada penetapan PPK ([Peraturan LKPP 3/2026, Lampiran I angka I paragraf tidak ada penetapan PPK](../kutipan/KUT-0014.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-24. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

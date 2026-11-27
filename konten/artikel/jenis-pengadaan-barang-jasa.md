@@ -20,8 +20,8 @@ tanggal_reviu: '2026-11-25'
 > - [Perpres 16/2018, Pasal 3 ayat 1](../kutipan/KUT-0038.md)
 > - [Perpres 16/2018, Pasal 3 ayat 2](../kutipan/KUT-2109.md)
 > - [Perpres 16/2018, Pasal 3 ayat 3](../kutipan/KUT-0020.md)
-> - [Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md)
-> - [Perpres 46/2025, Pasal 1 angka 31 32](../kutipan/KUT-0266.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 31 32](../kutipan/KUT-0266.md)
 >
 > **Glosarium:** [Barang](../glosarium/barang.md), [Pekerjaan Konstruksi](../glosarium/pekerjaan-konstruksi.md), [Jasa Konsultansi](../glosarium/jasa-konsultansi.md), [Jasa Lainnya](../glosarium/jasa-lainnya.md)
 >
@@ -42,7 +42,7 @@ Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan 
 | Jasa Konsultansi | Jasa layanan profesional yang membutuhkan keahlian tertentu di berbagai bidang keilmuan yang mengutamakan adanya olah pikir |
 | Jasa Lainnya | Jasa nonkonsultansi atau jasa yang membutuhkan peralatan, metodologi khusus, dan/atau keterampilan dalam suatu sistem tata kelola yang telah dikenal luas di dunia usaha untuk menyelesaikan suatu pekerjaan |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 29 sampai dengan angka 32.[^4][^5]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 29 sampai dengan angka 32.[^4][^5]
 
 ## Dasar hukum
 
@@ -94,11 +94,11 @@ Penentuan jenis pengadaan untuk pembuatan aplikasi, apakah barang, jasa lainnya,
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 3 ayat (1) ([Perpres 16/2018, Pasal 3 ayat 1](../kutipan/KUT-0038.md)).
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 3 ayat (2) ([Perpres 16/2018, Pasal 3 ayat 2](../kutipan/KUT-2109.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 3 ayat (3) ([Perpres 16/2018, Pasal 3 ayat 3](../kutipan/KUT-0020.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 29 dan angka 30 ([Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 31 dan angka 32 ([Perpres 46/2025, Pasal 1 angka 31 32](../kutipan/KUT-0266.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 23 ([Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 26 ([Perpres 46/2025, Pasal 1 angka 26 27](../kutipan/KUT-0544.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 29 dan angka 30 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 29 30](../kutipan/KUT-0547.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 31 dan angka 32 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 31 32](../kutipan/KUT-0266.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 23 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 26 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 26 27](../kutipan/KUT-0544.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 2 ayat (3) ([Peraturan LKPP 3/2026, Pasal 2 ayat 3](../kutipan/KUT-2110.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf a ([Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf a ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

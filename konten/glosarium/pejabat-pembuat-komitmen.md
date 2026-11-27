@@ -33,7 +33,7 @@ Sumber: [Peraturan LKPP 7/2021, Pasal 1 angka 17](../kutipan/KUT-0928.md). Berla
 
 > Pejabat Pembuat Komitmen yang selanjutnya disingkat PPK adalah pejabat yang melaksanakan kewenangan PA/KPA untuk mengambil keputusan dan/atau tindakan yang dapat mengakibatkan pengeluaran atas beban APBN.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 107](../kutipan/KUT-1227.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 107](../kutipan/KUT-1227.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
 
 ## Catatan
 

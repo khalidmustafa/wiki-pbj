@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 42](../kutipan/KUT-1147.md). Berlaku: sejak 2
 
 > Surat Perintah Membayar Uang Persediaan yang selanjutnya disingkat SPM-UP adalah dokumen yang diterbitkan oleh PPSPM untuk mencairkan UP.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 124](../kutipan/KUT-1148.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 124](../kutipan/KUT-1148.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

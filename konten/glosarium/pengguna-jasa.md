@@ -15,7 +15,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 5](../kutipan/KUT-0814.md). Berlaku: sejak 201
 
 > Pengguna Jasa adalah pemilik atau pemberi pekerjaan yang menggunakan layanan Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 7](../kutipan/KUT-0815.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 7](../kutipan/KUT-0815.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 7
 

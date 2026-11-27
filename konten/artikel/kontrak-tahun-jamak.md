@@ -18,7 +18,7 @@ tanggal_reviu: '2026-11-26'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)
 > - [PMK 60/2018, Pasal 1 angka 2 Pasal 3 dan Pasal 4](../kutipan/KUT-2210.md)
 > - [PMK 93/2020, Pasal I angka 1 dan angka 2 Pasal 2 dan Pasal 5 ayat 1 2](../kutipan/KUT-2211.md)
 > - [PP 12/2019, Pasal 92 ayat 1 3](../kutipan/KUT-0621.md)
@@ -110,7 +110,7 @@ Dasar penandatanganan Kontrak tahun jamak setelah persetujuan pejabat berwenang 
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (12) ([Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (12) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)).
 [^2]: Peraturan Menteri Keuangan Nomor 60/PMK.02/2018, Pasal 1 angka 2, Pasal 3, dan Pasal 4 ([PMK 60/2018, Pasal 1 angka 2 Pasal 3 dan Pasal 4](../kutipan/KUT-2210.md)).
 [^3]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 1 angka 28 ([PP 12/2019, Pasal 1 angka 28](../kutipan/KUT-1128.md)).
 [^4]: Peraturan Menteri Keuangan Nomor 93/PMK.02/2020, Pasal I angka 1 dan angka 2 (Pasal 2 dan Pasal 5 ayat (1) dan ayat (2) Peraturan Menteri Keuangan Nomor 60/PMK.02/2018) ([PMK 93/2020, Pasal I angka 1 dan angka 2 Pasal 2 dan Pasal 5 ayat 1 2](../kutipan/KUT-2211.md)).
@@ -119,7 +119,7 @@ Dasar penandatanganan Kontrak tahun jamak setelah persetujuan pejabat berwenang 
 [^7]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 92 ayat (4) sampai dengan ayat (6) ([PP 12/2019, Pasal 92 ayat 4 6](../kutipan/KUT-0663.md)).
 [^8]: Peraturan Menteri Dalam Negeri Nomor 17 Tahun 2026, Lampiran angka 4.1.2 huruf q angka 1) sampai dengan angka 5) ([Permendagri 17/2026, Lampiran angka 4.1.2 huruf q angka 1 5](../kutipan/KUT-0559.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.3.2 ([Peraturan LKPP 3/2026, Lampiran II angka 6.3.2 paragraf penandatanganan Kontrak tahun jamak](../kutipan/KUT-0311.md)).
-[^10]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) huruf e ([Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) huruf e ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.5 huruf b angka 5) ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf b sampai f](../kutipan/KUT-0396.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.5 huruf b angka 5) ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.5 huruf b](../kutipan/KUT-0397.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran III angka 2.3.2.4 huruf b angka 2) ([Peraturan LKPP 3/2026, Lampiran III angka 2.3.2.4 huruf b](../kutipan/KUT-0398.md)).

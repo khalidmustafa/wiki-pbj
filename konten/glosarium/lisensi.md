@@ -9,4 +9,4 @@ id: GLO-0095
 
 > Lisensi adalah izin yang diberikan untuk menyelenggarakan proses sertifikasi Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 27](../kutipan/KUT-0859.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 27](../kutipan/KUT-0859.md). Berlaku: sejak 2021-02-02 s.d. sekarang.

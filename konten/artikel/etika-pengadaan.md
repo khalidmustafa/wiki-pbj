@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 7 ayat 1 huruf a d](../kutipan/KUT-2077.md)
-> - [Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf a d](../kutipan/KUT-2077.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md)
 > - [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md)
 > - [Perpres 16/2018, Pasal 7 ayat 1 huruf h](../kutipan/KUT-0173.md)
-> - [Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
 >
 > **Glosarium:** [Pemilik Manfaat](../glosarium/pemilik-manfaat.md)
 >
@@ -103,8 +103,8 @@ Cara Pokja Pemilihan mengenali pinjam bendera saat evaluasi dibahas dalam [TJ-00
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) ([Perpres 46/2025, Pasal 7 ayat 1 huruf a d](../kutipan/KUT-2077.md), [Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf h](../kutipan/KUT-0173.md)); Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf a d](../kutipan/KUT-2077.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf h](../kutipan/KUT-0173.md)); Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 5 ([Peraturan LKPP 3/2026, Pasal 5](../kutipan/KUT-0094.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 3.4.1 angka 1 huruf h ([Peraturan LKPP 3/2026, Lampiran II angka 3.4.1 angka 1 huruf h angka 2 3](../kutipan/KUT-0096.md)).
 

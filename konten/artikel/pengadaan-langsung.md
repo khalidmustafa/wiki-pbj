@@ -17,10 +17,10 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 40](../kutipan/KUT-0763.md)
-> - [Perpres 46/2025, Pasal 1 angka 40a](../kutipan/KUT-0764.md)
-> - [Perpres 46/2025, Pasal 1 angka 41](../kutipan/KUT-0765.md)
-> - [Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 40](../kutipan/KUT-0763.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 40a](../kutipan/KUT-0764.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 41](../kutipan/KUT-0765.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)
 > - [Peraturan LKPP 3/2026, Pasal 3 ayat 1 5](../kutipan/KUT-0389.md)
 >
 > **Glosarium:** [Pengadaan Langsung Barang/Jasa Lainnya](../glosarium/pengadaan-langsung-barang-jasa-lainnya.md), [Pengadaan Langsung Pekerjaan Konstruksi](../glosarium/pengadaan-langsung-pekerjaan-konstruksi.md), [Pengadaan Langsung Jasa Konsultansi](../glosarium/pengadaan-langsung-jasa-konsultansi.md)
@@ -111,16 +111,16 @@ Dokumen untuk Pengadaan Langsung melalui fitur pencatatan, kebutuhan nota pesana
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 40 ([Perpres 46/2025, Pasal 1 angka 40](../kutipan/KUT-0763.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 40a ([Perpres 46/2025, Pasal 1 angka 40a](../kutipan/KUT-0764.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 41 ([Perpres 46/2025, Pasal 1 angka 41](../kutipan/KUT-0765.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 12 ([Perpres 46/2025, Pasal 12](../kutipan/KUT-0431.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 40 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 40](../kutipan/KUT-0763.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 40a ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 40a](../kutipan/KUT-0764.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 41 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 41](../kutipan/KUT-0765.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 12 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 12](../kutipan/KUT-0431.md)).
 [^5]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 39 dan Pasal 45 ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
-[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (3) dan ayat (8) ([Perpres 46/2025, Pasal 38 ayat 3 dan 8](../kutipan/KUT-0388.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (3) dan ayat (8) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 3 dan 8](../kutipan/KUT-0388.md)).
 [^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 1 dan angka 20 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
-[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (3) ([Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 1 dan 3](../kutipan/KUT-0582.md)).
 [^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 20 ayat (2) huruf d ([Perpres 16/2018, Pasal 20 ayat 2 huruf d](../kutipan/KUT-0075.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (7) ([Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 7](../kutipan/KUT-0468.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.3.3 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 5.3.3 huruf a](../kutipan/KUT-0432.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.3.3 huruf b angka 1) dan angka 2) ([Peraturan LKPP 3/2026, Lampiran I angka 5.3.3 huruf b angka 1 2](../kutipan/KUT-0288.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.3.2 ([Peraturan LKPP 3/2026, Lampiran II angka 5.3.2 dokumen dan pengecualian DED](../kutipan/KUT-0386.md)).

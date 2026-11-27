@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)
 > - [Peraturan LKPP 4/2021, Lampiran II angka III 3.1](../kutipan/KUT-0624.md)
 > - [Peraturan LKPP 4/2021, Lampiran II angka 3.1 huruf g 4.1 4.2 huruf b](../kutipan/KUT-0372.md)
 > - [Peraturan LKPP 4/2021, Lampiran II angka 4.1 huruf c 4.2 huruf a](../kutipan/KUT-2034.md)
@@ -104,7 +104,7 @@ Kontrak yang telanjur ditandatangani dengan Penyedia yang sudah dikenakan Sanksi
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka I ([Peraturan LKPP 4/2021, Lampiran II angka I dan angka 4.1 huruf d 4.2 huruf c](../kutipan/KUT-2063.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) ([Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
 [^3]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka 4.1 huruf a, huruf b, dan huruf e, serta angka 4.2 huruf b ([Peraturan LKPP 4/2021, Lampiran II angka 3.1 huruf g 4.1 4.2 huruf b](../kutipan/KUT-0372.md)).
 [^4]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka 4.1 huruf d dan angka 4.2 huruf c ([Peraturan LKPP 4/2021, Lampiran II angka I dan angka 4.1 huruf d 4.2 huruf c](../kutipan/KUT-2063.md)).
 [^5]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka 3.1 ([Peraturan LKPP 4/2021, Lampiran II angka III 3.1](../kutipan/KUT-0624.md)).

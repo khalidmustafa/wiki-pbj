@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 18](../kutipan/KUT-0743.md)
-> - [Perpres 46/2025, Pasal 74](../kutipan/KUT-2102.md)
-> - [Perpres 46/2025, Pasal 74A](../kutipan/KUT-2103.md)
-> - [Perpres 46/2025, Pasal 74B](../kutipan/KUT-2104.md)
-> - [Perpres 46/2025, Pasal 1 angka 18a](../kutipan/KUT-0744.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18](../kutipan/KUT-0743.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74](../kutipan/KUT-2102.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74A](../kutipan/KUT-2103.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74B](../kutipan/KUT-2104.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18a](../kutipan/KUT-0744.md)
 >
 > **Glosarium:** [Sumber Daya Manusia Pengadaan Barang/Jasa Pemerintah](../glosarium/sumber-daya-manusia-pengadaan-barang-jasa-pemerintah.md), [Pejabat Fungsional Pengelola Pengadaan Barang/Jasa](../glosarium/pejabat-fungsional-pengelola-pengadaan-barang-jasa.md), [Personel selain Pejabat Fungsional Pengelola Pengadaan Barang/Jasa](../glosarium/personel-selain-pejabat-fungsional-pengelola-pengadaan-barang-jasa.md), [Sertifikat Kompetensi](../glosarium/sertifikat-kompetensi.md), [Sertifikat Kompetensi PPK](../glosarium/sertifikat-kompetensi-ppk.md), [Jabatan Fungsional Pengelola Pengadaan Barang/Jasa](../glosarium/jabatan-fungsional-pengelola-pengadaan-barang-jasa.md)
 >
@@ -56,7 +56,7 @@ Peraturan LKPP Nomor 7 Tahun 2021 mendefinisikan Jabatan Fungsional Pengelola Pe
 | Sumber daya perancang kebijakan dan sistem Pengadaan Barang/Jasa | Sumber daya manusia yang melaksanakan perancangan kebijakan dan sistem Pengadaan Barang/Jasa |
 | Sumber daya pendukung ekosistem Pengadaan Barang/Jasa | Sumber daya manusia yang terdiri dari berbagai keahlian tertentu dalam mendukung pelaksanaan Pengadaan Barang/Jasa |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74 ayat (1) sampai dengan ayat (4).[^2]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74 ayat (1) sampai dengan ayat (4).[^2]
 
 Sumber daya pengelola fungsi dan sumber daya perancang kebijakan dan sistem Pengadaan Barang/Jasa wajib memiliki kompetensi di bidang Pengadaan Barang/Jasa.[^2] Sumber daya pengelola fungsi terdiri atas Pengelola Pengadaan Barang/Jasa, Personel Lainnya, dan Aparatur Sipil Negara selain keduanya.[^8]
 
@@ -77,7 +77,7 @@ Kementerian/Lembaga/Pemerintah Daerah yang wajib memiliki Pengelola Pengadaan Ba
 | Jumlah Pengelola belum mencukupi | Pokja Pemilihan setiap paket wajib beranggotakan sekurang-kurangnya 1 Pengelola Pengadaan Barang/Jasa; anggota lainnya dan Pejabat Pengadaan yang tidak dapat dijabat Pengelola dilaksanakan oleh Aparatur Sipil Negara yang memiliki Sertifikat Kompetensi dan/atau sertifikat keahlian tingkat dasar/level-1 |
 | Belum memiliki Pengelola | Tugas Pokja Pemilihan/Pejabat Pengadaan dilaksanakan oleh Aparatur Sipil Negara yang memiliki Sertifikat Kompetensi dan/atau sertifikat keahlian tingkat dasar/level-1 dan/atau oleh Agen Pengadaan |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ayat (2) dan ayat (3).[^9]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ayat (2) dan ayat (3).[^9]
 
 Kementerian/Lembaga yang pengelolaan pengadaannya dilakukan oleh Personel Lainnya menyusun rencana aksi pemenuhan Personel Lainnya. Pasal 74B ayat (3b) mengatur pelaksanaan tugas Pokja Pemilihan dan Pejabat Pengadaan bila jumlah Personel Lainnya yang memiliki Sertifikat Kompetensi belum mencukupi.[^9]
 
@@ -104,15 +104,15 @@ Kewajiban sertifikat kompetensi bagi PPK dan kecukupan sertifikat PBJ level-1 di
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18 ([Perpres 46/2025, Pasal 1 angka 18](../kutipan/KUT-0743.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74 ([Perpres 46/2025, Pasal 74](../kutipan/KUT-2102.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18a ([Perpres 46/2025, Pasal 1 angka 18a](../kutipan/KUT-0744.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18b ([Perpres 46/2025, Pasal 1 angka 18b](../kutipan/KUT-0745.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18c ([Perpres 46/2025, Pasal 1 angka 18c](../kutipan/KUT-0746.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18d ([Perpres 46/2025, Pasal 1 angka 18d](../kutipan/KUT-0439.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18](../kutipan/KUT-0743.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74](../kutipan/KUT-2102.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18a ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18a](../kutipan/KUT-0744.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18b](../kutipan/KUT-0745.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18c ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18c](../kutipan/KUT-0746.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 18d ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 18d](../kutipan/KUT-0439.md)).
 [^7]: Peraturan LKPP Nomor 7 Tahun 2021, Pasal 1 angka 9 ([Peraturan LKPP 7/2021, Pasal 1 angka 9](../kutipan/KUT-0966.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ([Perpres 46/2025, Pasal 74A](../kutipan/KUT-2103.md)).
-[^9]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ([Perpres 46/2025, Pasal 74B](../kutipan/KUT-2104.md)).
-[^10]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf t ([Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74A ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74A](../kutipan/KUT-2103.md)).
+[^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 74B ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 74B](../kutipan/KUT-2104.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf t ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

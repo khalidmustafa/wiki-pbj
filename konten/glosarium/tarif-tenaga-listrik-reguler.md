@@ -9,4 +9,4 @@ id: GLO-0875
 
 > Tarif Tenaga Listrik Reguler adalah tarif tenaga listrik disediakan oleh PT PLN (Persero) yang dibayarkan setelah pemakaian tenaga listrik oleh Konsumen.
 
-Sumber: [Permen ESDM 18/2019, Pasal 1 angka 3](../kutipan/KUT-1950.md). Berlaku: sejak 2020-01-01 s.d. sekarang.
+Sumber: [Permen ESDM 27/2017 sebagaimana telah diubah terakhir dengan Permen ESDM 18/2019, Pasal 1 angka 3](../kutipan/KUT-1950.md). Berlaku: sejak 2020-01-01 s.d. sekarang.

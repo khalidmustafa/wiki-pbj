@@ -84,8 +84,8 @@ Penunjukan langsung untuk melanjutkan pekerjaan konstruksi setelah pemutusan Kon
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.4 huruf f ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.4 huruf f](../kutipan/KUT-1278.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.1.2 ([Peraturan LKPP 3/2026, Lampiran I angka 4.1.2 paragraf pemilik manfaat](../kutipan/KUT-0201.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.11 huruf b, huruf c, dan huruf h ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.11 huruf b c h](../kutipan/KUT-1276.md)).
-[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (3) huruf b ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
-[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf j ([Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (3) huruf b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (5) huruf j ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 5](../kutipan/KUT-1267.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.2.5 ([Peraturan LKPP 3/2026, Lampiran II angka 5.2.5](../kutipan/KUT-0290.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -18,8 +18,8 @@ tanggal_reviu: '2026-11-27'
 > **Dasar hukum utama:**
 >
 > - [Perpres 16/2018, Pasal 38 ayat 1](../kutipan/KUT-0339.md)
-> - [Perpres 46/2025, Pasal 38 ayat 6](../kutipan/KUT-0604.md)
-> - [Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 6](../kutipan/KUT-0604.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 5.4 dan 5.4.1](../kutipan/KUT-1292.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 5.4 sampai 5.4.2](../kutipan/KUT-2274.md)
 >
@@ -140,13 +140,13 @@ Pertimbangan memilih tender cepat atau metode lain pada pengadaan perawatan kend
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 38 ayat (1) ([Perpres 16/2018, Pasal 38 ayat 1](../kutipan/KUT-0339.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (6) dan Pasal 19 ayat (2) ([Perpres 46/2025, Pasal 38 ayat 6](../kutipan/KUT-0604.md), [Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)).
-[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (4) dan ayat (11) ([Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (6) dan Pasal 19 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 6](../kutipan/KUT-0604.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 2 dan Pasal 38 ayat 6](../kutipan/KUT-0482.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (4) dan ayat (11) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.3 ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.3](../kutipan/KUT-1293.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.4 huruf a sampai dengan huruf d angka 7) ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.4 huruf a sampai d angka 7](../kutipan/KUT-2271.md)).
-[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (8); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 3 ayat (3) huruf d ([Perpres 46/2025, Pasal 38 ayat 3 dan 8](../kutipan/KUT-0388.md), [Peraturan LKPP 3/2026, Pasal 3 ayat 1 5](../kutipan/KUT-0389.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (8); Peraturan LKPP Nomor 3 Tahun 2026, Pasal 3 ayat (3) huruf d ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 3 dan 8](../kutipan/KUT-0388.md), [Peraturan LKPP 3/2026, Pasal 3 ayat 1 5](../kutipan/KUT-0389.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4 dan angka 5.4.1; Lampiran II angka 5.4 dan angka 5.4.1 ([Peraturan LKPP 3/2026, Lampiran I angka 5.4 dan 5.4.1](../kutipan/KUT-1292.md), [Peraturan LKPP 3/2026, Lampiran II angka 5.4 sampai 5.4.2](../kutipan/KUT-2274.md)).
-[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (7) ([Perpres 46/2025, Pasal 38 ayat 7](../kutipan/KUT-0467.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 38 ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 38 ayat 7](../kutipan/KUT-0467.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.2 ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.2](../kutipan/KUT-2270.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.4.2 ([Peraturan LKPP 3/2026, Lampiran II angka 5.4 sampai 5.4.2](../kutipan/KUT-2274.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.4.3 ([Peraturan LKPP 3/2026, Lampiran II angka 5.4.3](../kutipan/KUT-2275.md)).
@@ -155,7 +155,7 @@ Pertimbangan memilih tender cepat atau metode lain pada pengadaan perawatan kend
 [^14]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 5.4.4 ([Peraturan LKPP 3/2026, Lampiran II angka 5.4.4](../kutipan/KUT-2276.md)).
 [^15]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.4 huruf d angka 8) dan huruf e ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.4 huruf d angka 8 dan huruf e](../kutipan/KUT-1294.md)).
 [^16]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.4 huruf f ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.4 huruf f](../kutipan/KUT-1278.md)).
-[^17]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (3) dan ayat (11) ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^17]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (3) dan ayat (11) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 [^18]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 5.4.5 dan Lampiran II angka 5.4.5 ([Peraturan LKPP 3/2026, Lampiran I angka 5.4.5](../kutipan/KUT-1295.md), [Peraturan LKPP 3/2026, Lampiran II angka 3.7.3 dan 5.4.5](../kutipan/KUT-2277.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-27. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.13](../kutipan/KUT-2068.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.2.12 huruf a b](../kutipan/KUT-0521.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.2.13](../kutipan/KUT-0529.md)
-> - [Perpres 46/2025, Pasal 10 ayat 2](../kutipan/KUT-2067.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 10 ayat 2](../kutipan/KUT-2067.md)
 >
 > **Kategori:** [Pemilihan Penyedia](../kategori/pemilihan-penyedia.md)
 >
@@ -102,10 +102,10 @@ Alasan jaminan sanggah banding dihitung dari HPS dibahas dalam [TJ-0477](../tany
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.13 ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.13](../kutipan/KUT-2068.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.12 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.12 huruf a b](../kutipan/KUT-0521.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.13 ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.13](../kutipan/KUT-0529.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (1) sampai dengan ayat (3) ([Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 50 ayat (1) sampai dengan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 50 ayat 1 4 6 11](../kutipan/KUT-1269.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.1.1 huruf i ([Peraturan LKPP 3/2026, Lampiran I angka 4.1.1 huruf i](../kutipan/KUT-2069.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.12 huruf c ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.12 huruf c](../kutipan/KUT-0310.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ayat (2) ([Perpres 46/2025, Pasal 10 ayat 2](../kutipan/KUT-2067.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (2a) dan Pasal 32 ayat (1) ([Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)); Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.6 huruf f ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.6 huruf a b c d angka 2 e f g h](../kutipan/KUT-2046.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 10 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 10 ayat 2](../kutipan/KUT-2067.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 30 ayat (2a) dan Pasal 32 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)); Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.6 huruf f ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.6 huruf a b c d angka 2 e f g h](../kutipan/KUT-2046.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

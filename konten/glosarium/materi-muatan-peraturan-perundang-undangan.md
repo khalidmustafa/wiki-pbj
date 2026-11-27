@@ -9,4 +9,4 @@ id: GLO-0458
 
 > Materi Muatan Peraturan Perundang-undangan adalah materi yang dimuat dalam Peraturan Perundang-undangan sesuai dengan jenis, fungsi, dan hierarki Peraturan Perundang-undangan.
 
-Sumber: [UU 15/2019, Pasal 1 angka 13](../kutipan/KUT-1396.md). Berlaku: sejak 2019-10-04 s.d. sekarang.
+Sumber: [UU 12/2011 sebagaimana telah diubah dengan UU 15/2019, Pasal 1 angka 13](../kutipan/KUT-1396.md). Berlaku: sejak 2019-10-04 s.d. sekarang.

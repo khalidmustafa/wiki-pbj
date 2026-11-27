@@ -9,4 +9,4 @@ id: GLO-0346
 
 > Pejabat Penanda Tangan Surat Perintah Membayar yang selanjutnya disingkat PPSPM adalah pejabat yang diberi kewenangan oleh PA/KPA untuk melakukan pengujian atas permintaan pembayaran dan menerbitkan perintah pembayaran.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 108](../kutipan/KUT-1228.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 108](../kutipan/KUT-1228.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

@@ -15,7 +15,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 10](../kutipan/KUT-0830.md). Berlaku: sejak 20
 
 > Kegagalan Bangunan adalah suatu keadaan keruntuhan bangunan dan/atau tidak berfungsinya bangunan setelah penyerahan akhir hasil Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 15](../kutipan/KUT-0831.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 15](../kutipan/KUT-0831.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 Artikel: [Kegagalan Bangunan](../artikel/kegagalan-bangunan.md)
 

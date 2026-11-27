@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 6](../kutipan/KUT-1335.md). Berlaku: sejak 202
 
 > Dewan Komisaris adalah organ Persero yang bertugas melakukan pengawasan sebagaimana dimaksud dalam undang-undang mengenai perseroan terbatas.
 
-Sumber: [UU 16/2025, Pasal 1 angka 7](../kutipan/KUT-1336.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 7](../kutipan/KUT-1336.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

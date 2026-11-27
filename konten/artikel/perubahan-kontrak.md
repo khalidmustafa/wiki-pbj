@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 54 ayat 1 2](../kutipan/KUT-0298.md)
-> - [Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 54 ayat 1 2](../kutipan/KUT-0298.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf a dan i](../kutipan/KUT-0329.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf b c e f g h](../kutipan/KUT-1288.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf j](../kutipan/KUT-0328.md)
@@ -119,16 +119,16 @@ Penambahan dana dan waktu saat Kontrak berjalan, kurva S setelah adendum, dan pe
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.14.1 huruf a dan huruf i ([Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf a dan i](../kutipan/KUT-0329.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (1) dan ayat (2) ([Perpres 46/2025, Pasal 54 ayat 1 2](../kutipan/KUT-0298.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (1) dan ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 54 ayat 1 2](../kutipan/KUT-0298.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.14.1 huruf b, huruf c, huruf e sampai dengan huruf h ([Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf b c e f g h](../kutipan/KUT-1288.md)).
 [^4]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 87 ayat (1) dan ayat (2) ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (3) ([Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 54 ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 54 ayat 3](../kutipan/KUT-1287.md)).
 [^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 29 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.14.1 huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf d](../kutipan/KUT-0185.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.14 huruf b angka 7) ([Peraturan LKPP 3/2026, Lampiran II angka 6.14 huruf b angka 7](../kutipan/KUT-0291.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.14.1 huruf j ([Peraturan LKPP 3/2026, Lampiran I angka 6.14.1 huruf j](../kutipan/KUT-0328.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.14 huruf b angka 10) ([Peraturan LKPP 3/2026, Lampiran II angka 6.14 huruf b angka 10](../kutipan/KUT-0327.md)).
-[^11]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 55 ([Perpres 46/2025, Pasal 55](../kutipan/KUT-0375.md)).
+[^11]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 55 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 55](../kutipan/KUT-0375.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.15 ([Peraturan LKPP 3/2026, Lampiran I angka 6.15 pembuka](../kutipan/KUT-0337.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

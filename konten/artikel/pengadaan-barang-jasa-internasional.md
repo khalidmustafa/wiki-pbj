@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 38](../kutipan/KUT-0761.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 38](../kutipan/KUT-0761.md)
 > - [Perpres 46/2025, Pasal I angka 32 33 Bagian Kelima dan Pasal 63](../kutipan/KUT-2095.md)
-> - [Perpres 46/2025, Pasal 64 ayat 1](../kutipan/KUT-0532.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 64 ayat 1](../kutipan/KUT-0532.md)
 > - [Perpres 16/2018, Pasal 64 ayat 2 3](../kutipan/KUT-2097.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 1.1 dan 3.1 huruf h Lampiran II angka 3.1 huruf h](../kutipan/KUT-2098.md)
 >
@@ -55,7 +55,7 @@ Dalam teks asli Peraturan Presiden Nomor 16 Tahun 2018, Bagian Kelima berjudul "
 | Jasa Konsultansi | Paling sedikit di atas Rp25.000.000.000,00 |
 | Barang/Jasa yang dibiayai lembaga penjamin kredit ekspor atau kreditor swasta asing | Tidak disebutkan batas nilai |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 63 ayat (1).[^3]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 63 ayat (1).[^3]
 
 Bila tidak ada Pelaku Usaha dalam negeri yang mampu dan memenuhi persyaratan, Pengadaan Barang/Jasa Internasional dilaksanakan untuk nilai kurang dari batas Pekerjaan Konstruksi, Barang/Jasa Lainnya, dan Jasa Konsultansi tersebut.[^3]
 
@@ -96,12 +96,12 @@ Belum ada tanya jawab dalam basis pengetahuan ini yang membahas Pengadaan Barang
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 38 ([Perpres 46/2025, Pasal 1 angka 38](../kutipan/KUT-0761.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64 ayat (1) ([Perpres 46/2025, Pasal 64 ayat 1](../kutipan/KUT-0532.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 38 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 38](../kutipan/KUT-0761.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 64 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 64 ayat 1](../kutipan/KUT-0532.md)).
 [^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 32 dan Pasal 63 ([Perpres 46/2025, Pasal I angka 32 33 Bagian Kelima dan Pasal 63](../kutipan/KUT-2095.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, judul Bagian Kelima BAB VIII dan Pasal 63 ayat (1) dan ayat (2) teks asli ([Perpres 16/2018, Bagian Kelima BAB VIII dan Pasal 63 ayat 1 2 teks asli](../kutipan/KUT-2096.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 1.1 dan angka 3.1 huruf h, serta Lampiran II angka 3.1 huruf h ([Peraturan LKPP 3/2026, Lampiran I angka 1.1 dan 3.1 huruf h Lampiran II angka 3.1 huruf h](../kutipan/KUT-2098.md)).
 [^6]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 64 ayat (2) dan ayat (3) ([Perpres 16/2018, Pasal 64 ayat 2 3](../kutipan/KUT-2097.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf q ([Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf q ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

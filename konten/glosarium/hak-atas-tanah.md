@@ -15,4 +15,4 @@ Sumber: [UU 2/2012, Pasal 1 angka 5](../kutipan/KUT-1551.md). Berlaku: sejak 201
 
 > Hak Atas Tanah adalah hak yang diperoleh dari hubungan hukum antara pemegang hak dengan tanah termasuk ruang di atas tanah, dan/atau ruang di bawah tanah untuk menguasai, memiliki, menggunakan, dan memanfaatkan, serta memelihara tanah, ruang di atas tanah, dan/atau ruang di bawah tanah.
 
-Sumber: [PP 39/2023, Pasal 1 angka 6](../kutipan/KUT-1552.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 6](../kutipan/KUT-1552.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

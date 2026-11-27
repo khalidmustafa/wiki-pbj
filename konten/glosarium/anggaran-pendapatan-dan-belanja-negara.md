@@ -27,7 +27,7 @@ Sumber: [PP 12/2019, Pasal 1 angka 3](../kutipan/KUT-1043.md). Berlaku: sejak 20
 
 > Anggaran Pendapatan dan Belanja Negara yang selanjutnya disingkat APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat Republik Indonesia.
 
-Sumber: [UU 16/2025, Pasal 1 angka 6](../kutipan/KUT-1368.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 6](../kutipan/KUT-1368.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
 
 ### PMK 168/2023, Pasal 1 angka 24
 

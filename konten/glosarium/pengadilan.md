@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 18](../kutipan/KUT-1316.md). Berlaku: sejak 20
 
 > Pengadilan adalah pengadilan tata usaha negara dan pengadilan tinggi tata usaha negara di lingkungan peradilan tata usaha negara.
 
-Sumber: [UU 51/2009, Pasal 1 angka 1](../kutipan/KUT-1317.md). Berlaku: sejak 2009-10-29 s.d. sekarang.
+Sumber: [UU 5/1986 sebagaimana telah diubah terakhir dengan UU 51/2009, Pasal 1 angka 1](../kutipan/KUT-1317.md). Berlaku: sejak 2009-10-29 s.d. sekarang.

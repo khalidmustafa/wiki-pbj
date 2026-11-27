@@ -15,4 +15,4 @@ Sumber: [UU 5/1999, Pasal 1 angka 15](../kutipan/KUT-1534.md). Berlaku: sejak 20
 
 > Konsumen adalah setiap orang atau badan yang membeli tenaga listrik dari PT PLN (Persero).
 
-Sumber: [Permen ESDM 18/2019, Pasal 1 angka 2](../kutipan/KUT-1535.md). Berlaku: sejak 2020-01-01 s.d. sekarang.
+Sumber: [Permen ESDM 27/2017 sebagaimana telah diubah terakhir dengan Permen ESDM 18/2019, Pasal 1 angka 2](../kutipan/KUT-1535.md). Berlaku: sejak 2020-01-01 s.d. sekarang.

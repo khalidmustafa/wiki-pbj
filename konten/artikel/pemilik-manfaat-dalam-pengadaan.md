@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)
 > - [Peraturan LKPP 3/2026, Pasal 8](../kutipan/KUT-0191.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.1.1 paragraf pemilik manfaat](../kutipan/KUT-0193.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.1.1 pengecekan pemilik manfaat](../kutipan/KUT-0324.md)
@@ -105,7 +105,7 @@ Larangan kesamaan pemilik manfaat di luar Tender dibahas dalam [TJ-0207](../tany
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 13 Tahun 2018, Pasal 1 angka 2, Pasal 3, dan Pasal 4 ([Perpres 13/2018, Pasal 1 angka 2 Pasal 3 Pasal 4](../kutipan/KUT-0231.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf f ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 8 ([Peraturan LKPP 3/2026, Pasal 8](../kutipan/KUT-0191.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.1.1 ([Peraturan LKPP 3/2026, Lampiran I angka 4.1.1 paragraf pemilik manfaat](../kutipan/KUT-0193.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.1.1 ([Peraturan LKPP 3/2026, Lampiran II angka 4.1.1 pengecekan pemilik manfaat](../kutipan/KUT-0324.md)).

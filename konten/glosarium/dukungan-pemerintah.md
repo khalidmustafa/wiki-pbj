@@ -9,7 +9,7 @@ id: GLO-0813
 
 > Dukungan Pemerintah adalah kontribusi fiskal atau nonfiskal yang diberikan oleh menteri, kepala lembaga, dan/atau kepala daerah sesuai kewenangannya masing-masing, berdasarkan peraturan perundang-undangan dalam rangka meningkatkan kelayakan finansial Penyediaan Infrastruktur Prioritas Kerja Sama Pemerintah dan Swasta.
 
-Sumber: [Perpres 122/2016, Pasal 1 angka 4](../kutipan/KUT-1880.md). Berlaku: sejak 2016-12-30 s.d. sekarang.
+Sumber: [Perpres 75/2014 sebagaimana telah diubah terakhir dengan Perpres 122/2016, Pasal 1 angka 4](../kutipan/KUT-1880.md). Berlaku: sejak 2016-12-30 s.d. sekarang.
 
 ### Perpres 38/2015, Pasal 1 angka 12
 

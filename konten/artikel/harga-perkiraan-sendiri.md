@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md)
 > - [Perpres 16/2018, Pasal 26 ayat 1 7](../kutipan/KUT-0226.md)
-> - [Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.2.2 paragraf 1 2](../kutipan/KUT-0437.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.2.3](../kutipan/KUT-0227.md)
 >
@@ -139,8 +139,8 @@ Hubungan antara ketentuan bahwa HPS tidak menjadi dasar perhitungan kerugian neg
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 33 ([Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md)).
-[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) dan ayat (6) ([Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 33 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (5) dan ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
 [^3]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 66 ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
 [^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 14 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 11 ayat (1) huruf e ([Perpres 16/2018, Pasal 11 ayat 1](../kutipan/KUT-0058.md)).
@@ -148,7 +148,7 @@ Hubungan antara ketentuan bahwa HPS tidak menjadi dasar perhitungan kerugian neg
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.2.2 ([Peraturan LKPP 3/2026, Lampiran I angka 2.2.2 paragraf 1 2](../kutipan/KUT-0437.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.2.3 ([Peraturan LKPP 3/2026, Lampiran I angka 2.2.3](../kutipan/KUT-0227.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.2.4 huruf a sampai dengan huruf c ([Peraturan LKPP 3/2026, Lampiran II angka 2.2.4 huruf a c](../kutipan/KUT-0494.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (2) dan ayat (3) ([Perpres 46/2025, Pasal 26 ayat 2 3](../kutipan/KUT-0285.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (2) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 2 3](../kutipan/KUT-0285.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.2.4 huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 2.2.4 huruf d](../kutipan/KUT-0286.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.2.4 huruf e ([Peraturan LKPP 3/2026, Lampiran II angka 2.2.4 huruf e f 2 a 2.3.3.2 huruf a b](../kutipan/KUT-0236.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.2.2 ([Peraturan LKPP 3/2026, Lampiran II angka 2.2.2 paragraf 2 3](../kutipan/KUT-0421.md)).

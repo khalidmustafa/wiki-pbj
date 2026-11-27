@@ -9,7 +9,7 @@ id: GLO-0015
 
 > Unit Kerja Pengadaan Barang/Jasa yang selanjutnya disingkat UKPBJ adalah unit kerja di Kementerian/Lembaga/Pemerintah Daerah yang menjadi pusat keunggulan Pengadaan Barang/Jasa.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 11](../kutipan/KUT-0740.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 18
 

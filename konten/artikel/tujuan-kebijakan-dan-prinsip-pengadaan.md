@@ -17,10 +17,10 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 6](../kutipan/KUT-0317.md)
-> - [Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)
-> - [Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)
-> - [Perpres 46/2025, Pasal 68 ayat 1 2 2b](../kutipan/KUT-0112.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 6](../kutipan/KUT-0317.md)
+> - [Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 68 ayat 1 2 2b](../kutipan/KUT-0112.md)
 >
 > **Glosarium:** [Pengadaan Berkelanjutan](../glosarium/pengadaan-berkelanjutan.md), [Lokapasar Pengadaan Barang/Jasa](../glosarium/lokapasar-pengadaan-barang-jasa.md)
 >
@@ -100,10 +100,10 @@ Persyaratan surat dukungan bahan oleh Pokja Pemilihan dibahas dalam [TJ-0358](..
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 6 ([Perpres 46/2025, Pasal 6](../kutipan/KUT-0317.md)).
-[^2]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 ([Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 ([Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 50 ([Perpres 46/2025, Pasal 1 angka 50](../kutipan/KUT-0775.md)).
-[^5]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 68 ayat (1); Peraturan Presiden Nomor 46 Tahun 2025, Pasal 68 ayat (2) ([Perpres 46/2025, Pasal 68 ayat 1 2 2b](../kutipan/KUT-0112.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 6 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 6](../kutipan/KUT-0317.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 50 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 50](../kutipan/KUT-0775.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 68 ayat (1); Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 68 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 68 ayat 1 2 2b](../kutipan/KUT-0112.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

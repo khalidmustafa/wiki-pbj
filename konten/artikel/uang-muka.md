@@ -17,8 +17,8 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 29 ayat 1 dan 3](../kutipan/KUT-0145.md)
-> - [Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 1 dan 3](../kutipan/KUT-0145.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf a](../kutipan/KUT-0086.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf b sampai f](../kutipan/KUT-0396.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.6](../kutipan/KUT-0400.md)
@@ -101,12 +101,12 @@ Jaminan uang muka yang disediakan pihak pengguna dibahas dalam [TJ-0250](../tany
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (1) dan ayat (3) ([Perpres 46/2025, Pasal 29 ayat 1 dan 3](../kutipan/KUT-0145.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (1) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 1 dan 3](../kutipan/KUT-0145.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.5 huruf b sampai dengan huruf f ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf b sampai f](../kutipan/KUT-0396.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.6 ([Peraturan LKPP 3/2026, Lampiran I angka 6.6](../kutipan/KUT-0400.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.5 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf a](../kutipan/KUT-0086.md)).
 [^5]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 29 ayat (2), bunyi sebelum diubah ([Perpres 16/2018, Pasal 29 ayat 2](../kutipan/KUT-2049.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) ([Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 29 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 29 ayat 2](../kutipan/KUT-0393.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.5 huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.5 huruf b](../kutipan/KUT-0397.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.5 huruf c sampai dengan huruf f ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.5 huruf b sampai f](../kutipan/KUT-0396.md)); Lampiran II angka 2.3.5 ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.5 huruf a c d e f](../kutipan/KUT-0146.md)).
 [^9]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 34 ayat (2) ([Perpres 16/2018, Pasal 34 dan Pasal 35](../kutipan/KUT-2044.md)).

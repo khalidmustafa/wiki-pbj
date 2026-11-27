@@ -9,7 +9,7 @@ id: GLO-0080
 
 > Konstruksi adalah rangkaian kegiatan untuk mewujudkan, memelihara, menghancurkan bangunan yang sebagian dan/atau seluruhnya menyatu dengan tanah atau tempat kedudukannya menyatu dengan tanah.
 
-Sumber: [PP 14/2021, Pasal 1 angka 1](../kutipan/KUT-0840.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 1](../kutipan/KUT-0840.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 9/2021, Pasal 1 angka 4
 

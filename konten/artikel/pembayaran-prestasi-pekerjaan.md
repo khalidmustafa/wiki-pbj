@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 53 ayat 1 2 5](../kutipan/KUT-0204.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 53 ayat 1 2 5](../kutipan/KUT-0204.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.13 huruf a c](../kutipan/KUT-0108.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.13 huruf b d g dan paragraf penutup](../kutipan/KUT-1291.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.13 huruf b e](../kutipan/KUT-0334.md)
@@ -102,7 +102,7 @@ Pembayaran ketika hasil pekerjaan musnah sebelum diperiksa, BAST yang bertanggal
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 53 ayat (1) dan ayat (2) ([Perpres 46/2025, Pasal 53 ayat 1 2 5](../kutipan/KUT-0204.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 53 ayat (1) dan ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 53 ayat 1 2 5](../kutipan/KUT-0204.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.13 paragraf pembuka, huruf a, dan huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 6.13 huruf a c](../kutipan/KUT-0108.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 52 ayat (1) ([Perpres 16/2018, Pasal 52 ayat 1](../kutipan/KUT-0162.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.13 paragraf pembuka dan huruf a ([Peraturan LKPP 3/2026, Lampiran II angka 6.13 paragraf pembuka dan huruf a](../kutipan/KUT-0148.md)).
@@ -111,6 +111,6 @@ Pembayaran ketika hasil pekerjaan musnah sebelum diperiksa, BAST yang bertanggal
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.13 huruf b sampai dengan huruf d ([Peraturan LKPP 3/2026, Lampiran II angka 6.13 huruf b e](../kutipan/KUT-0334.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.13 huruf e dan huruf f ([Peraturan LKPP 3/2026, Lampiran II angka 6.13 huruf e f](../kutipan/KUT-0314.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 7.1 huruf h ([Peraturan LKPP 3/2026, Lampiran II angka 7.1 huruf h](../kutipan/KUT-0247.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 53 ayat (5) ([Perpres 46/2025, Pasal 53 ayat 5](../kutipan/KUT-0378.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 53 ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 53 ayat 5](../kutipan/KUT-0378.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

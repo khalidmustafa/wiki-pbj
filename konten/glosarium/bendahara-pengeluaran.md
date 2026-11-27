@@ -21,4 +21,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 77](../kutipan/KUT-1094.md). Berlaku: sejak 2
 
 > Bendahara Pengeluaran adalah orang yang ditunjuk untuk menerima, menyimpan, membayarkan, menatausahakan, dan mempertanggungjawabkan uang untuk keperluan Belanja Negara dalam pelaksanaan APBN pada kantor/Satker Kementerian/Lembaga.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 110](../kutipan/KUT-1095.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 110](../kutipan/KUT-1095.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

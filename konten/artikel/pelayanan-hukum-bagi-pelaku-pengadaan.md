@@ -71,6 +71,6 @@ Belum ada tanya jawab dalam basis pengetahuan ini yang membahas pelayanan hukum 
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 84 ([Perpres 16/2018, Pasal 84](../kutipan/KUT-0346.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I, Lampiran II, dan Lampiran III angka 9.3 ([Peraturan LKPP 3/2026, Lampiran I II III angka 9.3](../kutipan/KUT-2106.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 ayat (3) huruf c ([Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 70 ayat (3) huruf c ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 70 dan Pasal 71](../kutipan/KUT-2100.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

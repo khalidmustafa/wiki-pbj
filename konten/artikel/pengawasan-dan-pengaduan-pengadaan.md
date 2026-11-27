@@ -19,9 +19,9 @@ tanggal_reviu: '2026-11-25'
 >
 > - [Perpres 16/2018, Pasal 76 ayat 1 3 Pasal 77 ayat 1a 2](../kutipan/KUT-0345.md)
 > - [Perpres 16/2018, Pasal 76 ayat 4 5 6](../kutipan/KUT-2084.md)
-> - [Perpres 46/2025, Pasal 77 ayat 1 3 5](../kutipan/KUT-0433.md)
-> - [Perpres 46/2025, Pasal 76A Pasal 77 ayat 6 7](../kutipan/KUT-2085.md)
-> - [Perpres 46/2025, Pasal 1 angka 22](../kutipan/KUT-0750.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 77 ayat 1 3 5](../kutipan/KUT-0433.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 76A Pasal 77 ayat 6 7](../kutipan/KUT-2085.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 22](../kutipan/KUT-0750.md)
 >
 > **Glosarium:** [Aparat Pengawas Intern Pemerintah](../glosarium/aparat-pengawas-intern-pemerintah.md)
 >
@@ -107,11 +107,11 @@ Pembatalan SPPBJ atas rekomendasi Inspektorat dibahas dalam [TJ-0200](../tanya-j
 ## Rujukan
 
 [^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 76 ayat (1) sampai dengan ayat (3) ([Perpres 16/2018, Pasal 76 ayat 1 3 Pasal 77 ayat 1a 2](../kutipan/KUT-0345.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 77 ayat (1), ayat (3) sampai dengan ayat (5) ([Perpres 46/2025, Pasal 77 ayat 1 3 5](../kutipan/KUT-0433.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 22 ([Perpres 46/2025, Pasal 1 angka 22](../kutipan/KUT-0750.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 77 ayat (1a) dan ayat (2) ([Perpres 16/2018, Pasal 76 ayat 1 3 Pasal 77 ayat 1a 2](../kutipan/KUT-0345.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 76A dan Pasal 77 ayat (6) dan ayat (7) ([Perpres 46/2025, Pasal 76A Pasal 77 ayat 6 7](../kutipan/KUT-2085.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 77 ayat (1), ayat (3) sampai dengan ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 77 ayat 1 3 5](../kutipan/KUT-0433.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 22 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 22](../kutipan/KUT-0750.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 77 ayat (1a) dan ayat (2) ([Perpres 16/2018, Pasal 76 ayat 1 3 Pasal 77 ayat 1a 2](../kutipan/KUT-0345.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 76A dan Pasal 77 ayat (6) dan ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 76A Pasal 77 ayat 6 7](../kutipan/KUT-2085.md)).
 [^6]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 76 ayat (4) sampai dengan ayat (6) ([Perpres 16/2018, Pasal 76 ayat 4 5 6](../kutipan/KUT-2084.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 81 ([Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 81 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

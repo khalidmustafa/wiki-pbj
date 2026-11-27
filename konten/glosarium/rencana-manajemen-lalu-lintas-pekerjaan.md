@@ -9,7 +9,7 @@ id: GLO-0110
 
 > Rencana Manajemen Lalu Lintas Pekerjaan yang selanjutnya disingkat RMLLP adalah dokumen telaah tentang Keselamatan Konstruksi yang memuat analisis, kegiatan, dan koordinasi manajemen lalu lintas.
 
-Sumber: [PP 14/2021, Pasal 1 angka 46](../kutipan/KUT-0892.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 46](../kutipan/KUT-0892.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 8/2023, Pasal 1 angka 20
 

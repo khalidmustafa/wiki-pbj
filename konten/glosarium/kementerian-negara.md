@@ -9,7 +9,7 @@ id: GLO-0007
 
 > Kementerian Negara yang selanjutnya disebut Kementerian adalah perangkat pemerintah yang membidangi urusan tertentu dalam pemerintahan.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 2](../kutipan/KUT-0734.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 2](../kutipan/KUT-0734.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 2
 

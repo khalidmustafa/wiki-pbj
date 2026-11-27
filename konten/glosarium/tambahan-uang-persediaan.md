@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 40](../kutipan/KUT-1143.md). Berlaku: sejak 2
 
 > Tambahan Uang Persediaan yang selanjutnya disingkat TUP adalah uang muka yang diberikan kepada Bendahara Pengeluaran untuk kebutuhan yang sangat mendesak dalam 1 (satu) bulan melebihi UP yang telah ditetapkan.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 125](../kutipan/KUT-1144.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 125](../kutipan/KUT-1144.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

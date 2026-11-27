@@ -9,7 +9,7 @@ id: GLO-0814
 
 > Jaminan Pemerintah adalah jaminan yang diberikan kepada badan usaha dalam Penyediaan Infrastruktur Prioritas Kerja Sama Pemerintah dan Swasta sebagaimana diatur dalam ketentuan peraturan perundang-undangan dalam rangka Penjaminan Infrastruktur dalam Proyek Kerja Sama Pemerintah dengan Badan Usaha.
 
-Sumber: [Perpres 122/2016, Pasal 1 angka 5](../kutipan/KUT-1882.md). Berlaku: sejak 2016-12-30 s.d. sekarang.
+Sumber: [Perpres 75/2014 sebagaimana telah diubah terakhir dengan Perpres 122/2016, Pasal 1 angka 5](../kutipan/KUT-1882.md). Berlaku: sejak 2016-12-30 s.d. sekarang.
 
 ### Perpres 38/2015, Pasal 1 angka 14
 

@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 12/2021, Pasal 85](../kutipan/KUT-2107.md)
+> - [Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 85](../kutipan/KUT-2107.md)
 > - [Perpres 16/2018, Pasal 85 teks asli](../kutipan/KUT-2108.md)
-> - [Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)
-> - [Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)
-> - [PP 14/2021, Pasal 1 angka 34](../kutipan/KUT-0866.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)
+> - [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 34](../kutipan/KUT-0866.md)
 >
 > **Glosarium:** [Dewan Sengketa](../glosarium/dewan-sengketa.md)
 >
@@ -58,7 +58,7 @@ Dalam teks asli Peraturan Presiden Nomor 16 Tahun 2018, penyelesaian sengketa ko
 | Dewan Sengketa Konstruksi | Diatur dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang pekerjaan umum dan perumahan rakyat |
 | Pengadilan | Disebut sebagai salah satu cara dalam Pasal 85 ayat (1) |
 
-Sumber tabel: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 85, dan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf w.[^1][^2]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 85, dan Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf w.[^1][^2]
 
 ### Pengadaan jasa ahli dewan sengketa konstruksi
 
@@ -77,10 +77,10 @@ Belum ada tanya jawab dalam basis pengetahuan ini yang membahas penyelesaian sen
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 85 ([Perpres 12/2021, Pasal 85](../kutipan/KUT-2107.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf w ([Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
-[^3]: Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 34 ([PP 14/2021, Pasal 1 angka 34](../kutipan/KUT-0866.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 85 ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 85](../kutipan/KUT-2107.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 91 ayat (1) huruf w ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 91 ayat 1](../kutipan/KUT-2091.md)).
+[^3]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 34 ([PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 34](../kutipan/KUT-0866.md)).
 [^4]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 85 teks asli ([Perpres 16/2018, Pasal 85 teks asli](../kutipan/KUT-2108.md)).
-[^5]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (5) huruf j ([Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 41 ayat (5) huruf j ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 41 ayat 5](../kutipan/KUT-1268.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

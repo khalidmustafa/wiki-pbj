@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 46](../kutipan/KUT-1153.md). Berlaku: sejak 2
 
 > Surat Perintah Pencairan Dana yang selanjutnya disingkat SP2D adalah surat perintah yang diterbitkan oleh KPPN selaku Kuasa BUN untuk pelaksanaan pengeluaran atas beban APBN berdasarkan SPM.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 116](../kutipan/KUT-1154.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 116](../kutipan/KUT-1154.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

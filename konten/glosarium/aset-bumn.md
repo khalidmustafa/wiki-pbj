@@ -9,4 +9,4 @@ id: GLO-0434
 
 > Aset BUMN adalah segala bentuk barang atau bentuk kekayaan yang dimiliki oleh BUMN yang dapat dinilai dengan uang dan memiliki nilai tukar dan/atau nilai ekonomi.
 
-Sumber: [UU 16/2025, Pasal 1 angka 10](../kutipan/KUT-1372.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 10](../kutipan/KUT-1372.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

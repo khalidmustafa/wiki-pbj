@@ -9,4 +9,4 @@ id: GLO-0347
 
 > Surat Permintaan Pembayaran Langsung yang selanjutnya disingkat SPP-LS adalah dokumen yang diterbitkan oleh PPK dalam rangka pembayaran tagihan kepada penerima hak/Bendahara Pengeluaran.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 126](../kutipan/KUT-1231.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 126](../kutipan/KUT-1231.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

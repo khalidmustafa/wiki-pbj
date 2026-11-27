@@ -9,4 +9,4 @@ id: GLO-0566
 
 > Nilai Ekspor adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh eksportir.
 
-Sumber: [UU 42/2009, Pasal 1 angka 26](../kutipan/KUT-1592.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 26](../kutipan/KUT-1592.md). Berlaku: sejak 2010-04-01 s.d. sekarang.

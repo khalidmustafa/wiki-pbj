@@ -39,4 +39,4 @@ Sumber: [Peraturan LKPP 7/2021, Pasal 1 angka 12](../kutipan/KUT-0912.md). Berla
 
 > Pengadaan Barang/Jasa Pemerintah yang selanjutnya disebut dengan Pengadaan Barang/Jasa adalah kegiatan untuk memperoleh barang/jasa oleh Kementerian/Lembaga/Satker Perangkat Daerah/Institusi yang prosesnya dimulai dari perencanaan kebutuhan sampai diselesaikannya seluruh kegiatan untuk memperoleh barang/jasa.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 98](../kutipan/KUT-1224.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 98](../kutipan/KUT-1224.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

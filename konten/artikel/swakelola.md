@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)
 > - [Perpres 16/2018, Pasal 18 ayat 6 huruf a](../kutipan/KUT-0023.md)
 > - [Perpres 16/2018, Pasal 18 ayat 6 huruf b c d](../kutipan/KUT-0160.md)
 > - [Perpres 16/2018, Pasal 47 ayat 1](../kutipan/KUT-0025.md)
-> - [Perpres 46/2025, Pasal 47 ayat 2 dan 5](../kutipan/KUT-0255.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 47 ayat 2 dan 5](../kutipan/KUT-0255.md)
 >
 > **Glosarium:** [Pengadaan Barang/Jasa melalui Swakelola](../glosarium/pengadaan-barang-jasa-melalui-swakelola.md), [Swakelola](../glosarium/swakelola.md)
 >
@@ -114,24 +114,24 @@ Kewajiban penetapan Penyelenggara Swakelola dibahas dalam [TJ-0434](../tanya-jaw
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 23 ([Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 23 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 23](../kutipan/KUT-0751.md)).
 [^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 3 ayat (3) ([Perpres 16/2018, Pasal 3 ayat 3](../kutipan/KUT-0020.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 18 ayat (6) huruf a ([Perpres 16/2018, Pasal 18 ayat 6 huruf a](../kutipan/KUT-0023.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 17 ([Perpres 46/2025, Pasal 1 angka 17](../kutipan/KUT-0742.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 17 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 17](../kutipan/KUT-0742.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2021, Lampiran angka 1 ([Peraturan LKPP 3/2021, Lampiran angka 1 Pengertian Swakelola](../kutipan/KUT-0028.md)).
 [^6]: Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah, Pasal 26 ayat (1) ([Perpres 54/2010](../regulasi/perpres-54-2010.md); teks asli, naskah JDIH Kemenkeu).
 [^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal I angka 25 ([lihat peraturan](../regulasi/perpres-46-2025.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2021, Pasal 6 ([Peraturan LKPP 3/2021, Pasal 6](../kutipan/KUT-0523.md)).
 [^9]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 18 ayat (6) huruf b sampai dengan huruf d ([Perpres 16/2018, Pasal 18 ayat 6 huruf b c d](../kutipan/KUT-0160.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (2) dan ayat (5) ([Perpres 46/2025, Pasal 47 ayat 2 dan 5](../kutipan/KUT-0255.md)).
-[^11]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (3), ayat (6), ayat (9), dan ayat (10) ([Perpres 46/2025, Pasal 47 ayat 3 6 9 10](../kutipan/KUT-1286.md)).
-[^12]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (4) ([Perpres 46/2025, Pasal 47 ayat 4 dan 5](../kutipan/KUT-0315.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (2) dan ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 47 ayat 2 dan 5](../kutipan/KUT-0255.md)).
+[^11]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (3), ayat (6), ayat (9), dan ayat (10) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 47 ayat 3 6 9 10](../kutipan/KUT-1286.md)).
+[^12]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 47 ayat 4 dan 5](../kutipan/KUT-0315.md)).
 [^13]: Peraturan LKPP Nomor 3 Tahun 2021, Lampiran angka 1.5.2 huruf b ([Peraturan LKPP 3/2021, Lampiran angka 1.5.2 huruf b](../kutipan/KUT-0256.md)).
 [^14]: Peraturan LKPP Nomor 3 Tahun 2021, Pasal 3 ayat (1) dan Pasal 4 ayat (1), ayat (2), dan ayat (4) ([Peraturan LKPP 3/2021, Pasal 3 ayat 1 dan Pasal 4 ayat 1 2 4](../kutipan/KUT-0524.md)).
 [^15]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (1) ([Perpres 16/2018, Pasal 47 ayat 1](../kutipan/KUT-0025.md)).
 [^16]: Peraturan LKPP Nomor 3 Tahun 2021, Lampiran angka 3.1.1 ([Peraturan LKPP 3/2021, Lampiran angka 3.1.1](../kutipan/KUT-0157.md)).
 [^17]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 24 ayat (1) ([Perpres 16/2018, Pasal 24 ayat 1](../kutipan/KUT-0024.md)).
 [^18]: Peraturan LKPP Nomor 3 Tahun 2021, Lampiran angka 3, Pelaksanaan huruf f ([Peraturan LKPP 3/2021, Lampiran angka 3 Pelaksanaan huruf b c f](../kutipan/KUT-0200.md)).
-[^19]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (7) dan ayat (8) ([Perpres 46/2025, Pasal 47 ayat 1 huruf c ayat 7 8](../kutipan/KUT-0280.md)).
+[^19]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 47 ayat (7) dan ayat (8) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 47 ayat 1 huruf c ayat 7 8](../kutipan/KUT-0280.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 11](../kutipan/KUT-1343.md). Berlaku: sejak 20
 
 > Pengambilalihan adalah perbuatan hukum yang dilakukan oleh BUMN dalam rangka mengambil alih saham BUMN dan/atau perseroan terbatas lain yang mengakibatkan beralihnya pengendalian BUMN atau perseroan terbatas lain tersebut.
 
-Sumber: [UU 16/2025, Pasal 1 angka 14](../kutipan/KUT-1344.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 14](../kutipan/KUT-1344.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

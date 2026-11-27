@@ -19,7 +19,7 @@ tanggal_reviu: '2026-11-25'
 > **Dasar hukum utama:**
 >
 > - [Peraturan LKPP 3/2026, Pasal 5](../kutipan/KUT-0094.md)
-> - [Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.3.10](../kutipan/KUT-2143.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 2.3.8 huruf a](../kutipan/KUT-0099.md)
 >
@@ -110,7 +110,7 @@ Subkontrak oleh Penyedia usaha kecil konstruksi dibahas dalam [TJ-0055](../tanya
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Pasal 5 ([Peraturan LKPP 3/2026, Pasal 5](../kutipan/KUT-0094.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 65 ayat (6) dan ayat (7) ([Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 65 ayat (6) dan ayat (7) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 65](../kutipan/KUT-2080.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.10 ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.10](../kutipan/KUT-2143.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.8 huruf a ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.8 huruf a](../kutipan/KUT-0099.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.8 huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.8 huruf b](../kutipan/KUT-0270.md)).

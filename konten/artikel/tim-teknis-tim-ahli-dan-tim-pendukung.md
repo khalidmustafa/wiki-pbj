@@ -18,7 +18,7 @@ tanggal_reviu: '2026-11-25'
 > **Dasar hukum utama:**
 >
 > - [Peraturan LKPP 3/2026, Lampiran I Bab I Pendahuluan tim teknis tim ahli tim pendukung](../kutipan/KUT-0347.md)
-> - [Perpres 46/2025, Pasal 9 ayat 1 huruf k dan Pasal 11 ayat 1 huruf n o](../kutipan/KUT-0333.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 9 ayat 1 huruf k dan Pasal 11 ayat 1 huruf n o](../kutipan/KUT-0333.md)
 > - [Perpres 16/2018, Pasal 13 ayat 4](../kutipan/KUT-0343.md)
 > - [Peraturan LKPP 3/2026, Lampiran I Bab II pengantar persiapan pengadaan](../kutipan/KUT-0718.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.4 6.10 huruf b 6.14.1 huruf h](../kutipan/KUT-2086.md)
@@ -52,7 +52,7 @@ Peraturan LKPP Nomor 3 Tahun 2026 menjelaskan ketiganya sebagai berikut:[^1]
 | Tim pendukung | PPK (Pasal 11 ayat (1) huruf n) |
 | Tim ahli atau tenaga ahli | PPK (Pasal 11 ayat (1) huruf o) |
 
-Sumber tabel: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf k dan Pasal 11 ayat (1) huruf n dan huruf o.[^3]
+Sumber tabel: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf k dan Pasal 11 ayat (1) huruf n dan huruf o.[^3]
 
 Pokja Pemilihan dapat dibantu oleh tim ahli atau tenaga ahli.[^4]
 
@@ -94,9 +94,9 @@ Reviu dokumen persiapan yang hanya dihadiri tim teknis dibahas dalam [TJ-0265](.
 ## Rujukan
 
 [^1]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I Bab I ([Peraturan LKPP 3/2026, Lampiran I Bab I Pendahuluan tim teknis tim ahli tim pendukung](../kutipan/KUT-0347.md)).
-[^2]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf k dan Pasal 11 ayat (1) huruf n dan huruf o ([Perpres 46/2025, Pasal 9 ayat 1 huruf k dan Pasal 11 ayat 1 huruf n o](../kutipan/KUT-0333.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (4) ([Perpres 16/2018, Pasal 13 ayat 4](../kutipan/KUT-0343.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 8 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 8 Pasal 15 dan Pasal 58 konsolidasi](../kutipan/KUT-0587.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ayat (1) huruf k dan Pasal 11 ayat (1) huruf n dan huruf o ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 9 ayat 1 huruf k dan Pasal 11 ayat 1 huruf n o](../kutipan/KUT-0333.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 13 ayat (4) ([Perpres 16/2018, Pasal 13 ayat 4](../kutipan/KUT-0343.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I Bab II ([Peraturan LKPP 3/2026, Lampiran I Bab II pengantar persiapan pengadaan](../kutipan/KUT-0718.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.4, angka 6.10 huruf b, dan angka 6.14.1 huruf h ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.4 6.10 huruf b 6.14.1 huruf h](../kutipan/KUT-2086.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.2 dan Lampiran II angka 2.3.2 ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.2 paragraf 3](../kutipan/KUT-0348.md), [Peraturan LKPP 3/2026, Lampiran II angka 2.3.2 paragraf 3](../kutipan/KUT-0350.md)).

@@ -15,4 +15,4 @@ Sumber: [UU 1/2004, Pasal 1 angka 15](../kutipan/KUT-1087.md). Berlaku: sejak 20
 
 > Bendahara Umum Negara yang selanjutnya disingkat BUN adalah pejabat yang diberi tugas untuk melaksanakan fungsi bendahara umum negara.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 22](../kutipan/KUT-1088.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 22](../kutipan/KUT-1088.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)
 > - [Peraturan LKPP 2/2026, Pasal 1 angka 2](../kutipan/KUT-0913.md)
 > - [Peraturan LKPP 2/2026, Pasal 3 Pasal 4](../kutipan/KUT-1280.md)
 > - [Peraturan LKPP 2/2026, Pasal 6 ayat 1 5 6 Pasal 7 ayat 1 Pasal 8 ayat 1 4](../kutipan/KUT-0487.md)
@@ -95,7 +95,7 @@ Perbedaan antara Penyedia yang tayang di katalog dan pihak yang menandatangani K
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 72 ([Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 72 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 72](../kutipan/KUT-1285.md)).
 [^2]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 3 dan Pasal 4 ([Peraturan LKPP 2/2026, Pasal 3 Pasal 4](../kutipan/KUT-1280.md)).
 [^3]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 1 angka 2 ([Peraturan LKPP 2/2026, Pasal 1 angka 2](../kutipan/KUT-0913.md)).
 [^4]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 1 angka 18 ([Peraturan LKPP 2/2026, Pasal 1 angka 18](../kutipan/KUT-0937.md)).
@@ -112,6 +112,6 @@ Perbedaan antara Penyedia yang tayang di katalog dan pihak yang menandatangani K
 [^15]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 1 angka 24 ([Peraturan LKPP 2/2026, Pasal 1 angka 24](../kutipan/KUT-0945.md)).
 [^16]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 11 ayat (2) dan ayat (6) ([Peraturan LKPP 2/2026, Pasal 11 ayat 2 6](../kutipan/KUT-0530.md)); Pasal 11 ayat (3) sampai dengan ayat (5) ([Peraturan LKPP 2/2026, Pasal 10 Pasal 11 ayat 1 3 4 5](../kutipan/KUT-1281.md)).
 [^17]: Peraturan LKPP Nomor 2 Tahun 2026, Pasal 21 ayat (1), ayat (3), dan ayat (5) ([Peraturan LKPP 2/2026, Pasal 20 ayat 2 Pasal 21 ayat 1 3 5 Pasal 23 huruf a b](../kutipan/KUT-0489.md)).
-[^18]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 80 ayat (1) dan ayat (3) ([Perpres 46/2025, Pasal 80 ayat 1 3](../kutipan/KUT-0486.md)).
+[^18]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 80 ayat (1) dan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 80 ayat 1 3](../kutipan/KUT-0486.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

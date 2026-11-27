@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 9](../kutipan/KUT-1339.md). Berlaku: sejak 202
 
 > Penggabungan adalah perbuatan hukum yang dilakukan oleh 1 (satu) BUMN atau lebih untuk menggabungkan diri dengan BUMN lain yang telah ada yang mengakibatkan aktiva dan pasiva dari BUMN yang menggabungkan diri beralih karena hukum kepada BUMN yang menerima penggabungan dan selanjutnya status badan hukum BUMN yang menggabungkan diri berakhir karena hukum.
 
-Sumber: [UU 16/2025, Pasal 1 angka 12](../kutipan/KUT-1340.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 12](../kutipan/KUT-1340.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

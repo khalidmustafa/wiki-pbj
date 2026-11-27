@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.19 huruf a angka 1 2 dan huruf b](../kutipan/KUT-2070.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 6.19 paragraf pembuka dan huruf a angka 3 5](../kutipan/KUT-0513.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 6.20](../kutipan/KUT-0124.md)
@@ -83,7 +83,7 @@ Pekerjaan yang tetap tidak selesai setelah kesempatan 50 hari dibahas dalam [TJ-
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 56 ([Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 56 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 56](../kutipan/KUT-0123.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.19 paragraf pembuka dan huruf a angka 3) sampai dengan angka 5) ([Peraturan LKPP 3/2026, Lampiran I angka 6.19 paragraf pembuka dan huruf a angka 3 5](../kutipan/KUT-0513.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.20 ([Peraturan LKPP 3/2026, Lampiran II angka 6.20](../kutipan/KUT-0124.md)).
 [^4]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.19 huruf a angka 1) dan angka 2) serta huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 6.19 huruf a angka 1 2 dan huruf b](../kutipan/KUT-2070.md)).

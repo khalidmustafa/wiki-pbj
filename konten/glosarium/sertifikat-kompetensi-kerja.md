@@ -15,4 +15,4 @@ Sumber: [UU 2/2017, Pasal 1 angka 13](../kutipan/KUT-0836.md). Berlaku: sejak 20
 
 > Sertifikat Kompetensi Kerja adalah tanda bukti pengakuan kompetensi tenaga kerja konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 18](../kutipan/KUT-0837.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 18](../kutipan/KUT-0837.md). Berlaku: sejak 2021-02-02 s.d. sekarang.

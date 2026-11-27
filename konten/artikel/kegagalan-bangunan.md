@@ -21,7 +21,7 @@ tanggal_reviu: '2026-11-25'
 > - [UU 2/2017, Pasal 60 ayat 1 2](../kutipan/KUT-0370.md)
 > - [UU 2/2017, Pasal 65 ayat 1 2](../kutipan/KUT-0371.md)
 > - [UU 2/2017, Pasal 60 ayat 3 Pasal 63 Pasal 65 ayat 3 4 Pasal 66 ayat 1 Pasal 67 ayat 1](../kutipan/KUT-0434.md)
-> - [PP 14/2021, Pasal 1 angka 35](../kutipan/KUT-0867.md)
+> - [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 35](../kutipan/KUT-0867.md)
 >
 > **Glosarium:** [Kegagalan Bangunan](../glosarium/kegagalan-bangunan.md), [Penilai Ahli](../glosarium/penilai-ahli.md)
 >
@@ -92,8 +92,8 @@ Tanggul longsor atau jebol setelah serah terima karena musim hujan dibahas dalam
 [^1]: Undang-Undang Nomor 2 Tahun 2017, Pasal 1 angka 10 ([UU 2/2017, Pasal 1 angka 10](../kutipan/KUT-0369.md)).
 [^2]: Undang-Undang Nomor 2 Tahun 2017, Pasal 60 ayat (1) dan ayat (2) ([UU 2/2017, Pasal 60 ayat 1 2](../kutipan/KUT-0370.md)).
 [^3]: Undang-Undang Nomor 2 Tahun 2017, Pasal 65 ayat (1) dan ayat (2) ([UU 2/2017, Pasal 65 ayat 1 2](../kutipan/KUT-0371.md)).
-[^4]: Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 35 ([PP 14/2021, Pasal 1 angka 35](../kutipan/KUT-0867.md)).
+[^4]: Peraturan Pemerintah Nomor 22 Tahun 2020 sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 14 Tahun 2021, Pasal 1 angka 35 ([PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 35](../kutipan/KUT-0867.md)).
 [^5]: Undang-Undang Nomor 2 Tahun 2017, Pasal 60 ayat (3), Pasal 63, Pasal 65 ayat (3) dan ayat (4), Pasal 66 ayat (1), dan Pasal 67 ayat (1) ([UU 2/2017, Pasal 60 ayat 3 Pasal 63 Pasal 65 ayat 3 4 Pasal 66 ayat 1 Pasal 67 ayat 1](../kutipan/KUT-0434.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf b ([Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

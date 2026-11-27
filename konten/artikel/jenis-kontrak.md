@@ -17,9 +17,9 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)
-> - [Perpres 46/2025, Pasal 27 ayat 6 dan 8](../kutipan/KUT-0481.md)
-> - [Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 6 dan 8](../kutipan/KUT-0481.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 2.3.3 dan 2.3.3.1 huruf a c e](../kutipan/KUT-2053.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 2.3.3.1 huruf a](../kutipan/KUT-0352.md)
 >
@@ -125,18 +125,18 @@ Dasar penandatanganan Kontrak tahun jamak dibahas dalam [TJ-0276](../tanya-jawab
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (1) sampai dengan ayat (5), ayat (7), ayat (9), ayat (9a), ayat (10), ayat (10a), dan ayat (11) ([Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (1) sampai dengan ayat (5), ayat (7), ayat (9), ayat (9a), ayat (10), ayat (10a), dan ayat (11) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 1 2 3 4 5 7 9 9a 10 10a 11](../kutipan/KUT-2050.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.3 dan angka 2.3.3.1 huruf a, huruf c, dan huruf e ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.3 dan 2.3.3.1 huruf a c e](../kutipan/KUT-2053.md)).
 [^3]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 27 ayat (1) dan ayat (2), bunyi sebelum diubah ([Perpres 16/2018, Pasal 27 ayat 1 dan 2](../kutipan/KUT-2051.md)).
-[^4]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 27 ayat (1) sampai dengan ayat (4), bunyi sebelum diubah ([Perpres 12/2021, Pasal 27 ayat 1 2 3 4](../kutipan/KUT-2052.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 27 ayat (1) sampai dengan ayat (4), bunyi sebelum diubah ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 27 ayat 1 2 3 4](../kutipan/KUT-2052.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.3.1 huruf a ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.3.1 huruf a](../kutipan/KUT-0352.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (6) dan ayat (8) ([Perpres 46/2025, Pasal 27 ayat 6 dan 8](../kutipan/KUT-0481.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (6) dan ayat (8) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 6 dan 8](../kutipan/KUT-0481.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.3.1 huruf b dan huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.3.1 huruf b dan d](../kutipan/KUT-0483.md)).
 [^8]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.3.1 huruf d dan huruf e ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.3.1 huruf d dan e](../kutipan/KUT-2054.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.3.2 huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.3.2 huruf b paragraf pembayaran](../kutipan/KUT-0562.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 2.3.3.2 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 2.3.3.2 huruf a](../kutipan/KUT-2041.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.3.3.2 huruf a dan huruf b ([Peraturan LKPP 3/2026, Lampiran II angka 2.3.3.2 huruf a b](../kutipan/KUT-0175.md)).
-[^12]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (12) ([Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)).
-[^13]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (1) ([Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)).
+[^12]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 27 ayat (12) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 27 ayat 12](../kutipan/KUT-0137.md)).
+[^13]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 28 ayat (1) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 28 ayat 1 dan 4](../kutipan/KUT-0115.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

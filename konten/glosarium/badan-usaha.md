@@ -9,7 +9,7 @@ id: GLO-0667
 
 > Badan Usaha adalah badan usaha berbentuk badan hukum yang didirikan di wilayah Negara Kesatuan Republik Indonesia dan melakukan usaha dan/atau kegiatan pada bidang tertentu.
 
-Sumber: [PP 39/2023, Pasal 1 angka 19](../kutipan/KUT-1709.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 19](../kutipan/KUT-1709.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
 
 ### Perpres 38/2015, Pasal 1 angka 7
 

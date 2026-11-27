@@ -9,4 +9,4 @@ id: GLO-0677
 
 > Kantor Wilayah Badan Pertanahan Nasional yang selanjutnya disebut Kantor Wilayah adalah instansi vertikal Kementerian di provinsi.
 
-Sumber: [PP 39/2023, Pasal 1 angka 32](../kutipan/KUT-1722.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 32](../kutipan/KUT-1722.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

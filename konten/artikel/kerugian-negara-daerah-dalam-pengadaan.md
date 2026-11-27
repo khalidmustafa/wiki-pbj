@@ -21,7 +21,7 @@ tanggal_reviu: '2026-11-26'
 > - [UU 1/2004, Pasal 59](../kutipan/KUT-0144.md)
 > - [UU 15/2006, Pasal 6 ayat 1 3 Pasal 10](../kutipan/KUT-0601.md)
 > - [UU 30/2014, Pasal 20 ayat 1 2 5 6](../kutipan/KUT-0063.md)
-> - [Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)
 >
 > **Kategori:** [Sanksi dan Pengawasan](../kategori/sanksi-dan-pengawasan.md)
 >
@@ -120,9 +120,9 @@ Alasan HPS tidak menjadi dasar perhitungan kerugian negara, sementara jaminan pe
 [^15]: Undang-Undang Nomor 15 Tahun 2006, Pasal 6 ayat (1) dan ayat (3) dan Pasal 10 ([UU 15/2006, Pasal 6 ayat 1 3 Pasal 10](../kutipan/KUT-0601.md)).
 [^16]: Undang-Undang Nomor 15 Tahun 2004, Pasal 4, Pasal 13, dan Pasal 14 ayat (1) ([UU 15/2004, Pasal 4 ayat 1 4 Pasal 13 Pasal 14 ayat 1](../kutipan/KUT-0600.md)).
 [^17]: Undang-Undang Nomor 30 Tahun 2014, Pasal 20 ayat (1), ayat (2), ayat (5), dan ayat (6) ([UU 30/2014, Pasal 20 ayat 1 2 5 6](../kutipan/KUT-0063.md)).
-[^18]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (6) ([Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
+[^18]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 26 ayat (6) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 26 ayat 5 6 Pasal 30 ayat 2a Pasal 31 ayat 2 Pasal 32 ayat 1](../kutipan/KUT-0589.md)).
 [^19]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 2.2.4 huruf e ([Peraturan LKPP 3/2026, Lampiran II angka 2.2.4 huruf e f 2 a 2.3.3.2 huruf a b](../kutipan/KUT-0236.md)).
-[^20]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) dan ayat (4a) ([Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
+[^20]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) dan ayat (4a) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
 [^21]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf a dan huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a dan d](../kutipan/KUT-0149.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-26. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

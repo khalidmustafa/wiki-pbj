@@ -9,4 +9,4 @@ id: GLO-0569
 
 > Ekspor Jasa Kena Pajak adalah setiap kegiatan penyerahan Jasa Kena Pajak ke luar Daerah Pabean.
 
-Sumber: [UU 42/2009, Pasal 1 angka 29](../kutipan/KUT-1595.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 29](../kutipan/KUT-1595.md). Berlaku: sejak 2010-04-01 s.d. sekarang.

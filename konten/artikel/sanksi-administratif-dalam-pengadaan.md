@@ -17,10 +17,10 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)
-> - [Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)
-> - [Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
-> - [Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)
 > - [Perpres 16/2018, Pasal 79](../kutipan/KUT-2062.md)
 >
 > **Glosarium:** [Sanksi Daftar Hitam](../glosarium/sanksi-daftar-hitam.md)
@@ -43,7 +43,7 @@ Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan 
 
 ## Riwayat pengaturan
 
-Menurut Perpres 12/2021, Pasal 78 ayat (5) memetakan setiap pelanggaran dengan sanksinya. Misalnya, dokumen palsu, persekongkolan, atau korupsi, kolusi, dan nepotisme dalam pemilihan dikenakan sanksi digugurkan, pencairan Jaminan Penawaran, dan Sanksi Daftar Hitam selama 2 tahun, sedangkan keterlambatan menyelesaikan pekerjaan dikenakan sanksi denda keterlambatan.[^14] Perpres 46/2025 menghapus ayat (5) tersebut, menyisipkan ketentuan bahwa sanksi dapat dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha, dan mendelegasikan pengaturan lebih lanjut kepada Peraturan Kepala Lembaga.[^4] Perpres 46/2025 juga menambahkan perbuatan yang dikenai sanksi, antara lain menawarkan atau menyerahkan Produk impor yang seharusnya Produk Dalam Negeri sesuai self declare, menyerahkan Barang dengan nilai tingkat komponen dalam negeri lebih rendah dari yang tertuang dalam Kontrak, dan pemutusan Kontrak secara sepihak oleh PPK karena kesalahan Penyedia.[^2][^3][^14]
+Pasal 78 ayat (5) Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021 memetakan setiap pelanggaran dengan sanksinya. Misalnya, dokumen palsu, persekongkolan, atau korupsi, kolusi, dan nepotisme dalam pemilihan dikenakan sanksi digugurkan, pencairan Jaminan Penawaran, dan Sanksi Daftar Hitam selama 2 tahun, sedangkan keterlambatan menyelesaikan pekerjaan dikenakan sanksi denda keterlambatan.[^14] Perpres 46/2025 menghapus ayat (5) tersebut, menyisipkan ketentuan bahwa sanksi dapat dikenakan pada perorangan, badan usaha, dan/atau pengurus badan usaha, dan mendelegasikan pengaturan lebih lanjut kepada Peraturan Kepala Lembaga.[^4] Perpres 46/2025 juga menambahkan perbuatan yang dikenai sanksi, antara lain menawarkan atau menyerahkan Produk impor yang seharusnya Produk Dalam Negeri sesuai self declare, menyerahkan Barang dengan nilai tingkat komponen dalam negeri lebih rendah dari yang tertuang dalam Kontrak, dan pemutusan Kontrak secara sepihak oleh PPK karena kesalahan Penyedia.[^2][^3][^14]
 
 ## Ketentuan pokok
 
@@ -111,19 +111,19 @@ Penyedia yang SBU-nya dicabut tetapi tetap memenangkan tender dibahas dalam [TJ-
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf a dan huruf b ([Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf c sampai dengan huruf e dan ayat (3) huruf b, huruf c, dan huruf g sampai dengan huruf i, Pasal 80 ayat (4) dan ayat (5), serta Pasal 81 ([Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf a dan huruf f ([Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4), ayat (4a), ayat (4b), dan ayat (5) ([Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf a dan huruf b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf c sampai dengan huruf e dan ayat (3) huruf b, huruf c, dan huruf g sampai dengan huruf i, Pasal 80 ayat (4) dan ayat (5), serta Pasal 81 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf a dan huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf a dan f](../kutipan/KUT-0106.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4), ayat (4a), ayat (4b), dan ayat (5) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a b](../kutipan/KUT-0110.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (2) ([Perpres 46/2025, Pasal 78 ayat 2](../kutipan/KUT-0662.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf d dan huruf e ([Perpres 46/2025, Pasal 78 ayat 3 huruf d e](../kutipan/KUT-0441.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 2](../kutipan/KUT-0662.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (3) huruf d dan huruf e ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 3 huruf d e](../kutipan/KUT-0441.md)).
 [^8]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka 3.1 ([Peraturan LKPP 4/2021, Lampiran II angka III 3.1](../kutipan/KUT-0624.md)).
 [^9]: Peraturan Presiden Nomor 16 Tahun 2018, Pasal 79 ayat (4) dan ayat (5) ([Perpres 16/2018, Pasal 79](../kutipan/KUT-2062.md)).
 [^10]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf b ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a b](../kutipan/KUT-0110.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 6.21 huruf a, huruf b, dan huruf e ([Peraturan LKPP 3/2026, Lampiran II angka 6.21 huruf a b dan e](../kutipan/KUT-0150.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.20 huruf d ([Peraturan LKPP 3/2026, Lampiran I angka 6.20 huruf a dan d](../kutipan/KUT-0149.md)).
-[^13]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 80 ayat (1) sampai dengan ayat (3) ([Perpres 46/2025, Pasal 80 ayat 1 3](../kutipan/KUT-0486.md)).
-[^14]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 78 ayat (1) huruf c dan huruf d, ayat (3), dan ayat (5), bunyi sebelum diubah ([Perpres 12/2021, Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)).
+[^13]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 80 ayat (1) sampai dengan ayat (3) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 80 ayat 1 3](../kutipan/KUT-0486.md)).
+[^14]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 78 ayat (1) huruf c dan huruf d, ayat (3), dan ayat (5), bunyi sebelum diubah ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

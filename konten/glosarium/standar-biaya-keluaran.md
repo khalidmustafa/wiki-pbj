@@ -9,4 +9,4 @@ id: GLO-0336
 
 > Standar Biaya Keluaran yang selanjutnya disingkat SBK adalah indeks biaya yang ditetapkan untuk menghasilkan 1 (satu) volume keluaran.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 60](../kutipan/KUT-1215.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 60](../kutipan/KUT-1215.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

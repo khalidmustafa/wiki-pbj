@@ -18,7 +18,7 @@ tanggal_reviu: '2026-11-26'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)
 > - [PMK 202/2022, Pasal I angka 56 Pasal 125](../kutipan/KUT-2213.md)
 > - [Permendagri 79/2018, Pasal 76 dan 77](../kutipan/KUT-0578.md)
 > - [Peraturan LKPP 5/2021, Pasal 1 Pasal 2 Pasal 3](../kutipan/KUT-2116.md)
@@ -93,7 +93,7 @@ Kerja sama penempatan alat laboratorium di rumah sakit yang tidak berstatus BLUD
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ([Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 61](../kutipan/KUT-2113.md)).
 [^2]: Undang-Undang Nomor 1 Tahun 2004, Pasal 1 angka 23 ([UU 1/2004, Pasal 1 angka 23](../kutipan/KUT-1101.md)).
 [^3]: Peraturan Pemerintah Nomor 12 Tahun 2019, Pasal 1 angka 58 ([PP 12/2019, Pasal 1 angka 58](../kutipan/KUT-1156.md)).
 [^4]: Peraturan Menteri Dalam Negeri Nomor 79 Tahun 2018, Pasal 1 angka 1 ([Permendagri 79/2018, Pasal 1 angka 1](../kutipan/KUT-1157.md)).

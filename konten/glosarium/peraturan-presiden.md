@@ -9,4 +9,4 @@ id: GLO-0451
 
 > Peraturan Presiden adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden untuk menjalankan perintah Peraturan Perundang-undangan yang lebih tinggi atau dalam menyelenggarakan kekuasaan pemerintahan.
 
-Sumber: [UU 15/2019, Pasal 1 angka 6](../kutipan/KUT-1389.md). Berlaku: sejak 2019-10-04 s.d. sekarang.
+Sumber: [UU 12/2011 sebagaimana telah diubah dengan UU 15/2019, Pasal 1 angka 6](../kutipan/KUT-1389.md). Berlaku: sejak 2019-10-04 s.d. sekarang.

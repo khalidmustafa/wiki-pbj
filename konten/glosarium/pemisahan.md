@@ -15,4 +15,4 @@ Sumber: [UU 6/2023, Pasal 1 angka 12](../kutipan/KUT-1345.md). Berlaku: sejak 20
 
 > Pemisahan adalah perbuatan hukum yang dilakukan oleh BUMN untuk memisahkan usaha yang mengakibatkan seluruh aktiva dan pasiva BUMN beralih karena hukum kepada 2 (dua) BUMN atau lebih atau sebagian aktiva dan pasiva BUMN beralih karena hukum kepada 1 (satu) BUMN atau lebih.
 
-Sumber: [UU 16/2025, Pasal 1 angka 15](../kutipan/KUT-1346.md). Berlaku: sejak 2025-10-06 s.d. sekarang.
+Sumber: [UU 19/2003 sebagaimana telah diubah terakhir dengan UU 16/2025, Pasal 1 angka 15](../kutipan/KUT-1346.md). Berlaku: sejak 2025-10-06 s.d. sekarang.

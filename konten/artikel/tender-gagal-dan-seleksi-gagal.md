@@ -17,7 +17,7 @@ tanggal_reviu: '2026-11-26'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.14 huruf a tabel](../kutipan/KUT-2224.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.14 huruf a angka 1 5 huruf b c](../kutipan/KUT-2225.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.2.14 huruf b angka 1 2 dan huruf c](../kutipan/KUT-0522.md)
@@ -125,10 +125,10 @@ Hasil tender yang dibatalkan oleh pimpinan perangkat daerah lalu dilanjutkan den
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 [^2]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.14 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.14 huruf a tabel](../kutipan/KUT-2224.md)).
 [^3]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.14 huruf a angka 1) sampai dengan angka 5), huruf b, dan huruf c ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.14 huruf a angka 1 5 huruf b c](../kutipan/KUT-2225.md)).
-[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 9 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 9](../kutipan/KUT-0731.md)).
 [^5]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.11 huruf g ([Peraturan LKPP 3/2026, Lampiran I 4.2.11 huruf a d e g](../kutipan/KUT-0213.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 6.1 ([Peraturan LKPP 3/2026, Lampiran I angka 6.1 dan 6.2](../kutipan/KUT-1277.md)).
 [^7]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.14 huruf b dan huruf c ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.14 huruf b angka 1 2 dan huruf c](../kutipan/KUT-0522.md), [Peraturan LKPP 3/2026, Lampiran II angka 4.2.14 huruf b angka 7](../kutipan/KUT-0100.md)).

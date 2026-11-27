@@ -15,4 +15,4 @@ Sumber: [PP 12/2019, Pasal 1 angka 45](../kutipan/KUT-1151.md). Berlaku: sejak 2
 
 > Surat Perintah Membayar Langsung yang selanjutnya disingkat SPM-LS adalah dokumen yang diterbitkan oleh PPSPM untuk mencairkan dana yang bersumber dari DIPA dalam rangka pembayaran tagihan kepada penerima hak/Bendahara Pengeluaran.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 111](../kutipan/KUT-1152.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 111](../kutipan/KUT-1152.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

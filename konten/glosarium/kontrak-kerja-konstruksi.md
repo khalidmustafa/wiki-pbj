@@ -15,7 +15,7 @@ Sumber: [UU 2/2017, Pasal 1 angka 8](../kutipan/KUT-0824.md). Berlaku: sejak 201
 
 > Kontrak Kerja Konstruksi selanjutnya disebut Kontrak adalah keseluruhan dokumen Kontrak yang mengatur hubungan hukum antara Pengguna Jasa dengan Penyedia Jasa dalam penyelenggaraan Jasa Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 55](../kutipan/KUT-0825.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 55](../kutipan/KUT-0825.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 10/2021, Pasal 1 angka 10
 

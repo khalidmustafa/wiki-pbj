@@ -15,4 +15,4 @@ Sumber: [UU 2/2012, Pasal 1 angka 8](../kutipan/KUT-1557.md). Berlaku: sejak 201
 
 > Konsultasi Publik adalah proses komunikasi dialogis atau musyawarah antar pihak yang berkepentingan guna mencapai kesepahaman dan kesepakatan dalam Pengadaan Tanah bagi pembangunan untuk Kepentingan Umum.
 
-Sumber: [PP 39/2023, Pasal 1 angka 10](../kutipan/KUT-1558.md). Berlaku: sejak 2023-07-25 s.d. sekarang.
+Sumber: [PP 19/2021 sebagaimana telah diubah terakhir dengan PP 39/2023, Pasal 1 angka 10](../kutipan/KUT-1558.md). Berlaku: sejak 2023-07-25 s.d. sekarang.

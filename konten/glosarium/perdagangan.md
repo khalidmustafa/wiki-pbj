@@ -9,7 +9,7 @@ id: GLO-0553
 
 > Perdagangan adalah kegiatan usaha membeli dan menjual, termasuk kegiatan tukar-menukar barang, tanpa mengubah bentuk dan/atau sifatnya.
 
-Sumber: [UU 42/2009, Pasal 1 angka 12](../kutipan/KUT-1577.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
+Sumber: [UU 8/1983 sebagaimana telah diubah dengan UU 42/2009, Pasal 1 angka 12](../kutipan/KUT-1577.md). Berlaku: sejak 2010-04-01 s.d. sekarang.
 
 ### UU 7/2014, Pasal 1 angka 1
 

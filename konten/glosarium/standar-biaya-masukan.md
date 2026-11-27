@@ -9,4 +9,4 @@ id: GLO-0335
 
 > Standar Biaya Masukan yang selanjutnya disingkat SBM adalah standar biaya yang digunakan sebagai masukan (input) untuk menyusun rincian biaya dalam suatu Keluaran.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 59](../kutipan/KUT-1214.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 59](../kutipan/KUT-1214.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

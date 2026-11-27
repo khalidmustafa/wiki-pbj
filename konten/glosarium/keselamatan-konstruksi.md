@@ -9,7 +9,7 @@ id: GLO-0103
 
 > Keselamatan Konstruksi adalah segala kegiatan keteknikan untuk mendukung Pekerjaan Konstruksi dalam mewujudkan pemenuhan Standar Keamanan, Keselamatan, Kesehatan dan Keberlanjutan yang menjamin keselamatan keteknikan Konstruksi, keselamatan dan kesehatan tenaga kerja, keselamatan publik, dan keselamatan lingkungan.
 
-Sumber: [PP 14/2021, Pasal 1 angka 39](../kutipan/KUT-0870.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 39](../kutipan/KUT-0870.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 8/2023, Pasal 1 angka 16
 

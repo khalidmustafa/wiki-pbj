@@ -15,4 +15,4 @@ Sumber: [Peraturan LKPP 3/2026, Pasal 1 angka 11](../kutipan/KUT-0787.md). Berla
 
 > Daftar Isian Pelaksanaan Anggaran yang selanjutnya disingkat DIPA adalah dokumen pelaksanaan anggaran yang digunakan sebagai acuan pengguna anggaran dalam melaksanakan kegiatan pemerintahan sebagai pelaksanaan APBN.
 
-Sumber: [PMK 107/2024, Pasal 1 angka 75](../kutipan/KUT-1220.md). Berlaku: sejak 2024-12-31 s.d. sekarang.
+Sumber: [PMK 62/2023 sebagaimana telah diubah dengan PMK 107/2024, Pasal 1 angka 75](../kutipan/KUT-1220.md). Berlaku: sejak 2024-12-31 s.d. sekarang.

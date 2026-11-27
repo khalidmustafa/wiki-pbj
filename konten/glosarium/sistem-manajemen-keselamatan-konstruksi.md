@@ -9,7 +9,7 @@ id: GLO-0104
 
 > Sistem Manajemen Keselamatan Konstruksi yang selanjutnya disingkat SMKK adalah bagian dari sistem manajemen pelaksanaan Pekerjaan Konstruksi untuk menjamin terwujudnya Keselamatan Konstruksi.
 
-Sumber: [PP 14/2021, Pasal 1 angka 40](../kutipan/KUT-0873.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
+Sumber: [PP 22/2020 sebagaimana telah diubah terakhir dengan PP 14/2021, Pasal 1 angka 40](../kutipan/KUT-0873.md). Berlaku: sejak 2021-02-02 s.d. sekarang.
 
 ### Permen PUPR 8/2023, Pasal 1 angka 17
 

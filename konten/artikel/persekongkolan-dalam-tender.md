@@ -21,8 +21,8 @@ tanggal_reviu: '2026-11-26'
 > - [UU 5/1999, Pasal 22](../kutipan/KUT-0630.md)
 > - [Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf e f g](../kutipan/KUT-0195.md)
 > - [Peraturan LKPP 3/2026, Lampiran II angka 4.2.7 huruf f](../kutipan/KUT-0325.md)
-> - [Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)
-> - [Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)
 >
 > **Glosarium:** [Persekongkolan atau konspirasi usaha](../glosarium/persekongkolan-atau-konspirasi-usaha.md), [Persaingan usaha tidak sehat](../glosarium/persaingan-usaha-tidak-sehat.md), [Komisi Pengawas Persaingan Usaha](../glosarium/komisi-pengawas-persaingan-usaha.md), [Pemilik Manfaat](../glosarium/pemilik-manfaat.md)
 >
@@ -113,14 +113,14 @@ KSO dua badan usaha yang direkturnya orang yang sama dibahas dalam [TJ-0284](../
 [^4]: Undang-Undang Nomor 5 Tahun 1999, Penjelasan Pasal 22 ([UU 5/1999, Penjelasan Pasal 22](../kutipan/KUT-2226.md)).
 [^5]: Undang-Undang Nomor 5 Tahun 1999, Pasal 1 angka 18 ([UU 5/1999, Pasal 1 angka 18](../kutipan/KUT-1542.md)).
 [^6]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.7 huruf e sampai dengan huruf g ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.7 huruf e f g](../kutipan/KUT-0195.md)).
-[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) huruf c, huruf e, dan huruf g ([Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (1) huruf c, huruf e, dan huruf g ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 1 huruf b c](../kutipan/KUT-0631.md), [Perpres 16/2018, Pasal 7 ayat 1 huruf e f g](../kutipan/KUT-0021.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 7 ayat (2) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 7 ayat 2](../kutipan/KUT-0312.md)).
 [^9]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran II angka 4.2.7 huruf f ([Peraturan LKPP 3/2026, Lampiran II angka 4.2.7 huruf f](../kutipan/KUT-0325.md)).
-[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf f, ayat (3) huruf e, dan ayat (9) ([Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
+[^10]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 51 ayat (2) huruf f, ayat (3) huruf e, dan ayat (9) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 51](../kutipan/KUT-1270.md)).
 [^11]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.14 huruf a angka 2) ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.14 huruf a angka 1 5 huruf b c](../kutipan/KUT-2225.md)).
 [^12]: Peraturan LKPP Nomor 3 Tahun 2026, Lampiran I angka 4.2.13 huruf a ([Peraturan LKPP 3/2026, Lampiran I angka 4.2.13](../kutipan/KUT-2068.md)).
-[^13]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf b ([Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
-[^14]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) dan ayat (4a) ([Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
+[^13]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf b ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf a b](../kutipan/KUT-0196.md)).
+[^14]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (4) dan ayat (4a) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 4 4a 4b](../kutipan/KUT-0625.md)).
 [^15]: Peraturan LKPP Nomor 4 Tahun 2021, Lampiran II angka III angka 3.1 huruf b ([Peraturan LKPP 4/2021, Lampiran II angka III 3.1](../kutipan/KUT-0624.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-26. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.

@@ -9,7 +9,7 @@ id: GLO-0038
 
 > Harga Perkiraan Sendiri yang selanjutnya disingkat HPS adalah perkiraan harga Barang/jasa yang ditetapkan oleh PPK yang telah memperhitungkan biaya tidak langsung, keuntungan dan Pajak Pertambahan Nilai.
 
-Sumber: [Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
+Sumber: [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 33](../kutipan/KUT-0756.md). Berlaku: rumusan Pasal 1 sebagaimana ditetapkan ulang dengan Perpres 46/2025 (berlaku sejak 2025-04-30) s.d. sekarang.
 
 ### Peraturan LKPP 3/2026, Pasal 1 angka 22
 

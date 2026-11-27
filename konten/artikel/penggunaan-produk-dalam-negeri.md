@@ -17,11 +17,11 @@ tanggal_reviu: '2026-11-25'
 >
 > **Dasar hukum utama:**
 >
-> - [Perpres 46/2025, Pasal 66 ayat 1 4](../kutipan/KUT-0253.md)
-> - [Perpres 46/2025, Pasal 66 ayat 5 6 8 9 10](../kutipan/KUT-2078.md)
-> - [Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)
-> - [Perpres 46/2025, Pasal 67](../kutipan/KUT-2079.md)
-> - [Perpres 46/2025, Pasal 1 angka 46a](../kutipan/KUT-0771.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 66 ayat 1 4](../kutipan/KUT-0253.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 66 ayat 5 6 8 9 10](../kutipan/KUT-2078.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 67](../kutipan/KUT-2079.md)
+> - [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 46a](../kutipan/KUT-0771.md)
 >
 > **Glosarium:** [Produk Dalam Negeri](../glosarium/produk-dalam-negeri.md)
 >
@@ -102,13 +102,13 @@ Produk ber-TKDN di katalog yang tidak sesuai kebutuhan dan lebih mahal dibahas d
 
 ## Rujukan
 
-[^1]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 66 ayat (1) sampai dengan ayat (4) ([Perpres 46/2025, Pasal 66 ayat 1 4](../kutipan/KUT-0253.md)).
-[^2]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1a) dan Pasal 66 ayat (7), ayat (11), dan ayat (12) ([Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)).
-[^3]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 67 ([Perpres 46/2025, Pasal 67](../kutipan/KUT-2079.md)).
-[^4]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 46a dan angka 29a ([Perpres 46/2025, Pasal 1 angka 46a](../kutipan/KUT-0771.md), [Perpres 46/2025, Pasal 1 angka 29a](../kutipan/KUT-0755.md)).
-[^5]: Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 huruf b ([Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)); Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 huruf f ([Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
-[^6]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 66 ayat (5), ayat (6), dan ayat (10) ([Perpres 46/2025, Pasal 66 ayat 5 6 8 9 10](../kutipan/KUT-2078.md)).
-[^7]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ayat (1a) ([Perpres 16/2018, Pasal 61 ayat 1a](../kutipan/KUT-0472.md)).
-[^8]: Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf d dan ayat (3) huruf g sampai dengan huruf i ([Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
+[^1]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 66 ayat (1) sampai dengan ayat (4) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 66 ayat 1 4](../kutipan/KUT-0253.md)).
+[^2]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 19 ayat (1a) dan Pasal 66 ayat (7), ayat (11), dan ayat (12) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 19 ayat 1a Pasal 66 ayat 7 11 12](../kutipan/KUT-0477.md)).
+[^3]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 67 ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 67](../kutipan/KUT-2079.md)).
+[^4]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 1 angka 46a dan angka 29a ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 46a](../kutipan/KUT-0771.md), [Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 1 angka 29a](../kutipan/KUT-0755.md)).
+[^5]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah dengan Peraturan Presiden Nomor 12 Tahun 2021, Pasal 4 huruf b ([Perpres 16/2018 sebagaimana telah diubah dengan Perpres 12/2021, Pasal 4](../kutipan/KUT-2075.md)); Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 5 huruf f ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 5](../kutipan/KUT-2076.md)).
+[^6]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 66 ayat (5), ayat (6), dan ayat (10) ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 66 ayat 5 6 8 9 10](../kutipan/KUT-2078.md)).
+[^7]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 61 ayat (1a) ([Perpres 16/2018, Pasal 61 ayat 1a](../kutipan/KUT-0472.md)).
+[^8]: Peraturan Presiden Nomor 16 Tahun 2018 sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 46 Tahun 2025, Pasal 78 ayat (1) huruf d dan ayat (3) huruf g sampai dengan huruf i ([Perpres 16/2018 sebagaimana telah diubah terakhir dengan Perpres 46/2025, Pasal 78 ayat 1 huruf c e ayat 3 huruf b c g i Pasal 80 ayat 4 5 dan Pasal 81](../kutipan/KUT-2061.md)).
 
 > Artikel ini disusun berdasarkan regulasi yang berlaku per 2026-11-25. Bukan sumber hukum; sumber hukum adalah naskah resmi di JDIH.
