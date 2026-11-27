@@ -39,3 +39,5 @@ tanggal_cek: '2026-10-23'
 - [Pasal 61 ayat 1 huruf a ayat 2 ayat 2a dan ayat 3](../kutipan/KUT-2114.md)
 - [Pasal 78 ayat 1 huruf c d ayat 3 dan ayat 5](../kutipan/KUT-2066.md)
 - [Pasal 85](../kutipan/KUT-2107.md)
+- [Pasal I angka 1 pengantar dan Pasal 1 angka 10a 16 27](../kutipan/KUT-2291.md)
+- [Pasal I angka 6 Pasal 11 ayat 3 4](../kutipan/KUT-2292.md)

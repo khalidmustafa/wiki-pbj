@@ -4,10 +4,10 @@ title: Regulasi
 
 Daftar peraturan dalam wiki ini, dikelompokkan menurut jenis dan hierarki peraturan perundang-undangan (Undang-Undang Nomor 12 Tahun 2011 Pasal 7 dan Pasal 8), lalu keputusan dan surat edaran. Dalam tiap kelompok, peraturan terbaru di atas. Setiap halaman peraturan memuat status hukum dan riwayat perubahannya.
 
-Jumlah peraturan: 179. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
+Jumlah peraturan: 181. Belum menemukan peraturan yang Anda cari? [Usulkan penambahan](../usulkan-perbaikan.md).
 
 
-## Undang-Undang (53)
+## Undang-Undang (54)
 
 - [Undang-Undang Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan](./uu-27-2026.md) _(Berlaku)_
 - [Undang-Undang Nomor 4 Tahun 2026 tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan](./uu-4-2026.md) _(Berlaku)_
@@ -40,6 +40,7 @@ Jumlah peraturan: 179. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah](./uu-42-2009.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik](./uu-25-2009.md) _(Berlaku)_
 - [Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung](./uu-3-2009.md) _(Berlaku)_
+- [Undang-Undang Nomor 2 Tahun 2009 tentang Lembaga Pembiayaan Ekspor Indonesia](./uu-2-2009.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan](./uu-36-2008.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah](./uu-20-2008.md) _(Berlaku dengan perubahan)_
 - [Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik](./uu-14-2008.md) _(Berlaku dengan perubahan)_
@@ -132,7 +133,7 @@ Jumlah peraturan: 179. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Keputusan Presiden Nomor 14 Tahun 1971 tentang Pedoman Pelaksanaan Anggaran Pendapatan dan Belandja Negara Tahun 1971/1972](./keppres-14-1971.md) _(Tidak berlaku (masa berlaku berakhir))_
 - [Keputusan Presiden Nomor 33 Tahun 1969 tentang Pedoman Pelaksanaan Anggaran dan Pendapatan dan Belanja Negara Tahun 1969/1970](./keppres-33-1969.md) _(Tidak berlaku (masa berlaku berakhir))_
 
-## Peraturan Menteri (43)
+## Peraturan Menteri (44)
 
 - [Peraturan Menteri Keuangan Nomor 41 Tahun 2026 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan Pelaporan Keuangan](./pmk-41-2026.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 17 Tahun 2026 tentang Pedoman Penyusunan Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2027](./permendagri-17-2026.md) _(Berlaku)_
@@ -155,6 +156,7 @@ Jumlah peraturan: 179. Belum menemukan peraturan yang Anda cari? [Usulkan penamb
 - [Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 6 Tahun 2022 tentang Pengelolaan Kinerja Pegawai Aparatur Sipil Negara](./permen-panrb-6-2022.md) _(Berlaku)_
 - [Peraturan Menteri Energi dan Sumber Daya Mineral Nomor 5 Tahun 2022 tentang Organisasi dan Tata Kerja Balai Besar Pengujian Minyak dan Gas Bumi](./permen-esdm-5-2022.md) _(Berlaku dengan perubahan)_
 - [Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor 1 Tahun 2022 tentang Pedoman Penyusunan Perkiraan Biaya Pekerjaan Konstruksi Bidang Pekerjaan Umum dan Perumahan Rakyat](./permen-pupr-1-2022.md) _(Dicabut)_
+- [Peraturan Menteri Keuangan Nomor 208/PMK.06/2021 tentang Prinsip Tata Kelola, Prinsip Manajemen Risiko, dan Prinsip Mengenal Nasabah Lembaga Pembiayaan Ekspor Indonesia](./pmk-208-2021.md) _(Berlaku)_
 - [Peraturan Menteri Keuangan Nomor 132/PMK.05/2021 tentang Perubahan Kedua atas Peraturan Menteri Keuangan Nomor 168/PMK.05/2015 tentang Mekanisme Pelaksanaan Anggaran Bantuan Pemerintah pada Kementerian Negara/Lembaga](./pmk-132-pmk-05-2021.md) _(Berlaku)_
 - [Peraturan Menteri Dalam Negeri Nomor 24 Tahun 2021 tentang Perubahan atas Peraturan Menteri Dalam Negeri Nomor 53 Tahun 2017 tentang Pedoman Pelaksanaan Kegiatan dan Anggaran di Lingkungan Kementerian Dalam Negeri](./permendagri-24-2021.md) _(Berlaku)_
 - [Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 22 Tahun 2021 tentang Pola Karier Pegawai Negeri Sipil](./permen-panrb-22-2021.md) _(Berlaku)_

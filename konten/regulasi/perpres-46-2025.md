@@ -190,4 +190,5 @@ tanggal_cek: '2026-10-23'
 - [Pasal 85](../kutipan/KUT-0366.md)
 - [Pasal 88 huruf b c](../kutipan/KUT-0466.md)
 - [Pasal 91 ayat 1](../kutipan/KUT-2091.md)
+- [Pasal I angka 9 Pasal 14](../kutipan/KUT-2295.md)
 - [Pasal I angka 32 33 Bagian Kelima dan Pasal 63](../kutipan/KUT-2095.md)
