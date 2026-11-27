@@ -213,6 +213,7 @@ plugins:
     enabled: true
     options:
       links:
+        KMP: https://kmp.co.id
         Lisensi CC BY 4.0: https://wiki.pengadaan.id/lisensi
         Penafian: https://wiki.pengadaan.id/penafian
         Usulkan perbaikan: https://wiki.pengadaan.id/usulkan-perbaikan
