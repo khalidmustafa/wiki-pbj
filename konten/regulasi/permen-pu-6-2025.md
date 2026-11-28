@@ -19,3 +19,10 @@ tanggal_cek: '2026-10-23'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Lampiran I huruf A A.3 huruf f angka 1 3 dan huruf g](../kutipan/KUT-2358.md)
+- [Lampiran I huruf A A.3 huruf h angka 1 huruf a dan angka 2 huruf b](../kutipan/KUT-2363.md)
+- [Lampiran I huruf A A.3 huruf i angka 1 huruf a b dan angka 2 huruf b](../kutipan/KUT-2364.md)
+- [Pasal 1 angka 14](../kutipan/KUT-2362.md)

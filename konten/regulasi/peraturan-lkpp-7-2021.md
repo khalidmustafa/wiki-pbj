@@ -23,6 +23,7 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 ## Kutipan pasal
 
 - [Lampiran I BAB IV huruf B huruf b huruf C angka 2 huruf D](../kutipan/KUT-0603.md)
+- [Lampiran II huruf A angka 2 dan 3](../kutipan/KUT-0685.md)
 - [Pasal 1 angka 1](../kutipan/KUT-0958.md)
 - [Pasal 1 angka 2](../kutipan/KUT-0959.md)
 - [Pasal 1 angka 3](../kutipan/KUT-0960.md)
@@ -56,4 +57,5 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [Pasal 1 angka 31](../kutipan/KUT-0982.md)
 - [Pasal 1 angka 32](../kutipan/KUT-0983.md)
 - [Pasal 1 angka 33](../kutipan/KUT-0984.md)
+- [Pasal 12 ayat 2 4 dan Pasal 25 ayat 1 2 4](../kutipan/KUT-0690.md)
 - [Pasal 28](../kutipan/KUT-0172.md)

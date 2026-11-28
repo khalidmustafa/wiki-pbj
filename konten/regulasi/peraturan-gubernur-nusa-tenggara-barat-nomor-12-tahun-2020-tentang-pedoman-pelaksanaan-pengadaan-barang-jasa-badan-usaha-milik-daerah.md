@@ -19,3 +19,12 @@ tanggal_cek: '2026-11-28'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Pasal 3](../kutipan/KUT-2343.md)
+- [Pasal 9](../kutipan/KUT-2344.md)
+- [Pasal 10](../kutipan/KUT-2345.md)
+- [Pasal 11](../kutipan/KUT-2346.md)
+- [Pasal 12](../kutipan/KUT-2347.md)
+- [Pasal 16](../kutipan/KUT-2348.md)

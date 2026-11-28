@@ -10,6 +10,7 @@ title: 'Kategori: Swakelola'
 ## Tanya jawab
 
 - [Apakah kegiatan pembangunan drainase dapat dilaksanakan secara swakelola](../tanya-jawab/TJ-0479.md)
+- [Apakah pengadaan tenaga kebersihan setahun yang direncanakan, dilaksanakan, dan diawasi pemerintah termasuk Swakelola Tipe I](../tanya-jawab/TJ-0614.md)
 - [Apakah swakelola berlaku untuk semua jenis kegiatan](../tanya-jawab/TJ-0235.md)
 - [Apakah swakelola wajib memiliki SK penetapan penyelenggara swakelola, dan apakah ada batas nilai pagu (contoh pemeliharaan kantor Rp7,5 juta)](../tanya-jawab/TJ-0434.md)
 - [Belanja barang untuk diserahkan kepada masyarakat](../tanya-jawab/TJ-0078.md)
@@ -24,6 +25,7 @@ title: 'Kategori: Swakelola'
 - [Swakelola pengecatan gedung kantor: hanya upah atau termasuk pengadaan bahan](../tanya-jawab/TJ-0011.md)
 - [Swakelola tipe I memakai perusahaan penyedia untuk tenaga kerja](../tanya-jawab/TJ-0194.md)
 - [Swakelola tipe I: anggaran bertambah setelah pencairan tahap I, apakah SPK perlu diubah](../tanya-jawab/TJ-0264.md)
+- [Swakelola tipe I: bolehkah memakai e-purchasing atau menyerahkan pekerjaan berbobot tertinggi (pekerjaan mayor) kepada Penyedia](../tanya-jawab/TJ-0593.md)
 - [Swakelola tipe II oleh perguruan tinggi negeri: syarat, batas nilai, dan pertanggungjawaban](../tanya-jawab/TJ-0231.md)
 - [Swakelola tipe IV dengan Kontrak November 2026 selama 120 hari sehingga selesai Maret 2027: adakah aturan tahun jamak dan amankah pelaksanaan fisik melewati tahun anggaran](../tanya-jawab/TJ-0512.md)
 - [Swakelola tipe IV: bila KPA menerbitkan SK penetapan per individu, apakah termasuk Kelompok Masyarakat](../tanya-jawab/TJ-0527.md)

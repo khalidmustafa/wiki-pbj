@@ -42,6 +42,7 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 - [Lampiran angka 6 Swakelola tipe IV pelaksanaan pengawasan serah terima](../kutipan/KUT-0316.md)
 - [Lampiran angka 6.1.1](../kutipan/KUT-0629.md)
 - [Lampiran angka 6.1.5 paragraf kebutuhan melalui Penyedia tipe IV dan 6.1.6 paragraf penutup](../kutipan/KUT-0180.md)
+- [Lampiran angka 8 Model Kontrak Swakelola angka 6](../kutipan/KUT-2090.md)
 - [Lampiran angka 8 Model Kontrak Swakelola para pihak](../kutipan/KUT-0293.md)
 - [Pasal 3 ayat 1 dan Pasal 4 ayat 1 2 4](../kutipan/KUT-0524.md)
 - [Pasal 6](../kutipan/KUT-0523.md)

@@ -60,6 +60,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 10 Pasal 11 ayat 1 3 4 5](../kutipan/KUT-1281.md)
 - [Pasal 11 ayat 2 6](../kutipan/KUT-0530.md)
 - [Pasal 12 ayat 1 6](../kutipan/KUT-0223.md)
+- [Pasal 12 ayat 7 8](../kutipan/KUT-0699.md)
 - [Pasal 12 ayat 9 sampai 11](../kutipan/KUT-0155.md)
 - [Pasal 13](../kutipan/KUT-0228.md)
 - [Pasal 14 ayat 1 4 5](../kutipan/KUT-0239.md)

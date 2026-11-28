@@ -24,7 +24,9 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 
 - [Pasal 1 angka 23 sampai dengan 26](../kutipan/KUT-2124.md)
 - [Pasal 2 Pasal 3 ayat 4 Pasal 8 Pasal 9 ayat 1 2 dan Pasal 10](../kutipan/KUT-2129.md)
+- [Pasal 7](../kutipan/KUT-0719.md)
 - [Pasal 13 ayat 1 2 Pasal 17 ayat 1 3 Pasal 18](../kutipan/KUT-0696.md)
+- [Pasal 13 ayat 8](../kutipan/KUT-2338.md)
 - [Pasal 22 ayat 1 2 dan Pasal 23 ayat 1 3](../kutipan/KUT-2130.md)
 - [Pasal 24](../kutipan/KUT-2125.md)
 - [Pasal 25 ayat 1 sampai dengan 4 dan Pasal 26 ayat 1 3 5 6](../kutipan/KUT-2126.md)

@@ -24,7 +24,10 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 
 ## Kutipan pasal
 
+- [Angka 9 huruf d kalimat pembuka](../kutipan/KUT-1298.md)
+- [angka 5 dan angka 7](../kutipan/KUT-2040.md)
 - [angka 6 huruf a dan angka 9](../kutipan/KUT-0287.md)
+- [angka 9 huruf a](../kutipan/KUT-2342.md)
 - [angka 9 huruf b](../kutipan/KUT-0269.md)
 - [angka 9 huruf c e f](../kutipan/KUT-0384.md)
 - [angka 9 huruf d](../kutipan/KUT-0428.md)

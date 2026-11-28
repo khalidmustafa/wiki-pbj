@@ -22,6 +22,7 @@ Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
 
 ## Kutipan pasal
 
+- [Lampiran Bab III huruf A angka 2](../kutipan/KUT-0714.md)
 - [Pasal 1 angka 1](../kutipan/KUT-0985.md)
 - [Pasal 1 angka 2](../kutipan/KUT-0923.md)
 - [Pasal 1 angka 3](../kutipan/KUT-0986.md)

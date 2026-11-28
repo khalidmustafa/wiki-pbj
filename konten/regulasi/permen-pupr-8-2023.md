@@ -25,6 +25,7 @@ tanggal_cek: '2026-10-23'
 
 ## Kutipan pasal
 
+- [Lampiran Bagian Umum B U.1.1.2 c](../kutipan/KUT-0642.md)
 - [Lampiran U.3.4.6 Tabel B.1](../kutipan/KUT-0571.md)
 - [Pasal 1 angka 1](../kutipan/KUT-1002.md)
 - [Pasal 1 angka 2](../kutipan/KUT-1003.md)
@@ -48,6 +49,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 1 angka 20](../kutipan/KUT-0893.md)
 - [Pasal 1 angka 21](../kutipan/KUT-1015.md)
 - [Pasal 1 angka 22](../kutipan/KUT-0869.md)
+- [Pasal 2 ayat 1 Pasal 18 Pasal 19 ayat 5 6](../kutipan/KUT-0646.md)
 - [Pasal 4 ayat 2 3](../kutipan/KUT-0492.md)
 - [Pasal 11 ayat 1 dan 3](../kutipan/KUT-0493.md)
 - [Pasal 14 ayat 2 Pasal 22 ayat 1 3 4](../kutipan/KUT-0570.md)

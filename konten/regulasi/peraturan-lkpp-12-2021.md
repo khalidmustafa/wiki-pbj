@@ -34,9 +34,13 @@ tanggal_cek: '2026-10-23'
 
 - [Lampiran II angka 2.3.2.5 sifat jaminan huruf a angka 1 2 5 huruf b angka 1](../kutipan/KUT-0584.md)
 - [Lampiran II angka 7.3.3 paragraf pihak berwenang menandatangani](../kutipan/KUT-0250.md)
+- [Lampiran II angka 7.10](../kutipan/KUT-0675.md)
 - [Lampiran II angka 7.11 paragraf SCM SP](../kutipan/KUT-0361.md)
 - [Lampiran II angka 7.14](../kutipan/KUT-0638.md)
+- [Lampiran II angka 7.16 paragraf perubahan waktu melampaui tahun anggaran](../kutipan/KUT-0653.md)
 - [Lampiran II angka 7.18.1](../kutipan/KUT-0362.md)
+- [Lampiran II angka 7.19](../kutipan/KUT-0681.md)
+- [Lampiran II angka 7.20 paragraf pembuka dan huruf a](../kutipan/KUT-0652.md)
 - [Lampiran II angka 8.1 huruf a d](../kutipan/KUT-0639.md)
 - [Lampiran II angka 8.1 huruf g](../kutipan/KUT-0274.md)
 - [Lampiran II angka 8.2 huruf a c f g](../kutipan/KUT-0275.md)

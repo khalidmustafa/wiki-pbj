@@ -36,6 +36,7 @@ tanggal_cek: '2026-10-23'
 - [Pasal 1 angka 12](../kutipan/KUT-0067.md)
 - [Pasal 1 angka 14 15 dan Pasal 58 teks asli](../kutipan/KUT-0586.md)
 - [Pasal 1 angka 27 teks asli](../kutipan/KUT-2290.md)
+- [Pasal 1 angka 30](../kutipan/KUT-0651.md)
 - [Pasal 1 angka 42 dan Pasal 50 ayat 11 teks asli](../kutipan/KUT-2314.md)
 - [Pasal 3 ayat 1](../kutipan/KUT-0038.md)
 - [Pasal 3 ayat 2](../kutipan/KUT-2109.md)

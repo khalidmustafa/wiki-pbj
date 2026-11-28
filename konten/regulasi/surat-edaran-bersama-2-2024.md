@@ -20,3 +20,7 @@ tanggal_cek: '2026-10-23'
 ## Riwayat perubahan
 
 Belum tercatat perubahan atau pencabutan dalam basis data wiki ini.
+
+## Kutipan pasal
+
+- [Lampiran I Pasal 1 angka 9 dan Pasal 12 ayat 5](../kutipan/KUT-2337.md)
